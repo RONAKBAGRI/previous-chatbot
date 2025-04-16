@@ -1,0 +1,170 @@
+{
+    "intents": [
+      {
+        "tag": "student_affairs_section",
+        "patterns": [
+          "Student Affairs at IIT Jammu",
+          "What is the Student Affairs Section?",
+          "Tell me about the Student Affairs Section"
+        ],
+        "responses": [
+          "Welcome to the Student Affairs Section of IIT Jammu. This office provides a supportive and enriching environment for students, focusing on both academic success and personal growth."
+        ]
+      },
+      {
+        "tag": "student_affairs_message",
+        "patterns": [
+          "What is the message from the Student Affairs Office?",
+          "Tell me about the message for Student Affairs",
+          "What does the Student Affairs section say?"
+        ],
+        "responses": [
+          "The Student Affairs Office serves as the central hub for all aspects of student life, aiming to foster a supportive environment for academic excellence and personal development."
+        ]
+      },
+      {
+        "tag": "hostel_life",
+        "patterns": [
+          "Tell me about the hostel life at IIT Jammu",
+          "What is the hostel experience like?",
+          "How is the campus hostel at IIT Jammu?"
+        ],
+        "responses": [
+          "Campus Hostel life at IIT Jammu is vital for learning independence and self-sufficiency. The institute offers three hostels at the main campus and two at the satellite campus, providing all basic amenities."
+        ]
+      },
+      {
+        "tag": "mess_facilities",
+        "patterns": [
+          "What are the mess facilities at IIT Jammu?",
+          "Tell me about the mess at IIT Jammu",
+          "What food options are available at IIT Jammu?"
+        ],
+        "responses": [
+          "The institute provides healthy and delicious meals through Mess Canary, Mess Breag, and Mess Egret, ensuring students' overall well-being."
+        ]
+      },
+      {
+        "tag": "student_activities",
+        "patterns": [
+          "What student activities are available at IIT Jammu?",
+          "Tell me about student activities at IIT Jammu",
+          "What extracurricular activities can students engage in?"
+        ],
+        "responses": [
+          "The Student Activities Section offers a variety of clubs, including technical, cultural, social, adventure clubs, and the EK Bharat Shrestha Bharat initiative, providing ample opportunities for student involvement."
+        ]
+      },
+      {
+        "tag": "sports_facilities",
+        "patterns": [
+          "What sports facilities are available at IIT Jammu?",
+          "Tell me about sports at IIT Jammu",
+          "What sports are offered at IIT Jammu?"
+        ],
+        "responses": [
+          "The Sports Section offers a range of facilities for sports like cricket, football, basketball, volleyball, athletics, and more, with qualified trainers to help students improve their skills."
+        ]
+      },
+      {
+        "tag": "student_affairs_office",
+        "patterns": [
+          "What is the role of the Student Affairs Office?",
+          "Tell me about the Student Affairs Office",
+          "What does the Student Affairs Office do?"
+        ],
+        "responses": [
+          "The Student Affairs Office provides health insurance, accidental coverage, travel support, certificates, financial assistance, and manages student welfare funds, among other responsibilities."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_sartaj_ul_hasan",
+        "patterns": [
+          "Who is Sartaj Ul Hasan?",
+          "Tell me about Sartaj Ul Hasan",
+          "What is Sartaj Ul Hasan's role?"
+        ],
+        "responses": [
+          "Sartaj Ul Hasan is the Dean of Student Affairs at IIT Jammu. You can contact him at dean.sw@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_anup_shukla",
+        "patterns": [
+          "Who is Anup Shukla?",
+          "Tell me about Anup Shukla",
+          "What is Anup Shukla's role?"
+        ],
+        "responses": [
+          "Anup Shukla is the Associate Dean of Hostel Affairs and Mess Management at IIT Jammu. You can contact him at anup.shukla@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_arvind_kumar",
+        "patterns": [
+          "Who is Arvind Kumar?",
+          "Tell me about Arvind Kumar",
+          "What is Arvind Kumar's role?"
+        ],
+        "responses": [
+          "Arvind Kumar is the Associate Dean of Student Activities at IIT Jammu. You can contact him at arvind.kumar@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_devi_lal",
+        "patterns": [
+          "Who is Devi Lal?",
+          "Tell me about Devi Lal",
+          "What is Devi Lal's role?"
+        ],
+        "responses": [
+          "Devi Lal is the Associate Dean of Sports, Student Welfare, and Wellness at IIT Jammu. You can contact him at devi.lal@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_r_p_prajapat",
+        "patterns": [
+          "Who is R. P. Prajapat?",
+          "Tell me about R. P. Prajapat",
+          "What is R. P. Prajapat's role?"
+        ],
+        "responses": [
+          "R. P. Prajapat is the Assistant Registrar at the Student Affairs Office of IIT Jammu. You can contact him at ar.sw@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_anish_koul",
+        "patterns": [
+          "Who is Anish Koul?",
+          "Tell me about Anish Koul",
+          "What is Anish Koul's role?"
+        ],
+        "responses": [
+          "Anish Koul is the Caretaker-cum-Manager for the Student Affairs Office at IIT Jammu. You can contact him at anish.koul@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_raj_srivastava",
+        "patterns": [
+          "Who is Raj Srivastava?",
+          "Tell me about Raj Srivastava",
+          "What is Raj Srivastava's role?"
+        ],
+        "responses": [
+          "Raj Srivastava is the Assistant Sports Officer at IIT Jammu. You can contact him at raj.srivastava@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "student_affairs_team_rehana_rasool",
+        "patterns": [
+          "Who is Rehana Rasool?",
+          "Tell me about Rehana Rasool",
+          "What is Rehana Rasool's role?"
+        ],
+        "responses": [
+          "Rehana Rasool is the Mess Manager at IIT Jammu. You can contact her at rehana.rasool@iitjammu.ac.in."
+        ]
+      }
+    ]
+  }
+  

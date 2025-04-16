@@ -1,0 +1,2797 @@
+{
+    "intents": [
+        {
+            "tag": "ragging_policy",
+            "patterns": [
+            "What is ragging policy?", 
+            "Tell me about ragging rules",
+            "What are the guidelines for ragging?",
+            "Are there rules against ragging?"
+            ],
+            "responses": [
+            "Ragging at IIT Campus is strictly prohibited and is a punishable offense as per the institute's honor code."
+            ]
+        },
+        {
+            "tag": "supreme_court_guidelines",
+            "patterns": [
+            "What are Supreme Court guidelines on ragging?",
+            "Supreme Court rules about ragging",
+            "Legal guidelines for ragging",
+            "Court orders on ragging"
+            ],
+            "responses": [
+            "There are strict guidelines from the Hon'ble Supreme Court to prevent ragging at the institute campuses."
+            ]
+        },
+        {
+            "tag": "ragging_reporting",
+            "patterns": [
+            "Where to report ragging?",
+            "How to complain about ragging?",
+            "Who should I inform about ragging?",
+            "Contact for reporting ragging"
+            ],
+            "responses": [
+            "Please report any incident of ragging to the Hostel Management and Dean of Students immediately."
+            ]
+        },
+        {
+            "tag": "anti_ragging_notification_1",
+            "patterns": [
+            "Show me notification from August 2021",
+            "What was the anti-ragging notification in August 2021?", 
+            "Tell me about August 2021 anti-ragging notification",
+            "Find August 2021 anti-ragging notice"
+            ],
+            "responses": [
+            "Notification regarding Anti-Ragging Committee was issued on 17.08.2021. You can view it at https://iitjammu.ac.in/notification-anti-ragging-committee-17-08-2021"
+            ]
+        },
+        {
+            "tag": "anti_ragging_notification_2", 
+            "patterns": [
+            "Show me notification from October 2022",
+            "What was the anti-ragging notification in October 2022?",
+            "Tell me about October 2022 anti-ragging notification", 
+            "Find October 2022 anti-ragging notice"
+            ],
+            "responses": [
+            "Notification regarding Anti-Ragging Committee was issued on 10.10.2022. You can view it at https://iitjammu.ac.in/notification-anti-ragging-committee-10-10-2022"
+            ]
+        },
+        {
+            "tag": "anti_ragging_standing_committee",
+            "patterns": [
+            "Tell me about standing anti-ragging committee",
+            "Show standing committee details for anti-ragging",
+            "What are the standing committees for anti-ragging?",
+            "Find information about anti-ragging standing committee"
+            ],
+            "responses": [
+            "Details about Standing Committees in Student Affairs section (Anti Ragging Committee) can be found at https://iitjammu.ac.in/standing-committees-student-affairs-anti-ragging"
+            ]
+        },
+        {
+            "tag": "anti_ragging_squad",
+            "patterns": [
+            "Tell me about anti-ragging squad 2024",
+            "Who is in the anti-ragging squad?",
+            "Show me anti-ragging squad members",
+            "Find anti-ragging squad information"
+            ],
+            "responses": [
+            "Details about the Anti Ragging Squad-2024 can be found at https://iitjammu.ac.in/anti-ragging-squad-2024"
+            ]
+        },
+        {
+            "tag": "anti_ragging_arc_ars",
+            "patterns": [
+            "What are ARC and ARS?",
+            "Tell me about anti-ragging ARC and ARS",
+            "Show ARC and ARS details",
+            "Find information about ARC and ARS"
+            ],
+            "responses": [
+            "Details about Anti Ragging Committee (ARC) & Anti Ragging Squad (ARS) can be found at https://iitjammu.ac.in/anti-ragging-details-arc-ars"
+            ]
+        },
+        {
+            "tag": "director_anti_ragging_message",
+            "patterns": [
+            "What does the director say about ragging?",
+            "Show director's message on anti-ragging",
+            "Find director's statement about ragging",
+            "Tell me director's views on ragging"
+            ],
+            "responses": [
+            "You can read the Director's message on Anti-Ragging at https://iitjammu.ac.in/directors-message-anti-ragging"
+            ]
+        },
+        {
+            "tag": "hostel_ragging_report",
+            "patterns": [
+            "How to report ragging in hostel?",
+            "Where can I complain about hostel ragging?",
+            "Whom to contact for hostel ragging?",
+            "Process to report hostel ragging"
+            ],
+            "responses": [
+            "You should immediately report any ragging incidents to the Hostel Management who will take appropriate action"
+            ]
+        },
+        {
+            "tag": "dean_ragging_report",
+            "patterns": [
+            "How to report ragging to dean?",
+            "Process to inform dean about ragging",
+            "Where can I complain to dean about ragging?",
+            "Whom to contact in dean office for ragging?"
+            ],
+            "responses": [
+            "You should report any incidents of ragging to the Dean of Students who will address the issue promptly"
+            ]
+        },
+        {
+            "tag": "caste_discrimination_policy",
+            "patterns": [
+            "What is IIT policy on caste discrimination?",
+            "Are there rules against caste discrimination?",
+            "Tell me about caste discrimination guidelines",
+            "How does IIT handle caste discrimination?"
+            ],
+            "responses": [
+            "IIT Jammu strictly prohibits any discrimination based on caste or social origin by officials, faculty or staff members"
+            ]
+        },
+        {
+            "tag": "sc_st_liaison_officer",
+            "patterns": [
+            "Who is SC/ST liaison officer?",
+            "Contact details of SC/ST liaison officer",
+            "How to reach SC/ST liaison officer?",
+            "Who handles SC/ST student issues?"
+            ],
+            "responses": [
+            "Dr. Rimen Jamatia is the Liaison Officer for SC/ST students at IIT Jammu"
+            ]
+        },
+        {
+            "tag": "obc_liaison_officer",
+            "patterns": [
+            "Who is OBC liaison officer?",
+            "Contact details of OBC liaison officer",
+            "How to reach OBC liaison officer?", 
+            "Who handles OBC student issues?"
+            ],
+            "responses": [
+            "Dr. Shiva S is the Liaison Officer for OBC students at IIT Jammu"
+            ]
+        },
+        {
+            "tag": "pwd_liaison_officer",
+            "patterns": [
+            "Who is PwD liaison officer?",
+            "Contact details of PwD liaison officer",
+            "How to reach PwD liaison officer?",
+            "Who handles PwD student issues?"
+            ],
+            "responses": [
+            "Dr. Aditya Shankar Sandupatla is the Liaison Officer for PwD students at IIT Jammu" 
+            ]
+        },
+        {
+            "tag": "ugc_circular",
+            "patterns": [
+            "Show UGC circular on caste discrimination",
+            "Where can I find UGC guidelines?",
+            "UGC rules about caste discrimination",
+            "Link to UGC circular"
+            ],
+            "responses": [
+            "The UGC Circular on Prevention of Caste-Based Discrimination can be found at https://iitjammu.ac.in/ugc-circular-prevention-caste-discrimination"
+            ]
+        },
+        {
+            "tag": "equal_opportunity_cell_description",
+            "patterns": [
+            "What is the Equal Opportunity Cell?",
+            "Tell me about Equal Opportunity Cell",
+            "What does EOC do?",
+            "Explain Equal Opportunity Cell role"
+            ],
+            "responses": [
+            "The Equal Opportunity Cell oversees implementation of policies and programmes for SCs, STs, Women, OBC, EWS, and PwDs, providing guidance and counselling in various matters."
+            ]
+        },
+        {
+            "tag": "equal_opportunity_cell_mission",
+            "patterns": [
+            "What is EOC's mission?",
+            "Equal Opportunity Cell purpose",
+            "Goals of Equal Opportunity Cell",
+            "EOC objectives at IIT Jammu"
+            ],
+            "responses": [
+            "The institute ensures equal opportunities for all communities on campus and promotes social inclusion through the Equal Opportunity Cell."
+            ]
+        },
+        {
+            "tag": "eoc_chairperson",
+            "patterns": [
+            "Who chairs the EOC?",
+            "Equal Opportunity Cell chairperson",
+            "Who heads the EOC?",
+            "EOC chair details"
+            ],
+            "responses": [
+            "The Dean (FA) serves as the Chairperson of the Equal Opportunity Cell (Ex-Officio)."
+            ]
+        },
+        {
+            "tag": "eoc_members",
+            "patterns": [
+            "Who are EOC members?",
+            "Equal Opportunity Cell membership",
+            "List EOC members",
+            "EOC committee members"
+            ],
+            "responses": [
+            "EOC members include AD Student Affairs, Liaison Officers for SC/ST/OBC/PwD, and AR (E II) as Member Convenor, all serving ex-officio."
+            ]
+        }
+        ],
+    "team_members_sc_st": [
+        {
+            "name": "Dr. Rimen Jamatia",
+            "tag": "liaison_officer_sc_st",
+            "patterns": [
+                "How can I contact Dr. Rimen Jamatia?",
+                "Tell me about Dr. Rimen Jamatia",
+                "Where can I find Dr. Rimen Jamatia?"
+            ],
+            "responses": [
+                "Dr. Rimen Jamatia is the Liaison Officer for SC/ST at IIT Jammu."
+            ]
+        },
+        {
+            "name": "Dr. Shiva S",
+            "tag": "liaison_officer_obc",
+            "patterns": [
+                "How can I contact Dr. Shiva S?",
+                "Tell me about Dr. Shiva S",
+                "Where can I find Dr. Shiva S?"
+            ],
+            "responses": [
+                "Dr. Shiva S is the Liaison Officer for OBC at IIT Jammu."
+            ]
+        },
+        {
+            "name": "Dr. Aditya Shankar Sandupatla",
+            "tag": "liaison_officer_pwd",
+            "patterns": [
+                "How can I contact Dr. Aditya Shankar Sandupatla?",
+                "Tell me about Dr. Aditya Shankar Sandupatla",
+                "Where can I find Dr. Aditya Shankar Sandupatla?"
+            ],
+            "responses": [
+                "Dr. Aditya Shankar Sandupatla is the Liaison Officer for PwD at IIT Jammu."
+            ]
+        },
+        {
+            "name": "Equal Opportunity Cell Members",
+            "tag": "equal_opportunity_cell_members",
+            "patterns": [
+                "Who are the members of Equal Opportunity Cell?",
+                "Tell me about Equal Opportunity Cell members",
+                "Who makes up the Equal Opportunity Cell?"
+            ],
+            "responses": [
+                "The Equal Opportunity Cell includes several key members. You can refer to the details provided above."
+            ]
+        },
+        {
+            "tag": "Prof_Devesh_C_Jinwala",
+            "patterns": [
+                "Prof. Devesh C. Jinwala",
+                "Devesh C. Jinwala",
+                "Prof. Jinwala",
+                "Jinwala"
+            ],
+            "responses": [
+                "Prof. Devesh C. Jinwala is affiliated with SVNIT, Surat and specializes in Computer Science and Engineering. His term as adjunct faculty runs from 13/01/2020 to 30/11/2024."
+            ]
+        },
+        {
+            "tag": "Prof_Ashutosh_Patwardhan",
+            "patterns": [
+                "Prof. Ashutosh Patwardhan",
+                "Ashutosh Patwardhan",
+                "Prof. Patwardhan",
+                "Patwardhan"
+            ],
+            "responses": [
+                "Prof. Ashutosh Patwardhan is affiliated with the University of Houston, Texas, USA, and specializes in Chemical Engineering. His term as adjunct faculty runs from 24/11/2023 to 23/11/2025."
+            ]
+        },
+        {
+            "tag": "Prof_Amitabh_Dar",
+            "patterns": [
+                "Prof. Amitabh Dar",
+                "Amitabh Dar",
+                "Prof. Dar",
+                "Dar"
+            ],
+            "responses": [
+                "Prof. Amitabh Dar is affiliated with Bruce Power Tiverton, Canada, and specializes in Civil Engineering. His term as adjunct faculty runs from 26/12/2023 to 25/12/2025."
+            ]
+        },
+        {
+            "tag": "Prof_Pramod_Kumar_Rastogi",
+            "patterns": [
+                "Prof. Pramod Kumar Rastogi",
+                "Pramod Kumar Rastogi",
+                "Prof. Rastogi",
+                "Rastogi"
+            ],
+            "responses": [
+                "Prof. Pramod Kumar Rastogi is affiliated with the Swiss Federal Institute of Technology (EPFL), Switzerland, and specializes in Physics. His term as adjunct faculty runs from 08/01/2024 to 07/01/2026."
+            ]
+        },
+        {
+            "tag": "Prof_Nitin_Kumar_Jain",
+            "patterns": [
+                "Prof. Nitin Kumar Jain",
+                "Nitin Kumar Jain",
+                "Prof. Jain",
+                "Jain"
+            ],
+            "responses": [
+                "Prof. Nitin Kumar Jain is affiliated with GE Healthcare, Bangalore, and specializes in Electrical Engineering. His term as adjunct faculty runs from 08/02/2024 to 07/02/2026."
+            ]
+        },
+        {
+            "tag": "Prof_Pantelimon_Stanica",
+            "patterns": [
+                "Prof. Pantelimon Stanica",
+                "Pantelimon Stanica",
+                "Prof. Stanica",
+                "Stanica"
+            ],
+            "responses": [
+                "Prof. Pantelimon Stanica is affiliated with the Naval Postgraduate School, Monterey, CA 93943, USA, and specializes in Mathematics. His term as adjunct faculty runs from 19/02/2024 to 18/02/2026."
+            ]
+        },
+        {
+            "tag": "Prof_M_T_Arvind",
+            "patterns": [
+                "Prof. M T Arvind",
+                "M T Arvind",
+                "Prof. Arvind",
+                "Arvind"
+            ],
+            "responses": [
+                "Prof. M T Arvind is affiliated with Amplebit Energy Solutions Pvt. Ltd, Bangalore, and specializes in Electrical Engineering. His term as adjunct faculty runs from 22/03/2024 to 21/03/2026."
+            ]
+        },
+        {
+            "tag": "Prof_Ajai_Kumar",
+            "patterns": [
+                "Prof. Ajai Kumar",
+                "Ajai Kumar",
+                "Prof. Kumar",
+                "Kumar"
+            ],
+            "responses": [
+                "Prof. Ajai Kumar is affiliated with the Plasma Diagnostics Institute for Plasma Research, Gandhinagar, and specializes in Physics. His term as adjunct faculty runs from 09/11/2023 to 08/11/2025."
+            ]
+        },
+        {
+            "tag": "Prof_Anand_K_V",
+            "patterns": [
+                "Prof. Anand K V",
+                "Anand K V",
+                "Prof. Anand",
+                "Anand"
+            ],
+            "responses": [
+                "Prof. Anand K V is the Chief Innovation Officer at GDC Stem to Startup, specializing in Humanities and Social Sciences. His term as adjunct faculty runs from 10/07/2024 to 10/07/2026."
+            ]
+        },
+        {
+            "tag": "Prof_Mark_Zwolinski",
+            "patterns": [
+                "Prof. Mark Zwolinski",
+                "Mark Zwolinski",
+                "Prof. Zwolinski",
+                "Zwolinski"
+            ],
+            "responses": [
+                "Prof. Mark Zwolinski was affiliated with the School of Electronics & Computer Science, University of Southampton, and specialized in Computer Science and Engineering. His term ran from 26/02/2018 to 25/02/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Muttukrishnan_Rajarajan",
+            "patterns": [
+                "Prof. Muttukrishnan Rajarajan",
+                "Muttukrishnan Rajarajan",
+                "Prof. Rajarajan",
+                "Rajarajan"
+            ],
+            "responses": [
+                "Prof. Muttukrishnan Rajarajan was affiliated with City, University of London, and specialized in Computer Science and Engineering. His term ran from 26/02/2018 to 26/02/2022."
+            ]
+        },
+        {
+            "tag": "Prof_H_M_Gupta",
+            "patterns": [
+                "Prof. H.M. Gupta",
+                "H.M. Gupta",
+                "Prof. Gupta",
+                "Gupta"
+            ],
+            "responses": [
+                "Prof. H.M. Gupta was affiliated with IIT Delhi and specialized in Electrical Engineering. His term ran from 26/02/2018 to 25/02/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Suraj_C_Kothari",
+            "patterns": [
+                "Prof. Suraj (Suresh) C. Kothari",
+                "Suraj C. Kothari",
+                "Prof. Kothari",
+                "Kothari"
+            ],
+            "responses": [
+                "Prof. Suraj (Suresh) C. Kothari was affiliated with IOWA State University and specialized in Computer Science and Engineering. His term ran from 28/02/2018 to 27/02/2022."
+            ]
+        },
+        {
+            "tag": "Prof_A_Subhas_Babu",
+            "patterns": [
+                "Prof. A. Subhas Babu",
+                "A. Subhas Babu",
+                "Prof. Babu",
+                "Babu"
+            ],
+            "responses": [
+                "Prof. A. Subhas Babu was an Emeritus Fellow at IIT Bombay and specialized in Mechanical Engineering. His term ran from 05/07/2018 to 05/06/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Partha_Roop",
+            "patterns": [
+                "Prof. Partha Roop",
+                "Partha Roop",
+                "Prof. Roop",
+                "Roop"
+            ],
+            "responses": [
+                "Prof. Partha Roop was affiliated with the University of Auckland, New Zealand, and specialized in Electrical and Computer Engineering. His term ran from 05/09/2018 to 08/05/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Dhananjay_V_Gadre",
+            "patterns": [
+                "Prof. Dhananjay V. Gadre",
+                "Dhananjay V. Gadre",
+                "Prof. Gadre",
+                "Gadre"
+            ],
+            "responses": [
+                "Prof. Dhananjay V. Gadre was affiliated with NSIT Delhi and specialized in Electronics and Communication. His term ran from 15/05/2018 to 14/05/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Akka_Zemmari",
+            "patterns": [
+                "Prof. Akka Zemmari",
+                "Akka Zemmari",
+                "Prof. Zemmari",
+                "Zemmari"
+            ],
+            "responses": [
+                "Prof. Akka Zemmari was affiliated with the University of Bordeaux, France, and specialized in Computer Science. His term ran from 16/05/2018 to 15/05/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Naveen_Sharma",
+            "patterns": [
+                "Prof. Naveen Sharma",
+                "Naveen Sharma",
+                "Prof. Sharma",
+                "Sharma"
+            ],
+            "responses": [
+                "Prof. Naveen Sharma was affiliated with Golisano College of Computing and Information Sciences and specialized in Software Engineering. His term ran from 29/05/2020 to 28/05/2022."
+            ]
+        },
+        {
+            "tag": "Prof_C_V_R_Murty",
+            "patterns": [
+                "Prof. C.V.R. Murty",
+                "C.V.R. Murty",
+                "Prof. Murty",
+                "Murty"
+            ],
+            "responses": [
+                "Prof. C.V.R. Murty was affiliated with IIT Madras and specialized in Civil Engineering. His term ran from 16/06/2020 to 15/06/2022."
+            ]
+        },
+        {
+            "tag": "Prof_S_N_Singh",
+            "patterns": [
+                "Prof. S N Singh",
+                "S N Singh",
+                "Prof. Singh",
+                "Singh"
+            ],
+            "responses": [
+                "Prof. S N Singh was affiliated with IIT Delhi and specialized in Mechanical Engineering. His term ran from 18/07/2020 to 17/07/2022."
+            ]
+        },
+        {
+            "tag": "Prof_S_K_Koul",
+            "patterns": [
+                "Prof. S K Koul",
+                "S K Koul",
+                "Prof. Koul",
+                "Koul"
+            ],
+            "responses": [
+                "Prof. S K Koul was affiliated with IIT Delhi and specialized in Electrical Engineering. His term ran from 18/07/2020 to 17/07/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Bipin_Indurkhya",
+            "patterns": [
+                "Prof. Bipin Indurkhya",
+                "Bipin Indurkhya",
+                "Prof. Indurkhya",
+                "Indurkhya"
+            ],
+            "responses": [
+                "Prof. Bipin Indurkhya was affiliated with Jagiellonian University and AGH University of Science and Technology, Cracow, Poland, and specialized in Humanities and Social Sciences. His term ran from 12/08/2020 to 11/08/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Veena_Koul",
+            "patterns": [
+                "Prof. Veena Koul",
+                "Veena Koul",
+                "Prof. Koul",
+                "Koul"
+            ],
+            "responses": [
+                "Prof. Veena Koul was affiliated with IIT Delhi and specialized in Biomedical Sciences. Her term ran from 29/08/2020 to 28/08/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Jaswant_Arlekar",
+            "patterns": [
+                "Prof. Jaswant Arlekar",
+                "Jaswant Arlekar",
+                "Prof. Arlekar",
+                "Arlekar"
+            ],
+            "responses": [
+                "Prof. Jaswant Arlekar was affiliated with R.S. Mandrekar & Associates, Project Consultants, and specialized in Civil Engineering. His term ran from 29/09/2020 to 28/09/2022."
+            ]
+        },
+        {
+            "tag": "Prof_Ramakrishna_Sonde",
+            "patterns": [
+                "Prof. Ramakrishna Sonde",
+                "Ramakrishna Sonde",
+                "Prof. Sonde",
+                "Sonde"
+            ],
+            "responses": [
+                "Prof. Ramakrishna Sonde was affiliated with Thermax Limited and specialized in Chemical Engineering. His term ran from 29/09/2020 to 28/09/2022."
+            ]
+        },
+        {
+            "tag": "ICC_responsibilities",
+            "patterns": [
+                "What are the responsibilities of the ICC?",
+                "Tell me about the ICC's responsibilities",
+                "What does the ICC do?",
+                "What is the role of the ICC?"
+            ],
+            "responses": [
+                "The ICC is responsible for receiving complaints of sexual harassment and conducting inquiries into them. It acts as an internal mechanism for redressal and plays a vital role in sensitizing employees about their rights and educating them about the prevention of sexual harassment. The ICC's duties extend beyond addressing complaints; it also plays a proactive role in promoting awareness, preventing sexual harassment, and creating a work culture that is respectful and free from harassment."
+            ]
+        },
+        {
+            "tag": "Prof_Renu_Nanda",
+            "patterns": [
+                "Prof. Renu Nanda",
+                "Renu Nanda",
+                "Prof. Nanda",
+                "Nanda"
+            ],
+            "responses": [
+                "Prof. Renu Nanda is the Presiding Officer of the ICC. She is the Head of the Department (Education) at the University of Jammu, located at Baba Saheb Ambedkar Road, Jammu Tawi (J&K). You can reach her via email at listenrenu@yahoo.com."
+            ]
+        },
+        {
+            "tag": "Dr_Riya_Bhowmik",
+            "patterns": [
+                "Dr. Riya Bhowmik",
+                "Riya Bhowmik",
+                "Dr. Bhowmik",
+                "Bhowmik"
+            ],
+            "responses": [
+                "Dr. Riya Bhowmik is a Member of the ICC and is affiliated with the PIC, ICC at IIT Jammu. You can contact her at riya.bhowmik@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "Registrar",
+            "patterns": [
+                "Registrar",
+                "IIT Jammu Registrar",
+                "Registrar of IIT Jammu"
+            ],
+            "responses": [
+                "The Registrar serves as the Convener of the ICC. You can reach the Registrar at registrar@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "Ms_Natasha_Chaudhary",
+            "patterns": [
+                "Ms. Natasha Chaudhary",
+                "Natasha Chaudhary",
+                "Ms. Chaudhary",
+                "Chaudhary"
+            ],
+            "responses": [
+                "Ms. Natasha Chaudhary is a Member of the ICC and is affiliated with Kalamkari Centre Society, located opposite Janipur Police Station, Paloura Jammu - 180007. You can contact her at 0191-2592952 or via email at kcswomenjammu@gmail.com."
+            ]
+        },
+        {
+            "tag": "Ms_Asmi_Srivastava",
+            "patterns": [
+                "Ms. Asmi Srivastava",
+                "Asmi Srivastava",
+                "Ms. Srivastava",
+                "Srivastava"
+            ],
+            "responses": [
+                "Ms. Asmi Srivastava is a Member of the ICC. You can contact her via email at 2022UCS0084@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "Mr_Abhishek_Verma",
+            "patterns": [
+                "Mr. Abhishek Verma",
+                "Abhishek Verma",
+                "Mr. Verma",
+                "Verma"
+            ],
+            "responses": [
+                "Mr. Abhishek Verma is a Member of the ICC. You can contact him via email at 2021UME0198@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "IEC_Introduction",
+            "patterns": [
+                "What is the IEC?",
+                "Tell me about the IEC",
+                "What does the IEC do?",
+                "What is the role of the IEC?"
+            ],
+            "responses": [
+                "The Institute Ethics Committee (IEC) of IIT-Jammu is an independent committee under the Dean, Research and Consultancy. The IEC, IIT-Jammu, is responsible for the scrutiny and approval of all research projects involving human subjects. It ensures that ethical principles are followed in the collection of experimental data, the analysis of such data, and the maintenance of security and confidentiality of subject data. The IEC ensures that the rights of human research subjects are always protected."
+            ]
+        },
+        {
+            "tag": "IEC_Constitution",
+            "patterns": [
+                "What is the constitution of the IEC?",
+                "Tell me about the constitution of the IEC",
+                "What guidelines does the IEC follow?",
+                "Who are the experts in IEC?"
+            ],
+            "responses": [
+                "The constitution of the IEC, IIT-Jammu follows the guidelines given by the Indian Council for Medical Research (ICMR). The IEC, IIT-Jammu contains several external experts as well as faculty members from IIT-Jammu."
+            ]
+        },
+        {
+            "tag": "Dr_Jasbir_Singh",
+            "patterns": [
+                "Dr Jasbir Singh",
+                "Jasbir Singh",
+                "Dr Singh"
+            ],
+            "responses": [
+                "Dr. Jasbir Singh is the Retd. Director of Health Services, Jammu. You can contact him at drjasbir0110@gmail.com or drjasbir0110@yahoo.in. His phone number is +91 9419180727."
+            ]
+        },
+        {
+            "tag": "Dr_Kamal_K_Kapoor",
+            "patterns": [
+                "Dr Kamal K. Kapoor",
+                "Kamal K. Kapoor",
+                "Dr Kapoor"
+            ],
+            "responses": [
+                "Dr. Kamal K. Kapoor is the Vice-Chairman, Professor & Head, Dept of Chemistry, University of Jammu. You can contact him at k2kapoor@yahoo.com or kamalkka@gmail.com. His phone number is +91 9419134807."
+            ]
+        },
+        {
+            "tag": "Dr_Sandeep_Dogra",
+            "patterns": [
+                "Dr Sandeep Dogra",
+                "Sandeep Dogra",
+                "Dr Dogra"
+            ],
+            "responses": [
+                "Dr. Sandeep Dogra is from the Dept of Microbiology, Govt Medical College & Hospital, Jammu. You can contact him at sandeepdogra@gmail.com. His phone number is +91 9906091412."
+            ]
+        },
+        {
+            "tag": "Dr_Rahul_Gorka",
+            "patterns": [
+                "Dr Rahul Gorka",
+                "Rahul Gorka",
+                "Dr Gorka"
+            ],
+            "responses": [
+                "Dr. Rahul Gorka is from the Dept of Burns and Plastic Surgery, AIIMS, Rishikesh. You can contact him at rahul.gorka@aiimsjammu.edu.in. His phone number is +91 9622329404."
+            ]
+        },
+        {
+            "tag": "Sri_Arvind_Khajuria",
+            "patterns": [
+                "Sri Arvind Khajuria",
+                "Arvind Khajuria",
+                "Arvind"
+            ],
+            "responses": [
+                "Sri Arvind Khajuria is an Advocate from Jammu. You can contact him at arvi1999@hotmail.com or arvindKhajuria66@gmail.com. His phone numbers are +91 9419183093 and +91 7006095350."
+            ]
+        },
+        {
+            "tag": "Shri_Bansi_Singh_Thakur",
+            "patterns": [
+                "Shri Bansi Singh Thakur",
+                "Bansi Singh Thakur",
+                "Bansi Thakur"
+            ],
+            "responses": [
+                "Shri Bansi Singh Thakur is a Community Representative from Jammu. You can contact him at thakur.bansisingh1@gmail.com. His phone number is +91 9419160861."
+            ]
+        },
+        {
+            "tag": "Dr_Dharitri_Rath",
+            "patterns": [
+                "Dr Dharitri Rath",
+                "Dharitri Rath",
+                "Dr Rath"
+            ],
+            "responses": [
+                "Dr. Dharitri Rath is an Assistant Professor in Chemical Engineering at IIT-Jammu and serves as the Member-Secretary of the IEC. You can contact her at dharitri.rath@iitjammu.ac.in. Her phone number is +91 8765696305."
+            ]
+        },
+        {
+            "tag": "Dr_Suresh_Devasahayam",
+            "patterns": [
+                "Dr Suresh Devasahayam",
+                "Suresh Devasahayam",
+                "Dr Devasahayam"
+            ],
+            "responses": [
+                "Dr. Suresh Devasahayam is a Professor in Electrical Engineering at IIT-Jammu. You can contact him at suresh.devasahayam@iitjammu.ac.in. His phone number is +91 9486172706."
+            ]
+        },
+        {
+            "tag": "Dr_Vinay_Sharma",
+            "patterns": [
+                "Dr Vinay Sharma",
+                "Vinay Sharma",
+                "Dr Sharma"
+            ],
+            "responses": [
+                "Dr. Vinay Sharma is an Assistant Professor in BSBE at IIT-Jammu. You can contact him at vinay.sharma@iitjammu.ac.in. His phone number is +91 9928552212."
+            ]
+        },
+        {
+            "tag": "Dr_Quleen_Kaur_Bijral",
+            "patterns": [
+                "Dr Quleen Kaur Bijral",
+                "Quleen Kaur Bijral",
+                "Dr Bijral"
+            ],
+            "responses": [
+                "Dr. Quleen Kaur Bijral is an Assistant Professor in HSS at IIT Jammu. You can contact her at quleen.kaur@iitjammu.ac.in. Her phone number is +91 7889757541."
+            ]
+        },
+        {
+            "tag": "Dr_Mithu_Baidya",
+            "patterns": [
+                "Dr Mithu Baidya",
+                "Mithu Baidya",
+                "Dr Baidya"
+            ],
+            "responses": [
+                "Dr. Mithu Baidya is an Assistant Professor in BSBE at IIT-Jammu. You can contact him at mithu.baidya@iitjammu.ac.in. His phone number is +91 6386205928."
+            ]
+        },
+        {
+            "tag": "Dr_Joby_Varghese",
+            "patterns": [
+                "Dr Joby Varghese",
+                "Joby Varghese",
+                "Dr Varghese"
+            ],
+            "responses": [
+                "Dr. Joby Varghese is an Assistant Professor in HSS at IIT-Jammu. You can contact him at joby.varghese@iitjammu.ac.in. His phone number is +91 9160189838."
+            ]
+        },
+        {
+            "tag": "IEC_SOP_and_Proposal_Application_Templates",
+            "patterns": [
+                "Where can I find the IEC SOPs and Proposal Templates?",
+                "Tell me about the IEC SOP and application templates",
+                "Where are the IEC templates available?"
+            ],
+            "responses": [
+                "The Standard Operating Procedures and Proposal Application Templates for the IEC, IIT-Jammu are currently under preparation. They can be downloaded from here: IEC_SOP_Draft_July2021, IEC_InterventionalStudyTemplate, IEC_ObservationalStudyTemplate, EthicsCommittee_ReferenceDocuments. Completed applications must be emailed to: IEC [at] iitjammu [dot] ac [dot] in."
+            ]
+        },
+        {
+            "tag": "annual_action_plan_committee",
+            "patterns": [
+            "Who is in the Annual Action Plan Committee?",
+            "Tell me about the Action Plan Committee members",
+            "What is the structure of Annual Action Plan Committee?",
+            "Who leads the Annual Action Plan Committee?"
+            ],
+            "responses": [
+            "The Annual Action Plan Committee is chaired by the Director (Ex-Officio) and includes all Deans, HoDs, Registrar as members, with Deputy Registrar as Member Convenor."
+            ]
+        },
+        {
+            "tag": "abhishek_academic",
+            "patterns": [
+            "Who is Abhishek in academics?",
+            "Tell me about Abhishek in academic programs",
+            "What is Abhishek's role in academics?",
+            "Which Abhishek works in academic programs?"
+            ],
+            "responses": [
+            "Abhishek is a Senior Assistant in the Academic Programs department."
+            ]
+        },
+        {
+            "tag": "dileep_kumar_academic",
+            "patterns": [
+            "Who is Dileep Kumar?",
+            "Tell me about Dileep Kumar's role",
+            "What position does Dileep Kumar hold?",
+            "Where does Dileep Kumar work?"
+            ],
+            "responses": [
+            "Dileep Kumar is an Assistant Manager in the Academic Programs department."
+            ]
+        },
+        {
+            "tag": "nandini_sharma_academic",
+            "patterns": [
+            "Who is Nandini Sharma?",
+            "Tell me about Nandini Sharma's role",
+            "What position does Nandini Sharma hold?",
+            "Where does Nandini Sharma work?"
+            ],
+            "responses": [
+            "Nandini Sharma is a Senior Assistant in the Academic Programs department."
+            ]
+        },
+        {
+            "tag": "vipen_sharma_academic",
+            "patterns": [
+            "Who is Vipen Sharma?",
+            "Tell me about Vipen Sharma's role",
+            "What position does Vipen Sharma hold?",
+            "Where does Vipen Sharma work?"
+            ],
+            "responses": [
+            "Vipen Sharma is a Senior Assistant in the Academic Programs department."
+            ]
+        },
+        {
+            "tag": "abhishek_gupta_media",
+            "patterns": [
+            "Who is Abhishek Gupta?",
+            "Tell me about Abhishek Gupta's role",
+            "What position does Abhishek Gupta hold?",
+            "Where does Abhishek Gupta work?"
+            ],
+            "responses": [
+            "Abhishek Gupta is a Laboratory Officer in the Media Cell department."
+            ]
+        },
+        {
+            "tag": "aditya_sahay_ee",
+            "patterns": [
+            "Who is Aditya Sahay?",
+            "Tell me about Aditya Sahay's role",
+            "What position does Aditya Sahay hold?",
+            "Where does Aditya Sahay work?"
+            ],
+            "responses": [
+            "Aditya Sahay is a Technical Officer in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "apoorv_raj_ee",
+            "patterns": [
+            "Who is Apoorv Raj Agarwal?",
+            "Tell me about Apoorv Raj's role",
+            "What position does Apoorv Raj hold?",
+            "Where does Apoorv Raj work?"
+            ],
+            "responses": [
+            "Apoorv Raj Agarwal is a Laboratory Officer in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "lokesh_sharma_ee",
+            "patterns": [
+            "Who is Lokesh Sharma?",
+            "Tell me about Lokesh Sharma's role",
+            "What position does Lokesh Sharma hold?",
+            "Where does Lokesh Sharma work?"
+            ],
+            "responses": [
+            "Lokesh Sharma is a Senior Laboratory Officer in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "vikash_kumar_ee",
+            "patterns": [
+            "Who is Vikash Kumar?",
+            "Tell me about Vikash Kumar's role",
+            "What position does Vikash Kumar hold?",
+            "Where does Vikash Kumar work?"
+            ],
+            "responses": [
+            "Vikash Kumar is a Senior Laboratory Officer in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "ambika_sambyal_proc",
+            "patterns": [
+            "Who is Ambika Sambyal?",
+            "Tell me about Ambika Sambyal's role",
+            "What position does Ambika Sambyal hold?",
+            "Where does Ambika Sambyal work?"
+            ],
+            "responses": [
+            "Ambika Sambyal is a Senior Assistant in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "mandeep_singh_proc",
+            "patterns": [
+            "Who is Mandeep Singh?",
+            "Tell me about Mandeep Singh's role",
+            "What position does Mandeep Singh hold?",
+            "Where does Mandeep Singh work?"
+            ],
+            "responses": [
+            "Mandeep Singh is a Junior Section Officer in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "purvi_sarkar_proc",
+            "patterns": [
+            "Who is Purvi Sarkar?",
+            "Tell me about Purvi Sarkar's role",
+            "What position does Purvi Sarkar hold?",
+            "Where does Purvi Sarkar work?"
+            ],
+            "responses": [
+            "Purvi Sarkar is an Assistant Registrar in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "srishti_raaj_proc",
+            "patterns": [
+            "Who is Srishti Raaj?",
+            "Tell me about Srishti Raaj's role",
+            "What position does Srishti Raaj hold?",
+            "Where does Srishti Raaj work?"
+            ],
+            "responses": [
+            "Srishti Raaj is a Senior Assistant in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "sunil_kumar_proc",
+            "patterns": [
+            "Who is Sunil Kumar in procurement?",
+            "Tell me about Sunil Kumar's role",
+            "What position does Sunil Kumar hold?",
+            "Where does Sunil Kumar work?"
+            ],
+            "responses": [
+            "Sunil Kumar is a Senior Assistant in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "surbhi_raina_proc",
+            "patterns": [
+            "Who is Surbhi Raina?",
+            "Tell me about Surbhi Raina's role",
+            "What position does Surbhi Raina hold?",
+            "Where does Surbhi Raina work?"
+            ],
+            "responses": [
+            "Surbhi Raina is a Senior Assistant in the Procurement Section."
+            ]
+        },
+        {
+            "tag": "scst_cell_info",
+            "patterns": [
+            "What is the SC/ST Cell?",
+            "Tell me about SC/ST Cell functions",
+            "What does SC/ST Cell do?",
+            "Purpose of SC/ST Cell"
+            ],
+            "responses": [
+            "The SC/ST Students Cell addresses academic and non-academic issues for reserved category students, ensuring an inclusive environment free from discrimination."
+            ]
+        },
+        {
+            "tag": "caste_discrimination_prevention",
+            "patterns": [
+            "How is caste discrimination prevented?",
+            "What measures prevent caste discrimination?",
+            "Tell me about anti-discrimination policies",
+            "How do you handle caste discrimination?"
+            ],
+            "responses": [
+            "Officials, faculty and staff must avoid discrimination against SC/ST students based on social origin and maintain sensitivity in handling such incidents."
+            ]
+        },
+        {
+            "tag": "scst_liaison_officer",
+            "patterns": [
+            "Who is SC/ST liaison officer?",
+            "SC/ST officer contact",
+            "Who handles SC/ST issues?",
+            "SC/ST cell contact person"
+            ],
+            "responses": [
+            "Dr. Rimen Jamatia is the Liaison Officer for SC/ST at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "ugc_circular_info",
+            "patterns": [
+            "Where is UGC circular on discrimination?",
+            "UGC anti-discrimination circular",
+            "Find UGC circular",
+            "Anti-discrimination circular location"
+            ],
+            "responses": [
+            "The UGC Circular on Prevention of Caste-Based Discrimination is available in English and Hindi on the IIT Jammu website."
+            ]
+        },
+        {
+            "tag": "scst_complaint_procedure",
+            "patterns": [
+            "How to file SC/ST complaint?",
+            "SC/ST complaint form location",
+            "Where to complain about discrimination?",
+            "Process for SC/ST complaints"
+            ],
+            "responses": [
+            "SC/ST complaints can be filed through the online complaint form available on the Google Forms platform."
+            ]
+        },
+        {
+            "tag": "iit_jammu_general_info",
+            "patterns": [
+            "What is IIT Jammu?",
+            "Where is IIT Jammu located?",
+            "Tell me about IIT Jammu location",
+            "IIT Jammu address"
+            ],
+            "responses": [
+            "IIT Jammu is located at Jagti, NH-44, PO Nagrota Jammu-181221 J&K, India."
+            ]
+        },
+        {
+            "tag": "iit_jammu_director",
+            "patterns": [
+            "Who is IIT Jammu director?",
+            "Current director of IIT Jammu",
+            "Director's contact details",
+            "IIT Jammu head"
+            ],
+            "responses": [
+            "Prof. Manoj Singh Gaur is the Director of IIT Jammu since June 2017, contactable at director@iitjammu.ac.in or 0191-257-0380."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Vision_Mission",
+            "patterns": [
+                "What is the vision of IIT Jammu?",
+                "What is the mission of IIT Jammu?"
+            ],
+            "responses": [
+                "The vision of IIT Jammu is to create tomorrow's world through technological interventions that are humanistic, creative, and futuristic. The mission is to Learn, Engage, Invent, and Create Impact."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Functions_And_Duties",
+            "patterns": [
+                "What are the functions and duties of IIT Jammu?",
+                "Tell me the functions of IIT Jammu",
+                "What are the responsibilities of IIT Jammu?"
+            ],
+            "responses": [
+                "IIT Jammu operates under the Institutes of Technology Act 1961, The Institutes of Technology (Amendment) Act, 2016, and The First Statutes of IIT Jammu, 2017. The complete document can be found [here](https://iitjammu.ac.in/homepage/IIT%20ACT/First%20Statutes-913-977%20-%20IIT%20JAMMU.pdf)."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Administrative_Committees",
+            "patterns": [
+                "What are the administrative committees of IIT Jammu?",
+                "Tell me about the committees in IIT Jammu"
+            ],
+            "responses": [
+                "IIT Jammu has several administrative committees such as the Board of Governors, Finance Committee, Building and Works, and Senate. You can find more details on the [IIT Jammu website](https://www.iitjammu.ac.in/)."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Budget_Programmes",
+            "patterns": [
+                "What is the total budget of IIT Jammu?",
+                "How much is the budget of IIT Jammu?",
+                "Tell me the budget details of IIT Jammu"
+            ],
+            "responses": [
+                "The total budget of IIT Jammu is Rs. 458.30 crores. The breakdown includes: OH-31: Rs. 28.50 Cr, OH-35: Rs. 395.14 Cr, OH-36: Rs. 34.66 Cr."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Foreign_Domestic_Tours",
+            "patterns": [
+                "What is the budget for tours at IIT Jammu?",
+                "Tell me about foreign and domestic tours at IIT Jammu"
+            ],
+            "responses": [
+                "No separate budget is allotted for tours. Tours include places like Bangalore, Bhubaneshwar, Hyderabad, etc. The expenditure follows the institute's rules."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_RTI_Officers",
+            "patterns": [
+                "Who are the RTI officers at IIT Jammu?",
+                "Tell me about RTI officers at IIT Jammu"
+            ],
+            "responses": [
+                "The RTI officers at IIT Jammu are Dr. Shivnath Mazumder (CPIO) and Dr. Durai Prabhakaran R T (FAA). Contact CPIO at cpio@iitjammu.ac.in and FAA at faa@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Information_Dissemination",
+            "patterns": [
+                "How can I get information from IIT Jammu?",
+                "Tell me about information dissemination at IIT Jammu"
+            ],
+            "responses": [
+                "Information from IIT Jammu is disseminated through their [website](https://www.iitjammu.ac.in/rti) and email at cpio@iitjammu.ac.in. Details are available upon request."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Training_Educational_Programs",
+            "patterns": [
+                "What kind of training programs are offered at IIT Jammu?",
+                "Tell me about training programs at IIT Jammu"
+            ],
+            "responses": [
+                "IIT Jammu offers short-term training programs and expert sessions. Employees are encouraged to participate in these training programs."
+            ]
+        },
+        {
+            "tag": "IIT_Jammu_Information_Prescribed",
+            "patterns": [
+                "What is the third-party audit date of IIT Jammu?",
+                "Tell me about the third-party audit at IIT Jammu"
+            ],
+            "responses": [
+                "The third-party audit for IIT Jammu is scheduled for 28 June 2024. The audit report will be available on the website."
+            ]
+        },
+        {
+            "tag": "academics_section",
+            "patterns": [
+                "How can I contact the Academics Section?",
+                "What is the contact number for the Academics Section?",
+                "I need the phone number for Academics Section."
+            ],
+            "responses": [
+                "You can reach the Academics Section at: 0191-257-0633."
+            ]
+        },
+        {
+            "tag": "accounts_section",
+            "patterns": [
+                "How can I contact the Accounts Section?",
+                "What is the contact number for the Accounts Section?",
+                "I need the phone number for Accounts Section."
+            ],
+            "responses": [
+                "You can reach the Accounts Section at: 0191-257-0634."
+            ]
+        },
+        {
+            "tag": "ad_c3i",
+            "patterns": [
+                "How can I contact AD- C3I?",
+                "What is the contact number for AD- C3I?",
+                "I need the phone number for AD- C3I."
+            ],
+            "responses": [
+                "You can reach AD- C3I at: 0191-257-0281."
+            ]
+        },
+        {
+            "tag": "advisor_projects_ipm",
+            "patterns": [
+                "How can I contact the Advisor Projects IPM?",
+                "What is the contact number for the Advisor Projects IPM?",
+                "I need the phone number for Advisor Projects IPM."
+            ],
+            "responses": [
+                "You can reach the Advisor Projects IPM at: 0191-257-0695."
+            ]
+        },
+        {
+            "tag": "ar_academics",
+            "patterns": [
+                "How can I contact AR Academics?",
+                "What is the contact number for AR Academics?",
+                "I need the phone number for AR Academics."
+            ],
+            "responses": [
+                "You can reach AR Academics at: 0191-257-0696."
+            ]
+        },
+        {
+            "tag": "ar_accounts",
+            "patterns": [
+                "How can I contact AR Accounts?",
+                "What is the contact number for AR Accounts?",
+                "I need the phone number for AR Accounts."
+            ],
+            "responses": [
+                "You can reach AR Accounts at: 0191-257-0284."
+            ]
+        },
+        {
+            "tag": "ar_establishment_ii",
+            "patterns": [
+                "How can I contact AR Establishment-II?",
+                "What is the contact number for AR Establishment-II?",
+                "I need the phone number for AR Establishment-II."
+            ],
+            "responses": [
+                "You can reach AR Establishment-II at: 0191-257-0285."
+            ]
+        },
+        {
+            "tag": "ar_rnc",
+            "patterns": [
+                "How can I contact AR RNC?",
+                "What is the contact number for AR RNC?",
+                "I need the phone number for AR RNC."
+            ],
+            "responses": [
+                "You can reach AR RNC at: 0191-257-0699."
+            ]
+        },
+        {
+            "tag": "ar_sp",
+            "patterns": [
+                "How can I contact AR S&P?",
+                "What is the contact number for AR S&P?",
+                "I need the phone number for AR S&P."
+            ],
+            "responses": [
+                "You can reach AR S&P at: 0191-257-0283."
+            ]
+        },
+        {
+            "tag": "ar_student_welfare",
+            "patterns": [
+                "How can I contact AR Student Welfare?",
+                "What is the contact number for AR Student Welfare?",
+                "I need the phone number for AR Student Welfare."
+            ],
+            "responses": [
+                "You can reach AR Student Welfare at: 0191-257-0286."
+            ]
+        },
+        {
+            "tag": "av_support",
+            "patterns": [
+                "How can I contact AV Support?",
+                "What is the contact number for AV Support?",
+                "I need the phone number for AV Support."
+            ],
+            "responses": [
+                "You can reach AV Support at: 0191-257-0282."
+            ]
+        },
+        {
+            "tag": "braeg_hostel_caretaker",
+            "patterns": [
+                "How can I contact the Braeg Hostel Caretaker?",
+                "What is the contact number for Braeg Hostel Caretaker?",
+                "I need the phone number for Braeg Hostel Caretaker."
+            ],
+            "responses": [
+                "You can reach the Braeg Hostel Caretaker at: 0191-257-0698."
+            ]
+        },
+        {
+            "tag": "braeg_hostel_security",
+            "patterns": [
+                "How can I contact Braeg Hostel Security?",
+                "What is the contact number for Braeg Hostel Security?",
+                "I need the phone number for Braeg Hostel Security."
+            ],
+            "responses": [
+                "You can reach Braeg Hostel Security at: 0191-274-1108."
+            ]
+        },
+        {
+            "tag": "c3i_office",
+            "patterns": [
+                "How can I contact the C3I Office?",
+                "What is the contact number for C3I Office?",
+                "I need the phone number for C3I Office."
+            ],
+            "responses": [
+                "You can reach the C3I Office at: 0191-257-0280."
+            ]
+        },
+        {
+            "tag": "canary_hostel_security",
+            "patterns": [
+                "How can I contact Canary Hostel Security?",
+                "What is the contact number for Canary Hostel Security?",
+                "I need the phone number for Canary Hostel Security."
+            ],
+            "responses": [
+                "You can reach Canary Hostel Security at: 0191-274-1204."
+            ]
+        },
+        {
+            "tag": "caretaker_fulgar_hostel",
+            "patterns": [
+                "How can I contact the Fulgar Hostel Caretaker?",
+                "What is the contact number for Fulgar Hostel Caretaker?",
+                "I need the phone number for Fulgar Hostel Caretaker."
+            ],
+            "responses": [
+                "You can reach the Fulgar Hostel Caretaker at: 0191-274-1286."
+            ]
+        },
+        {
+            "tag": "centre_of_essential_skill",
+            "patterns": [
+                "How can I contact the Centre of Essential Skill?",
+                "What is the contact number for Centre of Essential Skill?",
+                "I need the phone number for Centre of Essential Skill."
+            ],
+            "responses": [
+                "You can reach the Centre of Essential Skill at: 0191-257-1216."
+            ]
+        },
+        {
+            "tag": "central_workshop",
+            "patterns": [
+                "How can I contact the Central Workshop?",
+                "What is the contact number for Central Workshop?",
+                "I need the phone number for Central Workshop."
+            ],
+            "responses": [
+                "You can reach the Central Workshop at: 0191-274-1191."
+            ]
+        },
+        {
+            "tag": "conference_room",
+            "patterns": [
+                "How can I contact the Conference Room?",
+                "What is the contact number for the Conference Room?",
+                "I need the phone number for the Conference Room."
+            ],
+            "responses": [
+                "You can reach the Conference Room at: 0386."
+            ]
+        },
+        {
+            "tag": "deans_pool_office",
+            "patterns": [
+                "How can I contact the Dean's Pool Office?",
+                "What is the contact number for the Dean's Pool Office?",
+                "I need the phone number for the Dean's Pool Office."
+            ],
+            "responses": [
+                "You can reach the Dean's Pool Office at: 0191-274-1110."
+            ]
+        },
+        {
+            "tag": "dedhar_hostel_security",
+            "patterns": [
+                "How can I contact Dedhar Hostel Security?",
+                "What is the contact number for Dedhar Hostel Security?",
+                "I need the phone number for Dedhar Hostel Security."
+            ],
+            "responses": [
+                "You can reach Dedhar Hostel Security at: 0191-257-1203."
+            ]
+        },
+        {
+            "tag": "delivery_room_store",
+            "patterns": [
+                "How can I contact the Delivery Room Store?",
+                "What is the contact number for Delivery Room Store?",
+                "I need the phone number for Delivery Room Store."
+            ],
+            "responses": [
+                "You can reach the Delivery Room Store at: 0191-274-1208."
+            ]
+        },
+        {
+            "tag": "deputy_librarian",
+            "patterns": [
+                "How can I contact the Deputy Librarian?",
+                "What is the contact number for the Deputy Librarian?",
+                "I need the phone number for the Deputy Librarian."
+            ],
+            "responses": [
+                "You can reach the Deputy Librarian at: 0191-257-0631."
+            ]
+        },
+        {
+            "tag": "deputy_registrar",
+            "patterns": [
+                "How can I contact the Deputy Registrar?",
+                "What is the contact number for the Deputy Registrar?",
+                "I need the phone number for the Deputy Registrar."
+            ],
+            "responses": [
+                "You can reach the Deputy Registrar at: 0191-257-0287."
+            ]
+        },
+        {
+            "tag": "director_office_1",
+            "patterns": [
+                "How can I contact the Director's Office?",
+                "What is the contact number for Director's Office?",
+                "I need the phone number for Director's Office."
+            ],
+            "responses": [
+                "You can reach the Director's Office at: 0191-257-0381."
+            ]
+        },
+        {
+            "tag": "director_office_2",
+            "patterns": [
+                "How can I contact the Director's Office?",
+                "What is the contact number for Director's Office?",
+                "I need the phone number for Director's Office."
+            ],
+            "responses": [
+                "You can reach the Director's Office at: 0191-257-0382."
+            ]
+        },
+        {
+            "tag": "director_office_3",
+            "patterns": [
+                "How can I contact the Director's Office?",
+                "What is the contact number for Director's Office?",
+                "I need the phone number for Director's Office."
+            ],
+            "responses": [
+                "You can reach the Director's Office at: 0191-257-0383."
+            ]
+        },
+        {
+            "tag": "eg_helpdesk",
+            "patterns": [
+                "How can I contact the EG Helpdesk?",
+                "What is the contact number for EG Helpdesk?",
+                "I need the phone number for EG Helpdesk."
+            ],
+            "responses": [
+                "You can reach the EG Helpdesk at: 0191-257-0288."
+            ]
+        },
+        {
+            "tag": "emergency_response_team",
+            "patterns": [
+                "How can I contact the Emergency Response Team?",
+                "What is the contact number for the Emergency Response Team?",
+                "I need the phone number for the Emergency Response Team."
+            ],
+            "responses": [
+                "You can reach the Emergency Response Team at: 0191-274-1111."
+            ]
+        },
+        {
+            "tag": "establishment_ii_section",
+            "patterns": [
+                "How can I contact the Establishment-II Section?",
+                "What is the contact number for Establishment-II Section?",
+                "I need the phone number for Establishment-II Section."
+            ],
+            "responses": [
+                "You can reach the Establishment-II Section at: 0191-257-0635."
+            ]
+        },
+        {
+            "tag": "faculty_support_office",
+            "patterns": [
+                "How can I contact the Faculty Support Office?",
+                "What is the contact number for Faculty Support Office?",
+                "I need the phone number for Faculty Support Office."
+            ],
+            "responses": [
+                "You can reach the Faculty Support Office at: 0191-274-1199."
+            ]
+        },
+        {
+            "tag": "fire_and_safety_office",
+            "patterns": [
+                "How can I contact the Fire and Safety Office?",
+                "What is the contact number for the Fire and Safety Office?",
+                "I need the phone number for the Fire and Safety Office."
+            ],
+            "responses": [
+                "You can reach the Fire and Safety Office at: 0191-274-1218."
+            ]
+        },
+        {
+            "tag": "fulgar_hostel_caretaker",
+            "patterns": [
+                "How can I contact the Fulgar Hostel Caretaker?",
+                "What is the contact number for Fulgar Hostel Caretaker?",
+                "I need the phone number for Fulgar Hostel Caretaker."
+            ],
+            "responses": [
+                "You can reach the Fulgar Hostel Caretaker at: 0191-274-1286."
+            ]
+        },
+        {
+            "tag": "guest_house_office",
+            "patterns": [
+                "How can I contact the Guest House Office?",
+                "What is the contact number for the Guest House Office?",
+                "I need the phone number for the Guest House Office."
+            ],
+            "responses": [
+                "You can reach the Guest House Office at: 0191-257-1179."
+            ]
+        },
+        {
+            "tag": "hpc_support",
+            "patterns": [
+                "How can I contact the HPC Support?",
+                "What is the contact number for the HPC Support?",
+                "I need the phone number for the HPC Support."
+            ],
+            "responses": [
+                "You can reach the HPC Support at: 0191-274-1197."
+            ]
+        },
+        {
+            "tag": "i2edc",
+            "patterns": [
+                "How can I contact I2EDC?",
+                "What is the contact number for I2EDC?",
+                "I need the phone number for I2EDC."
+            ],
+            "responses": [
+                "You can reach I2EDC at: 0191-274-1290."
+            ]
+        },
+        {
+            "tag": "i3c",
+            "patterns": [
+                "How can I contact I3C?",
+                "What is the contact number for I3C?",
+                "I need the phone number for I3C."
+            ],
+            "responses": [
+                "You can reach I3C at: 0191-274-1121."
+            ]
+        },
+        {
+            "tag": "institute_counsellor",
+            "patterns": [
+                "How can I contact the Institute Counsellor?",
+                "What is the contact number for Institute Counsellor?",
+                "I need the phone number for Institute Counsellor."
+            ],
+            "responses": [
+                "You can reach the Institute Counsellor at: 0191-257-0730."
+            ]
+        },
+        {
+            "tag": "internal_audit",
+            "patterns": [
+                "How can I contact Internal Audit?",
+                "What is the contact number for Internal Audit?",
+                "I need the phone number for Internal Audit."
+            ],
+            "responses": [
+                "You can reach Internal Audit at: 0191-274-1117."
+            ]
+        },
+        {
+            "tag": "ipm_aee_civil",
+            "patterns": [
+                "How can I contact IPM AEE Civil?",
+                "What is the contact number for IPM AEE Civil?",
+                "I need the phone number for IPM AEE Civil."
+            ],
+            "responses": [
+                "You can reach IPM AEE Civil at: 0191-257-0291."
+            ]
+        },
+        {
+            "tag": "ipm_dte_civil",
+            "patterns": [
+                "How can I contact IPM DTE Civil?",
+                "What is the contact number for IPM DTE Civil?",
+                "I need the phone number for IPM DTE Civil."
+            ],
+            "responses": [
+                "You can reach IPM DTE Civil at: 0191-274-1205."
+            ]
+        },
+        {
+            "tag": "iwwp_office",
+            "patterns": [
+                "How can I contact the IWWP Office?",
+                "What is the contact number for IWWP Office?",
+                "I need the phone number for IWWP Office."
+            ],
+            "responses": [
+                "You can reach the IWWP Office at: 0191-274-1114."
+            ]
+        },
+        {
+            "tag": "academics_section",
+            "patterns": [
+                "How can I contact the Academics Section?",
+                "What is the email for the Academics Section?",
+                "What is the phone number for the Academics Section?"
+            ],
+            "responses": [
+                "You can contact the Academics Section via email: ar.acad@iitjammu.ac.in or by phone at: 0191-257-0633."
+            ]
+        },
+        {
+            "tag": "accounts_section",
+            "patterns": [
+                "How can I contact the Accounts Section?",
+                "What is the email for the Accounts Section?",
+                "What is the phone number for the Accounts Section?"
+            ],
+            "responses": [
+                "You can contact the Accounts Section via email: accounts@iitjammu.ac.in or by phone at: 0191-257-0634."
+            ]
+        },
+        {
+            "tag": "director_office_1",
+            "patterns": [
+                "How can I contact Director Office 1?",
+                "What is the email for Director Office 1?",
+                "What is the phone number for Director Office 1?"
+            ],
+            "responses": [
+                "You can contact Director Office 1 via email: director.office@iitjammu.ac.in or by phone at: 0191-257-0381."
+            ]
+        },
+        {
+            "tag": "director_office_2",
+            "patterns": [
+                "How can I contact Director Office 2?",
+                "What is the email for Director Office 2?",
+                "What is the phone number for Director Office 2?"
+            ],
+            "responses": [
+                "You can contact Director Office 2 via email: director.office@iitjammu.ac.in or by phone at: 0191-257-0382."
+            ]
+        },
+        {
+            "tag": "director_office_3",
+            "patterns": [
+                "How can I contact Director Office 3?",
+                "What is the email for Director Office 3?",
+                "What is the phone number for Director Office 3?"
+            ],
+            "responses": [
+                "You can contact Director Office 3 via email: director.office@iitjammu.ac.in or by phone at: 0191-257-0383."
+            ]
+        },
+        {
+            "tag": "establishment_ii_section",
+            "patterns": [
+                "How can I contact the Establishment-II Section?",
+                "What is the email for the Establishment-II Section?",
+                "What is the phone number for the Establishment-II Section?"
+            ],
+            "responses": [
+                "You can contact the Establishment-II Section via email: staff.e2@iitjammu.ac.in or by phone at: 0191-257-0635."
+            ]
+        },
+        {
+            "tag": "guest_house_office",
+            "patterns": [
+                "How can I contact the Guest House office?",
+                "What is the email for the Guest House office?",
+                "What is the phone number for the Guest House office?"
+            ],
+            "responses": [
+                "You can contact the Guest House office via email: guesthouse@iitjammu.ac.in or by phone at: 0191-274-1179."
+            ]
+        },
+        {
+            "tag": "pool_office",
+            "patterns": [
+                "How can I contact the Pool Office?",
+                "What is the email for the Pool Office?",
+                "What is the phone number for the Pool Office?"
+            ],
+            "responses": [
+                "You can contact the Pool Office via email: oa.pooloffice@iitjammu.ac.in or by phone at: 0191-274-1199."
+            ]
+        },
+        {
+            "tag": "registrar_office",
+            "patterns": [
+                "How can I contact the Registrar Office?",
+                "What is the email for the Registrar Office?",
+                "What is the phone number for the Registrar Office?"
+            ],
+            "responses": [
+                "You can contact the Registrar Office via email: registrar@iitjammu.ac.in or by phone at: 0191-274-1103."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_section",
+            "patterns": [
+                "How can I contact the Research and Consultancy Section?",
+                "What is the email for the Research and Consultancy Section?",
+                "What is the phone number for the Research and Consultancy Section?"
+            ],
+            "responses": [
+                "You can contact the Research and Consultancy Section via email: hos.rnc@iitjammu.ac.in or by phone at: 0191-257-0699."
+            ]
+        },
+        {
+            "tag": "store_and_purchase_section",
+            "patterns": [
+                "How can I contact the Store & Purchase Section?",
+                "What is the email for the Store & Purchase Section?",
+                "What is the phone number for the Store & Purchase Section?"
+            ],
+            "responses": [
+                "You can contact the Store & Purchase Section via email: stores.da@iitjammu.ac.in or by phone at: 0191-257-0632."
+            ]
+        },
+        {
+            "tag": "student_welfare_section",
+            "patterns": [
+                "How can I contact the Student Welfare Section?",
+                "What is the email for the Student Welfare Section?",
+                "What is the phone number for the Student Welfare Section?"
+            ],
+            "responses": [
+                "You can contact the Student Welfare Section via email: swoffice@iitjammu.ac.in or by phone at: 0191-257-0697."
+            ]
+        },
+        {
+            "tag": "tpo",
+            "patterns": [
+                "How can I contact the TPO?",
+                "What is the email for the TPO?",
+                "What is the phone number for the TPO?"
+            ],
+            "responses": [
+                "You can contact the TPO via email: tpo@iitjammu.ac.in or by phone at: 0191-257-0289."
+            ]
+        },
+        {
+            "tag": "transport_section",
+            "patterns": [
+                "How can I contact the Transport Section?",
+                "What is the email for the Transport Section?",
+                "What is the phone number for the Transport Section?"
+            ],
+            "responses": [
+                "You can contact the Transport Section via email: transport@iitjammu.ac.in or by phone at: 0191-257-0690."
+            ]
+        },
+        {
+            "tag": "faculty_abhay_sharma",
+            "patterns": [
+                "Tell me about Abhay Sharma",
+                "Who is Abhay Sharma?",
+                "Details of Abhay Sharma"
+            ],
+            "responses": [
+                "Abhay Sharma is a Professor in the Mechanical Engineering department at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "faculty_abhishek_ghosh",
+            "patterns": [
+                "Tell me about Abhishek Ghosh",
+                "Who is Abhishek Ghosh?",
+                "Details of Abhishek Ghosh"
+            ],
+            "responses": [
+                "Abhishek Ghosh is an Assistant Professor in the Mathematics department at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "faculty_aditya_shankar_sandupatla",
+            "patterns": [
+                "Tell me about Aditya Shankar Sandupatla",
+                "Who is Aditya Shankar Sandupatla?",
+                "Details of Aditya Shankar Sandupatla"
+            ],
+            "responses": [
+                "Aditya Shankar Sandupatla is an Assistant Professor in the Chemical Engineering department at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "faculty_ajay_kumar",
+            "patterns": [
+                "Tell me about Ajay Kumar",
+                "Who is Ajay Kumar?",
+                "Details of Ajay Kumar"
+            ],
+            "responses": [
+                "Ajay Kumar is an Assistant Professor in the Mathematics department at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "faculty_ajay_singh",
+            "patterns": [
+                "Tell me about Ajay Singh",
+                "Who is Ajay Singh?",
+                "Details of Ajay Singh"
+            ],
+            "responses": [
+                "Ajay Singh is an Associate Professor in the Electrical Engineering department at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Ajeet Kumar Sharma",
+            "patterns": [
+            "Who is Ajeet Kumar Sharma?",
+            "Tell me about Professor Sharma",
+            "What departments does Ajeet Kumar teach in?",
+            "Can you tell me about Dr. Sharma from Bioscience?"
+            ],
+            "responses": [
+            "Ajeet Kumar Sharma is an Assistant Professor in the Department of Bioscience and Bioengineering, Physics."
+            ]
+        },
+        {
+            "tag": "Akash Subhash Awale", 
+            "patterns": [
+            "Who is Akash Subhash Awale?",
+            "Tell me about Professor Awale",
+            "What department is Akash Awale from?",
+            "Can you tell me about Dr. Awale from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Akash Subhash Awale is an Assistant Professor in the Department of Mechanical Engineering."
+            ]
+        },
+        {
+            "tag": "Alok Kumar Saxena",
+            "patterns": [
+            "Who is Alok Kumar Saxena?",
+            "Tell me about Professor Saxena",
+            "What department does Alok Kumar teach in?",
+            "Can you tell me about Dr. Saxena from Electrical Engineering?"
+            ],
+            "responses": [
+            "Alok Kumar Saxena is an Assistant Professor in the Department of Electrical Engineering."
+            ]
+        },
+        {
+            "tag": "Ambika Prasad Shah",
+            "patterns": [
+            "Who is Ambika Prasad Shah?",
+            "Tell me about Professor Shah",
+            "What department is Ambika Shah from?",
+            "Can you tell me about Dr. Shah from Electrical Engineering?"
+            ],
+            "responses": [
+            "Ambika Prasad Shah is an Assistant Professor in the Department of Electrical Engineering."
+            ]
+        },
+        {
+            "tag": "Amitash Ojha",
+            "patterns": [
+            "Who is Amitash Ojha?",
+            "Tell me about Professor Ojha",
+            "What department does Amitash teach in?",
+            "Can you tell me about Dr. Ojha from Humanities?"
+            ],
+            "responses": [
+            "Amitash Ojha is an Assistant Professor in the Department of Humanities & Social Sciences."
+            ]
+        },
+        {
+            "tag": "Amlan Kumar Pal",
+            "patterns": [
+            "Who is Amlan Kumar Pal?",
+            "Tell me about Professor Pal",
+            "What department is Amlan Kumar from?",
+            "Can you tell me about Dr. Pal from Chemistry?"
+            ],
+            "responses": [
+            "Amlan Kumar Pal is an Assistant Professor in the Department of Chemistry."
+            ]
+        },
+        {
+            "tag": "faculty_anand_kumar_subramaniyan",
+            "patterns": [
+            "Who is Anand Kumar Subramaniyan?",
+            "Tell me about Professor Subramaniyan",
+            "What department does Anand Kumar teach in?",
+            "Can you tell me about Dr. Subramaniyan from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Anand Kumar Subramaniyan is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "faculty_angshuman_kapil",
+            "patterns": [
+            "Who is Angshuman Kapil?",
+            "Tell me about Professor Kapil",
+            "What department is Angshuman Kapil from?",
+            "Can you tell me about Dr. Kapil from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Angshuman Kapil is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "faculty_anil_kumar_paidi",
+            "patterns": [
+            "Who is Anil Kumar Paidi?",
+            "Tell me about Professor Paidi",
+            "What departments does Anil Kumar teach in?",
+            "Can you tell me about Dr. Paidi from Chemistry?"
+            ],
+            "responses": [
+            "Anil Kumar Paidi is an Assistant Professor in the Inter Disciplinary Program and Chemistry department."
+            ]
+        },
+        {
+            "tag": "faculty_ankit_dubey", 
+            "patterns": [
+            "Who is Ankit Dubey?",
+            "Tell me about Professor Dubey",
+            "What department is Ankit Dubey from?",
+            "Can you tell me about Dr. Dubey from Electrical Engineering?"
+            ],
+            "responses": [
+            "Ankit Dubey is an Associate Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "faculty_ankit_kathuria",
+            "patterns": [
+            "Who is Ankit Kathuria?",
+            "Tell me about Professor Kathuria",
+            "What departments does Ankit Kathuria teach in?", 
+            "Can you tell me about Dr. Kathuria?"
+            ],
+            "responses": [
+            "Ankit Kathuria is an Associate Professor in the Civil Engineering and Humanities & Social Sciences departments."
+            ]
+        },
+        {
+            "tag": "faculty_ankit_tyagi",
+            "patterns": [
+            "Who is Ankit Tyagi?",
+            "Tell me about Professor Tyagi",
+            "What department is Ankit Tyagi from?",
+            "Can you tell me about Dr. Tyagi from Chemical Engineering?"
+            ],
+            "responses": [
+            "Ankit Tyagi is an Assistant Professor in the Chemical Engineering department."
+            ]
+        },
+        {
+            "tag": "Padmini Singh",
+            "patterns": [
+            "Who is Padmini Singh?",
+            "Tell me about Professor Padmini Singh",
+            "What department is Padmini Singh from?",
+            "Can you tell me about Dr. Singh from Electrical Engineering?"
+            ],
+            "responses": [
+            "Padmini Singh is an Assistant Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "Pankaj Chauhan",
+            "patterns": [
+            "Who is Pankaj Chauhan?",
+            "Tell me about Professor Chauhan",
+            "What does Pankaj Chauhan teach?",
+            "Can you tell me about Dr. Chauhan from Chemistry?"
+            ],
+            "responses": [
+            "Pankaj Chauhan is an Associate Professor in the Chemistry department."
+            ]
+        },
+        {
+            "tag": "Parveen Kumar",
+            "patterns": [
+            "Who is Parveen Kumar?",
+            "Tell me about Professor Parveen Kumar",
+            "What department is Dr. Kumar from?",
+            "Can you tell me about Dr. Parveen from Physics?"
+            ],
+            "responses": [
+            "Parveen Kumar is an Assistant Professor in the Physics department."
+            ]
+        },
+        {
+            "tag": "Pervaiz Fathima Khatoon M",
+            "patterns": [
+            "Who is Pervaiz Fathima Khatoon?",
+            "Tell me about Professor Khatoon",
+            "What does Pervaiz Fathima teach?",
+            "Can you tell me about Dr. Khatoon from Civil Engineering?"
+            ],
+            "responses": [
+            "Pervaiz Fathima Khatoon M is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Pothukuchi Harish",
+            "patterns": [
+            "Who is Pothukuchi Harish?",
+            "Tell me about Professor Harish",
+            "What department is Pothukuchi Harish from?",
+            "Can you tell me about Dr. Harish from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Pothukuchi Harish is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "Prasant Singh",
+            "patterns": [
+            "Who is Prasant Singh?",
+            "Tell me about Professor Prasant Singh",
+            "What does Prasant Singh teach?",
+            "Can you tell me about Dr. Singh from Mathematics?"
+            ],
+            "responses": [
+            "Prasant Singh is an Assistant Professor in the Mathematics department."
+            ]
+        },
+        {
+            "tag": "Prasun Halder",
+            "patterns": [
+            "Who is Prasun Halder?",
+            "Tell me about Professor Halder",
+            "What department is Prasun Halder from?",
+            "Can you tell me about Dr. Halder from Civil Engineering?"
+            ],
+            "responses": [
+            "Prasun Halder is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Pratik Kumar",
+            "patterns": [
+            "Who is Pratik Kumar?",
+            "Tell me about Professor Pratik Kumar",
+            "What does Pratik Kumar teach?",
+            "Can you tell me about Dr. Kumar from Civil Engineering?"
+            ],
+            "responses": [
+            "Pratik Kumar is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Quleen Kaur Bijral",
+            "patterns": [
+            "Who is Quleen Kaur Bijral?",
+            "Tell me about Professor Bijral",
+            "What department is Quleen Kaur from?",
+            "Can you tell me about Dr. Bijral from Humanities?"
+            ],
+            "responses": [
+            "Quleen Kaur Bijral is an Assistant Professor in the Humanities & Social Sciences department."
+            ]
+        },
+        {
+            "tag": "Rahul Dattatraya Kitture",
+            "patterns": [
+            "Who is Rahul Dattatraya Kitture?",
+            "Tell me about Professor Kitture",
+            "What does Rahul Kitture teach?",
+            "Can you tell me about Dr. Kitture from Mathematics?"
+            ],
+            "responses": [
+            "Rahul Dattatraya Kitture is an Assistant Professor in the Mathematics department."
+            ]
+        },
+        {
+            "tag": "Rahul R Salunkhe",
+            "patterns": [
+            "Who is Rahul R Salunkhe?",
+            "Tell me about Professor Salunkhe",
+            "What department is Rahul Salunkhe from?",
+            "Can you tell me about Dr. Salunkhe from Physics?"
+            ],
+            "responses": [
+            "Rahul R Salunkhe is an Associate Professor in the Physics department."
+            ]
+        },
+        {
+            "tag": "Rajendra Kumar Varma",
+            "patterns": [
+            "Who is Rajendra Kumar Varma?",
+            "Tell me about Professor Varma",
+            "What does Rajendra Varma teach?",
+            "Can you tell me about Dr. Varma from Civil Engineering?"
+            ],
+            "responses": [
+            "Rajendra Kumar Varma is an Associate Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Rajiv Kumar",
+            "patterns": [
+            "Who is Rajiv Kumar?",
+            "Tell me about Professor Rajiv Kumar",
+            "What department is Rajiv Kumar from?",
+            "Can you tell me about Dr. Kumar from Mathematics?"
+            ],
+            "responses": [
+            "Rajiv Kumar is an Assistant Professor in the Mathematics department."
+            ]
+        },
+        {
+            "tag": "Rajkumar V",
+            "patterns": [
+            "Who is Rajkumar V?",
+            "Tell me about Professor Rajkumar",
+            "What does Rajkumar V teach?",
+            "Can you tell me about Dr. Rajkumar from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Rajkumar V is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "Rani Rohini",
+            "patterns": [
+            "Who is Rani Rohini?",
+            "Tell me about Professor Rohini",
+            "What department is Rani Rohini from?",
+            "Can you tell me about Dr. Rohini from Materials Engineering?"
+            ],
+            "responses": [
+            "Rani Rohini is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Ravi Kumar Arun",
+            "patterns": [
+            "Who is Ravi Kumar Arun?",
+            "Tell me about Professor Arun",
+            "What does Ravi Kumar Arun teach?",
+            "Can you tell me about Dr. Arun from Chemical Engineering?"
+            ],
+            "responses": [
+            "Ravi Kumar Arun is an Assistant Professor in the Chemical Engineering department."
+            ]
+        },
+        {
+            "tag": "Ravikant Saini",
+            "patterns": [
+            "Who is Ravikant Saini?",
+            "Tell me about Professor Saini",
+            "What department is Ravikant Saini from?",
+            "Can you tell me about Dr. Saini from Electrical Engineering?"
+            ],
+            "responses": [
+            "Ravikant Saini is an Associate Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "Rimen Jamatia",
+            "patterns": [
+            "Who is Rimen Jamatia?",
+            "Tell me about Professor Jamatia",
+            "What does Rimen Jamatia teach?",
+            "Can you tell me about Dr. Jamatia from Civil Engineering?"
+            ],
+            "responses": [
+            "Rimen Jamatia is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Riya Bhowmik",
+            "patterns": [
+            "Who is Riya Bhowmik?",
+            "Tell me about Professor Bhowmik",
+            "What department is Riya Bhowmik from?",
+            "Can you tell me about Dr. Bhowmik from Civil Engineering?"
+            ],
+            "responses": [
+            "Riya Bhowmik is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Rohit Buddhiram Chaurasiya",
+            "patterns": [
+            "Who is Rohit Buddhiram Chaurasiya?",
+            "Tell me about Professor Chaurasiya",
+            "What does Rohit Chaurasiya teach?",
+            "Can you tell me about Dr. Chaurasiya from Electrical Engineering?"
+            ],
+            "responses": [
+            "Rohit Buddhiram Chaurasiya is an Assistant Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "Roshan Udaram Patil",
+            "patterns": [
+            "Who is Roshan Udaram Patil?",
+            "Tell me about Professor Patil",
+            "What department is Roshan Patil from?",
+            "Can you tell me about Dr. Patil from Mechanical Engineering?"
+            ],
+            "responses": [
+            "Roshan Udaram Patil is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "S. R. K. Chaitanya Indukuri",
+            "patterns": [
+            "Who is S. R. K. Chaitanya Indukuri?",
+            "Tell me about Professor Indukuri",
+            "What does Chaitanya Indukuri teach?",
+            "Can you tell me about Dr. Indukuri from Physics?"
+            ],
+            "responses": [
+            "S. R. K. Chaitanya Indukuri is an Assistant Professor in the Physics department."
+            ]
+        },
+        {
+            "tag": "Sahil Kalra",
+            "patterns": [
+                "Who is Sahil Kalra?",
+                "Tell me about Sahil Kalra",
+                "Information about Sahil Kalra"
+            ],
+            "responses": [
+                "Sahil Kalra is an Assistant Professor in the Department of Mechanical Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Samaresh Bera",
+            "patterns": [
+                "Who is Samaresh Bera?",
+                "Tell me about Samaresh Bera",
+                "Information about Samaresh Bera"
+            ],
+            "responses": [
+                "Samaresh Bera is an Assistant Professor in the Department of Computer Science & Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sameer Kumar Sarma Pachalla",
+            "patterns": [
+                "Who is Sameer Kumar Sarma Pachalla?",
+                "Tell me about Sameer Kumar Sarma Pachalla",
+                "Information about Sameer Kumar Sarma Pachalla"
+            ],
+            "responses": [
+                "Sameer Kumar Sarma Pachalla is an Assistant Professor in the Department of Civil Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Samrat Rao",
+            "patterns": [
+                "Who is Samrat Rao?",
+                "Tell me about Samrat Rao",
+                "Information about Samrat Rao"
+            ],
+            "responses": [
+                "Samrat Rao is an Assistant Professor in the Department of Mechanical Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sanat Kumar Tiwari",
+            "patterns": [
+                "Who is Sanat Kumar Tiwari?",
+                "Tell me about Sanat Kumar Tiwari",
+                "Information about Sanat Kumar Tiwari"
+            ],
+            "responses": [
+                "Sanat Kumar Tiwari is an Associate Professor in the Department of Physics at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sanchita Srivastava",
+            "patterns": [
+                "Who is Sanchita Srivastava?",
+                "Tell me about Sanchita Srivastava",
+                "Information about Sanchita Srivastava"
+            ],
+            "responses": [
+                "Sanchita Srivastava is an Assistant Professor in the Department of Humanities & Social Sciences at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Santhilal Subhash",
+            "patterns": [
+                "Who is Santhilal Subhash?",
+                "Tell me about Santhilal Subhash",
+                "Information about Santhilal Subhash"
+            ],
+            "responses": [
+                "Santhilal Subhash is an Assistant Professor in the Department of Bioscience and Bioengineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sarada Prasad Gochhayat",
+            "patterns": [
+                "Who is Sarada Prasad Gochhayat?",
+                "Tell me about Sarada Prasad Gochhayat",
+                "Information about Sarada Prasad Gochhayat"
+            ],
+            "responses": [
+                "Sarada Prasad Gochhayat is an Assistant Professor in the Department of Computer Science & Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sarah Mariam Abraham",
+            "patterns": [
+                "Who is Sarah Mariam Abraham?",
+                "Tell me about Sarah Mariam Abraham",
+                "Information about Sarah Mariam Abraham"
+            ],
+            "responses": [
+                "Sarah Mariam Abraham is an Assistant Professor in the Department of Civil Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sartaj Ul Hasan",
+            "patterns": [
+                "Who is Sartaj Ul Hasan?",
+                "Tell me about Sartaj Ul Hasan",
+                "Information about Sartaj Ul Hasan"
+            ],
+            "responses": [
+                "Sartaj Ul Hasan is an Associate Professor in the Department of Mathematics at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Satya Sekhar Bhogilla",
+            "patterns": [
+                "Who is Satya Sekhar Bhogilla?",
+                "Tell me about Satya Sekhar Bhogilla",
+                "Information about Satya Sekhar Bhogilla"
+            ],
+            "responses": [
+                "Satya Sekhar Bhogilla is an Associate Professor in the Department of Mechanical Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Satyadev Ahlawat",
+            "patterns": [
+                "Who is Satyadev Ahlawat?",
+                "Tell me about Satyadev Ahlawat",
+                "Information about Satyadev Ahlawat"
+            ],
+            "responses": [
+                "Satyadev Ahlawat is an Assistant Professor in the Department of Electrical Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Saurabh Biswas",
+            "patterns": [
+                "Who is Saurabh Biswas?",
+                "Tell me about Saurabh Biswas",
+                "Information about Saurabh Biswas"
+            ],
+            "responses": [
+                "Saurabh Biswas is an Assistant Professor in the Department of Mechanical Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sayantan Mandal",
+            "patterns": [
+                "Who is Sayantan Mandal?",
+                "Tell me about Sayantan Mandal",
+                "Information about Sayantan Mandal"
+            ],
+            "responses": [
+                "Sayantan Mandal is an Assistant Professor in the Department of Humanities & Social Sciences at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Sayantan Mukherjee",
+            "patterns": [
+                "Who is Sayantan Mukherjee?",
+                "Tell me about Sayantan Mukherjee",
+                "Information about Sayantan Mukherjee"
+            ],
+            "responses": [
+                "Sayantan Mukherjee is an Assistant Professor in the Department of Computer Science & Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Shafkat Shafi Dar",
+            "patterns": [
+                "Who is Shafkat Shafi Dar?",
+                "Tell me about Shafkat Shafi Dar",
+                "Information about Shafkat Shafi Dar"
+            ],
+            "responses": [
+                "Shafkat Shafi Dar is an Assistant Professor in the Department of Humanities & Social Sciences at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Shaifu Gupta",
+            "patterns": [
+                "Who is Shaifu Gupta?",
+                "Tell me about Shaifu Gupta",
+                "Information about Shaifu Gupta"
+            ],
+            "responses": [
+                "Shaifu Gupta is an Assistant Professor in the Department of Computer Science & Engineering at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "Shanmugadas K.P",
+            "patterns": [
+                "Who is Shanmugadas K.P?",
+                "Tell me about Shanmugadas K.P",
+                "Information about Shanmugadas K.P"
+            ],
+            "responses": [
+                "Shanmugadas K.P is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "Shantanu Vijay Madge",
+            "patterns": [
+                "Who is Shantanu Vijay Madge?",
+                "Tell me about Shantanu Vijay Madge",
+                "Information about Shantanu Vijay Madge"
+            ],
+            "responses": [
+                "Shantanu Vijay Madge is an Associate Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Shirsendu Ghosh",
+            "patterns": [
+                "Who is Shirsendu Ghosh?",
+                "Tell me about Shirsendu Ghosh",
+                "Information about Shirsendu Ghosh"
+            ],
+            "responses": [
+                "Shirsendu Ghosh is an Assistant Professor in the Bioscience and Bioengineering, Chemistry department."
+            ]
+        },
+        {
+            "tag": "Shirsha Bose",
+            "patterns": [
+                "Who is Shirsha Bose?",
+                "Tell me about Shirsha Bose",
+                "Information about Shirsha Bose"
+            ],
+            "responses": [
+                "Shirsha Bose is an Assistant Professor in the Bioscience and Bioengineering department."
+            ]
+        },
+        {
+            "tag": "Shiva S",
+            "patterns": [
+                "Who is Shiva S?",
+                "Tell me about Shiva S",
+                "Information about Shiva S"
+            ],
+            "responses": [
+                "Shiva S is an Associate Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "Shivnath Mazumder",
+            "patterns": [
+                "Who is Shivnath Mazumder?",
+                "Tell me about Shivnath Mazumder",
+                "Information about Shivnath Mazumder"
+            ],
+            "responses": [
+                "Shivnath Mazumder is an Associate Professor in the Chemistry department."
+            ]
+        },
+        {
+            "tag": "Sidharth Maheshwari",
+            "patterns": [
+                "Who is Sidharth Maheshwari?",
+                "Tell me about Sidharth Maheshwari",
+                "Information about Sidharth Maheshwari"
+            ],
+            "responses": [
+                "Sidharth Maheshwari is an Assistant Professor in the Computer Science & Engineering department."
+            ]
+        },
+        {
+            "tag": "Sivakumar G",
+            "patterns": [
+                "Who is Sivakumar G?",
+                "Tell me about Sivakumar G",
+                "Information about Sivakumar G"
+            ],
+            "responses": [
+                "Sivakumar G is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Soumyadip Das",
+            "patterns": [
+                "Who is Soumyadip Das?",
+                "Tell me about Soumyadip Das",
+                "Information about Soumyadip Das"
+            ],
+            "responses": [
+                "Soumyadip Das is an Assistant Professor in the Mathematics department."
+            ]
+        },
+        {
+            "tag": "Srinivasan N",
+            "patterns": [
+                "Who is Srinivasan N?",
+                "Tell me about Srinivasan N",
+                "Information about Srinivasan N"
+            ],
+            "responses": [
+                "Srinivasan N is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Srishilan C",
+            "patterns": [
+                "Who is Srishilan C?",
+                "Tell me about Srishilan C",
+                "Information about Srishilan C"
+            ],
+            "responses": [
+                "Srishilan C is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Subhas Samanta",
+            "patterns": [
+                "Who is Subhas Samanta?",
+                "Tell me about Subhas Samanta",
+                "Information about Subhas Samanta"
+            ],
+            "responses": [
+                "Subhas Samanta is an Associate Professor in the Chemistry department."
+            ]
+        },
+        {
+            "tag": "Subhasis Bhattacharjee",
+            "patterns": [
+                "Who is Subhasis Bhattacharjee?",
+                "Tell me about Subhasis Bhattacharjee",
+                "Information about Subhasis Bhattacharjee"
+            ],
+            "responses": [
+                "Subhasis Bhattacharjee is an Associate Professor in the Computer Science & Engineering department."
+            ]
+        },
+        {
+            "tag": "Sudhakar Modem",
+            "patterns": [
+                "Who is Sudhakar Modem?",
+                "Tell me about Sudhakar Modem",
+                "Information about Sudhakar Modem"
+            ],
+            "responses": [
+                "Sudhakar Modem is an Assistant Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "Sukanya Mondal",
+            "patterns": [
+                "Who is Sukanya Mondal?",
+                "Tell me about Sukanya Mondal",
+                "Information about Sukanya Mondal"
+            ],
+            "responses": [
+                "Sukanya Mondal is an Assistant Professor in the Humanities & Social Sciences department."
+            ]
+        },
+        {
+            "tag": "Suman Banerjee",
+            "patterns": [
+                "Who is Suman Banerjee?",
+                "Tell me about Suman Banerjee",
+                "Information about Suman Banerjee"
+            ],
+            "responses": [
+                "Suman Banerjee is an Assistant Professor in the Computer Science & Engineering department."
+            ]
+        },
+        {
+            "tag": "Suman Sarkar",
+            "patterns": [
+                "Who is Suman Sarkar?",
+                "Tell me about Suman Sarkar",
+                "Information about Suman Sarkar"
+            ],
+            "responses": [
+                "Suman Sarkar is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Sumit Kumar Pandey",
+            "patterns": [
+                "Who is Sumit Kumar Pandey?",
+                "Tell me about Sumit Kumar Pandey",
+                "Information about Sumit Kumar Pandey"
+            ],
+            "responses": [
+                "Sumit Kumar Pandey is an Assistant Professor in the Computer Science & Engineering department."
+            ]
+        },
+        {
+            "tag": "Sunil Kumar Kashyap",
+            "patterns": [
+                "Who is Sunil Kumar Kashyap?",
+                "Tell me about Sunil Kumar Kashyap",
+                "Information about Sunil Kumar Kashyap"
+            ],
+            "responses": [
+                "Sunil Kumar Kashyap is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Supriyo Chakraborty",
+            "patterns": [
+                "Who is Supriyo Chakraborty?",
+                "Tell me about Supriyo Chakraborty",
+                "Information about Supriyo Chakraborty"
+            ],
+            "responses": [
+                "Supriyo Chakraborty is an Assistant Professor in the Materials Engineering department."
+            ]
+        },
+        {
+            "tag": "Surendra Beniwal",
+            "patterns": [
+                "Who is Surendra Beniwal?",
+                "Tell me about Surendra Beniwal",
+                "Information about Surendra Beniwal"
+            ],
+            "responses": [
+                "Surendra Beniwal is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Suresh Roland Devasahayam",
+            "patterns": [
+                "Who is Suresh Roland Devasahayam?",
+                "Tell me about Suresh Roland Devasahayam",
+                "Information about Suresh Roland Devasahayam"
+            ],
+            "responses": [
+                "Suresh Roland Devasahayam is a Professor in the Electrical Engineering department."
+            ]
+        },
+        {
+            "tag": "Tanmay Sarkar",
+            "patterns": [
+                "Who is Tanmay Sarkar?",
+                "Tell me about Tanmay Sarkar",
+                "Information about Tanmay Sarkar"
+            ],
+            "responses": [
+                "Tanmay Sarkar is an Assistant Professor in the Mathematics department."
+            ]
+        },
+        {
+            "tag": "Ved Prakash Ranjan",
+            "patterns": [
+                "Who is Ved Prakash Ranjan?",
+                "Tell me about Ved Prakash Ranjan",
+                "Information about Ved Prakash Ranjan"
+            ],
+            "responses": [
+                "Ved Prakash Ranjan is an Assistant Professor in the Civil Engineering department."
+            ]
+        },
+        {
+            "tag": "Venkata Sathish Akella",
+            "patterns": [
+                "Who is Venkata Sathish Akella?",
+                "Tell me about Venkata Sathish Akella",
+                "Information about Venkata Sathish Akella"
+            ],
+            "responses": [
+                "Venkata Sathish Akella is an Assistant Professor in the Physics department."
+            ]
+        },
+        {
+            "tag": "Vijay Kumar Pal",
+            "patterns": [
+                "Who is Vijay Kumar Pal?",
+                "Tell me about Vijay Kumar Pal",
+                "Information about Vijay Kumar Pal"
+            ],
+            "responses": [
+                "Vijay Kumar Pal is an Assistant Professor in the Mechanical Engineering department."
+            ]
+        },
+        {
+            "tag": "Vinay Sharma",
+            "patterns": [
+                "Who is Vinay Sharma?",
+                "Tell me about Vinay Sharma",
+                "Information about Vinay Sharma"
+            ],
+            "responses": [
+                "Vinay Sharma is an Assistant Professor in the Bioscience and Bioengineering department."
+            ]
+        },
+        {
+            "tag": "Vinit Jakhetiya",
+            "patterns": [
+                "Who is Vinit Jakhetiya?",
+                "Tell me about Vinit Jakhetiya",
+                "Information about Vinit Jakhetiya"
+            ],
+            "responses": [
+                "Vinit Jakhetiya is an Associate Professor in the Computer Science & Engineering department."
+            ]
+        },
+        {
+            "tag": "Yamuna Prasad",
+            "patterns": [
+                "Who is Yamuna Prasad?",
+                "Tell me about Yamuna Prasad",
+                "Information about Yamuna Prasad"
+            ],
+            "responses": [
+                "Yamuna Prasad is an Assistant Professor in the Computer Science & Engineering department."
+            ]
+        }
+    ]
+}

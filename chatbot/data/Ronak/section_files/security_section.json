@@ -1,0 +1,88 @@
+{
+  "intents": [
+    {
+      "tag": "campus_security",
+      "patterns": [
+        "What is the campus security like?",
+        "Tell me about campus security",
+        "How secure is the IIT Jammu campus?"
+      ],
+      "responses": [
+        "IIT Jammu has a robust, well-defined, and reliable security setup. The campus remains under continuous integrated smart CCTV surveillance for the safety and security of residents and visitors.",
+        "The campus is secured with professional and trained security staff, supported by local police authorities, and is under continuous CCTV surveillance."
+      ]
+    },
+    {
+      "tag": "visitor_instructions",
+      "patterns": [
+        "What are the visitor instructions?",
+        "Can you tell me the visitor guidelines?",
+        "How should visitors enter IIT Jammu?"
+      ],
+      "responses": [
+        "Visitors must carry a valid photo ID card or a soft copy in the Digi locker app for entry.",
+        "Visitors' vehicles are not permitted inside the campus, and there are strict security checks, including frisking and the use of a metal detector."
+      ]
+    },
+    {
+      "tag": "student_instructions",
+      "patterns": [
+        "What are the security instructions for students?",
+        "What should students know about campus security?",
+        "Tell me about the student security rules."
+      ],
+      "responses": [
+        "Students must follow basic principles of community living, carry their Institute ID at all times while moving out, and follow the instructions of the security staff.",
+        "IIT Jammu is a no-ragging zone, and students must not damage any property of the Institute or other individuals."
+      ]
+    },
+    {
+      "tag": "emergency_contact",
+      "patterns": [
+        "What is the emergency contact?",
+        "Tell me the emergency numbers for IIT Jammu",
+        "In case of emergency, who should I contact?"
+      ],
+      "responses": [
+        "In case of an emergency, contact the Security Control Room at 0638 or 0191-257 0638.",
+        "For immediate assistance, call the Emergency Response Team at 1111 (0191 – 257 1111)."
+      ]
+    },
+    {
+      "tag": "security_staff",
+      "patterns": [
+        "Who is the Security Officer?",
+        "Tell me about the security officer",
+        "Who is the head of the security team?",
+        "What is the contact for the security officer?"
+      ],
+      "responses": [
+        "The Security Officer is Lt Cdr Mannu Virk (Retd.), and can be contacted at security.officer@iitjammu.ac.in or 0191 – 257 0639.",
+        "For any inquiries regarding security, reach out to the Security Officer Lt Cdr Mannu Virk (Retd.) at security.officer@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "security_contact",
+      "patterns": [
+        "What is the contact number for security?",
+        "How can I contact the security team?",
+        "Give me the security team's contact details."
+      ],
+      "responses": [
+        "You can contact the Security Control Room at 0638 or 0191-257 0638 for general queries.",
+        "In case of an emergency, reach out to the Emergency Response Team at 1111 (0191 – 257 1111)."
+      ]
+    },
+    {
+      "tag": "security_officer_email",
+      "patterns": [
+        "What is the email of the security officer?",
+        "How can I contact the security officer?",
+        "What is the contact email for the Security Officer?"
+      ],
+      "responses": [
+        "You can contact the Security Officer at security.officer@iitjammu.ac.in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+    "IIT_Jammu": {
+        "Recognition": "Institute of National Importance under the Institutes of Technology Act of 1961",
+        "Funding": "Government of India",
+        "Governance": "IIT Council",
+        "Establishment": "Inaugurated on 6th August 2016",
+        "Mentorship": "Initially mentored by IIT Delhi",
+        "Main_Campus": {
+            "Location": "Jagti village, 17 km from Jammu Airport and 19 km from Jammu Tawi Railway Station",
+            "Operational_Phase": "Phase 1A operational, Phase 1B and 1C under construction"
+        },
+        "Paloura_Campus": {
+            "Accommodation": "PhD scholars",
+            "Facility": "Central Instrumentation Facility (CIF or SAPTARSHI Labs)"
+        }
+    },
+    "Jammu": {
+        "Description": "Largest city in the Jammu Division and the winter capital of Jammu and Kashmir",
+        "Location": "Banks of the Tawi river",
+        "Culture": "Melting pot of cultures, religions, and ethnicities",
+        "Education": {
+            "Institutions": [
+                "AIIMS Jammu",
+                "IIM Jammu",
+                "IIT Jammu"
+            ]
+        },
+        "Geography": {
+            "Spread": "Around the Tawi river",
+            "Elevation": "327 m",
+            "Surroundings": "Shivalik and Trikuta ranges"
+        }
+    },
+    "Contact_Details": {
+        "Address": "Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India"
+    },
+    "IIT_Jammu_Campus": {
+        "title": "IIT Jammu",
+        "url": "https://www.iitjammu.ac.in/permanent-campus",
+        "content": {
+            "about_us": {
+                "campus": "Jagti",
+                "life": "Life @ IIT Jammu",
+                "campus_details": "IIT Jammu’s Jagti campus welcomed its first resident students, 103 in number, in the academic year 2017-18. The newly established breathtaking campus at Jagti village is presently spread over 25 acres, with more than 1300 students studying various disciplines from the bachelor’s to the doctoral level. Its hostels are well equipped for comfortable lodging and boarding for 650 students. It affords lovely vistas of the Trikuta hills, surrounding the campus with abundant raw beauty. Construction for Phases 1B and 1C are in full swing, and the campus is growing with every passing day to accommodate an even bigger strength of students and staff.",
+                "facilities": [
+                    "cafeterias",
+                    "open gym",
+                    "open-air theatre",
+                    "laundry machines",
+                    "digital classrooms",
+                    "ubiquitous 24-hr WLAN",
+                    "central computing facilities",
+                    "music room",
+                    "table tennis tables",
+                    "snooker table",
+                    "medical unit",
+                    "pharmacy",
+                    "common hall with a TV for indoor recreational activities"
+                ],
+                "banks": [
+                    "SBI",
+                    "ICICI",
+                    "J&K",
+                    "Canara Bank"
+                ]
+            },
+            "contact_details": {
+                "address": "Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India"
+            }
+        }
+    },
+    "IIT_Jammu_Paloura_Campus": {
+        "title": "IIT Jammu Paloura Campus",
+        "url": "https://www.iitjammu.ac.in/paloura-campus",
+        "content": {
+            "about_us": {
+                "campus": "Paloura",
+                "life": "Life @ IIT Jammu",
+                "campus_details": "On 1 May 2016, an MOU was signed between the Ministry of Higher Education, Government of India and the Department of Higher Education, Government of Jammu & Kashmir, to set up IIT Jammu at Jagti, Nagrota. IIT Jammu started the same year with 82 undergraduate engineering students in a temporary campus at Paloura, Jammu. Paloura campus was a Kalamkari Charity Society (KCS) premise remodelled to facilitate the needs and workings of an IIT campus. At the same time, construction activities ensued at Jagti.",
+                "facilities": [
+                    "hostel accommodation for students",
+                    "cafeteria",
+                    "digital classrooms",
+                    "library",
+                    "laboratories",
+                    "laundry centres",
+                    "24-hrs Wi-Fi",
+                    "well-equipped gym",
+                    "badminton court",
+                    "basketball court",
+                    "table tennis table",
+                    "common room for other recreational activities"
+                ],
+                "research_facilities": {
+                    "Central Instrumentation Facility (CIF)": {
+                        "labs": [
+                            "Microscopy Lab",
+                            "Spectroscopy Lab",
+                            "X-ray Based Characterization Lab",
+                            "Optics and Chromatography Lab",
+                            "Nanofabrication and Physical Property Characterization Lab (NPPCL)",
+                            "Thermal Analysis Lab (TAL)",
+                            "Water Quality Testing Lab (WQTL)"
+                        ],
+                        "usage": "UG/PG students, research scholars, and faculty extensively use these high-end facilities for advanced research. This facility is also extended to external users like industries, national labs, research organisations, and academic institutions of the region on a chargeable basis. The CIF also organises short-term courses, workshops, and Faculty Development Programs (FDP) on the application of instruments for scientific and technological research."
+                    }
+                }
+            },
+            "contact_details": {
+                "address": "Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India"
+            }
+        }
+    },
+    "IIT_Jammu_Vision_and_Mission": {
+        "title": "IIT Jammu Vision and Mission",
+        "url": "https://www.iitjammu.ac.in/visionmission",
+        "content": {
+            "vision": "To create tomorrow's world through technological interventions which are humanistic, creative and futuristic.",
+            "motto": "Learn, Engage, Invent, Create Impact",
+            "details": {
+                "culture": "The culture shall encourage mutual respect, creativity, collaboration, and passion for attempting to solve problems innovatively.",
+                "processes": "The processes of IIT Jammu shall reflect the development of humanistic technology driven by the design thought. Hands-on educational systems shall be enriched through research and practicum.",
+                "infrastructure": "To promote state-of-the-art research in thematic areas, sustainability at the state-of-the-art infrastructure will be demonstrated.",
+                "institution_culture": "An institution is known for its unique culture. The salient features of IIT Jammu's culture would be to provide an intellectually stimulating, collaborative and creative work environment which would nurture a behavior of mutual respect and self-motivation.",
+                "people": "The greatest resource of an educational institution is its human resource. The people should reflect the culture and aspirations of the institution. They should be passionate, open and friendly, curious, empathetic, ethical and have attributes of a good citizen. The institution should have adequate motivational factors for the students, including a serene environment along with excellent facilities and opportunities in the workplace.",
+                "education_system": "The education system needs to have some unique aspects in order to fulfill the vision. A collaborative inter-disciplinary environment needs to be built. This would involve setting up of other departments along with the main engineering disciplines. Disciplines such as humanities, design, and management must be introduced so that an innovation culture could be set up. Education also needs to have close links with research and practice so that they seamlessly feed into each other. Research would provide leadership and professional practice will help keep education up to date with current realities.",
+                "goals": {
+                    "short_term": [
+                        "The transit campus should be completed in all respects by the middle of 2018.",
+                        "The Phase-I of the campus should also be planned and executed by 2020.",
+                        "Institute should create excellent Undergraduate labs.",
+                        "Institute should build innovative culture by establishing departments dedicated to humanities, design, and management.",
+                        "The Institute should initiate a culture of colloquia/seminars as a strong medium of interaction.",
+                        "The Institutional activities should be structured around the thematic schools within which we have various programs developed through interdisciplinary research and teamwork."
+                    ],
+                    "long_term": [
+                        "The Institute should be known to have produced transformative leaders in select themes of science and technology.",
+                        "Every action of the faculty and staff must be aligned with brand IIT Jammu.",
+                        "IIT Jammu should connect with the community and region for developing solutions to the cities and regions (indigenous technologies for high altitudes, tunneling in Himalayan region, Batteries and EVs for undulating terrains, security of critical infrastructure etc.)"
+                    ]
+                },
+                "research_agenda": "The research should be translational and realistic. The research agenda should be futuristic, farsighted and ambitious while remaining firmly rooted to ground realities. The research should create leaders with the entrepreneurial skills.",
+                "outreach": "IIT Jammu should closely be connected with other IITs and CFTIs for resource sharing and ideation. IIT Jammu should connect with the community around it through all possible media (e.g. community FM radio). IIT Jammu should try to adapt and reach out to know about the communities around it."
+            },
+            "contact_details": {
+                "address": "Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221 J&K, India"
+            }
+        }
+    }
+}

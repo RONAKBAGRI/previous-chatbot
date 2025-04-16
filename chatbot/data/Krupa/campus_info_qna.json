@@ -1,0 +1,301 @@
+{
+  "intents": [
+    {
+      "tag": "institute_name",
+      "patterns": [
+        "What is the name of the institute?",
+        "Tell me the name of the institute",
+        "What is the full name of IIT Jammu?"
+      ],
+      "responses": [
+        "The name of the institute is Indian Institute of Technology Jammu."
+      ]
+    },
+    {
+      "tag": "also_known_as",
+      "patterns": [
+        "What is IIT Jammu also known as?",
+        "What is the short form of IIT Jammu?",
+        "What do people call IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu is also known as IIT Jammu."
+      ]
+    },
+    {
+      "tag": "motto",
+      "patterns": [
+        "What is the motto of IIT Jammu?",
+        "Tell me the motto of IIT Jammu",
+        "What does IIT Jammu's motto say?"
+      ],
+      "responses": [
+        "The motto of IIT Jammu is 'Knowledge is Supreme of all Wealth'."
+      ]
+    },
+    {
+      "tag": "institute_type",
+      "patterns": [
+        "What type of institute is IIT Jammu?",
+        "Is IIT Jammu a government or private institute?",
+        "Is IIT Jammu public or private?"
+      ],
+      "responses": [
+        "IIT Jammu is a government institute."
+      ]
+    },
+    {
+      "tag": "established",
+      "patterns": [
+        "When was IIT Jammu established?",
+        "Tell me the year of establishment of IIT Jammu",
+        "When did IIT Jammu come into existence?"
+      ],
+      "responses": [
+        "IIT Jammu was established in 2016."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is IIT Jammu located?",
+        "What is the location of IIT Jammu?",
+        "Where can I find IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu is located in Jammu, Jammu and Kashmir, India."
+      ]
+    },
+    {
+      "tag": "nearest_airport",
+      "patterns": [
+        "Which is the nearest airport to IIT Jammu?",
+        "Tell me the nearest airport to IIT Jammu",
+        "What is the nearest airport to IIT Jammu?"
+      ],
+      "responses": [
+        "The nearest airport to IIT Jammu is Jammu Airport, which is 17 km away."
+      ]
+    },
+    {
+      "tag": "nearest_railway_station",
+      "patterns": [
+        "Which is the nearest railway station to IIT Jammu?",
+        "Tell me the nearest railway station to IIT Jammu",
+        "What is the nearest railway station to IIT Jammu?"
+      ],
+      "responses": [
+        "The nearest railway station to IIT Jammu is Jammu Tawi Railway Station, which is 15 km away."
+      ]
+    },
+    {
+      "tag": "campus",
+      "patterns": [
+        "What type of campus does IIT Jammu have?",
+        "Is IIT Jammu's campus urban or rural?",
+        "What kind of campus does IIT Jammu have?"
+      ],
+      "responses": [
+        "IIT Jammu has an urban campus."
+      ]
+    },
+    {
+      "tag": "chairman",
+      "patterns": [
+        "Who is the chairman of IIT Jammu?",
+        "Tell me the chairman of IIT Jammu",
+        "Who leads IIT Jammu?"
+      ],
+      "responses": [
+        "The chairman of IIT Jammu is Sharad Kumar Saraf."
+      ]
+    },
+    {
+      "tag": "director",
+      "patterns": [
+        "Who is the director of IIT Jammu?",
+        "Tell me the director of IIT Jammu",
+        "Who is the head of IIT Jammu?"
+      ],
+      "responses": [
+        "The director of IIT Jammu is Manoj Singh Gaur."
+      ]
+    },
+    {
+      "tag": "academic_staff",
+      "patterns": [
+        "How many academic staff members are there at IIT Jammu?",
+        "What is the number of academic staff at IIT Jammu?",
+        "How many professors and academic staff are there at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu has 116 academic staff members."
+      ]
+    },
+    {
+      "tag": "students",
+      "patterns": [
+        "How many students are there in IIT Jammu?",
+        "What is the total number of students at IIT Jammu?",
+        "How many students are currently enrolled in IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu has 1178 students in total."
+      ]
+    },
+    {
+      "tag": "undergraduates",
+      "patterns": [
+        "How many undergraduate students are there at IIT Jammu?",
+        "What is the number of undergraduate students at IIT Jammu?",
+        "How many undergraduates study at IIT Jammu?"
+      ],
+      "responses": [
+        "There are 784 undergraduate students at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "postgraduates",
+      "patterns": [
+        "How many postgraduate students are there at IIT Jammu?",
+        "What is the number of postgraduates at IIT Jammu?",
+        "How many postgraduate students are currently enrolled at IIT Jammu?"
+      ],
+      "responses": [
+        "There are 149 postgraduate students at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "doctoral_students",
+      "patterns": [
+        "How many doctoral students are there at IIT Jammu?",
+        "What is the number of PhD students at IIT Jammu?",
+        "How many students are pursuing a PhD at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu has 245 doctoral students."
+      ]
+    },
+    {
+      "tag": "colors",
+      "patterns": [
+        "What are the colors of IIT Jammu?",
+        "Tell me the official colors of IIT Jammu",
+        "What colors represent IIT Jammu?"
+      ],
+      "responses": [
+        "The colors of IIT Jammu are Blue, Sky Blue, and White."
+      ]
+    },
+    {
+      "tag": "website",
+      "patterns": [
+        "What is the website of IIT Jammu?",
+        "Tell me the official website of IIT Jammu",
+        "Where can I find more information about IIT Jammu?"
+      ],
+      "responses": [
+        "The official website of IIT Jammu is www.iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "permanent_campus_location",
+      "patterns": [
+        "Where is the permanent campus of IIT Jammu?",
+        "Tell me the location of IIT Jammu's permanent campus",
+        "Where is IIT Jammu's main campus situated?"
+      ],
+      "responses": [
+        "The permanent campus of IIT Jammu is located in Jagti, Nagrota Tehsil, Jammu district."
+      ]
+    },
+    {
+      "tag": "permanent_campus_land_area",
+      "patterns": [
+        "What is the land area of IIT Jammu's permanent campus?",
+        "How big is the permanent campus of IIT Jammu?",
+        "What is the size of IIT Jammu's permanent campus?"
+      ],
+      "responses": [
+        "IIT Jammu's permanent campus covers an area of 159 hectares."
+      ]
+    },
+    {
+      "tag": "permanent_campus_facilities",
+      "patterns": [
+        "What facilities are available at IIT Jammu's permanent campus?",
+        "Tell me the facilities at IIT Jammu's permanent campus",
+        "What amenities does IIT Jammu offer at its permanent campus?"
+      ],
+      "responses": [
+        "The permanent campus of IIT Jammu offers facilities such as hostel accommodation for 650 students, cafeteria, open gym, laundry centers, digital classrooms, ubiquitous WiFi, music room, TT tables, snooker table, dispensary, common hall with TV, volleyball, basketball, and badminton courts, cricket nets, football ground (under construction), and ATMs (ICICI, J&K Bank)."
+      ]
+    },
+    {
+      "tag": "NIRF_Engineering_Rankings",
+      "patterns": [
+        "What is the NIRF Engineering ranking of IIT Jammu?",
+        "Tell me the NIRF Engineering rankings for IIT Jammu",
+        "What is IIT Jammu's rank in NIRF Engineering?"
+      ],
+      "responses": [
+        "IIT Jammu was ranked 62nd in the NIRF Engineering Rankings in 2024 and 67th in 2023."
+      ]
+    },
+    {
+      "tag": "curriculum",
+      "patterns": [
+        "What curriculum does IIT Jammu follow?",
+        "Tell me about IIT Jammu's curriculum",
+        "What is the academic curriculum of IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu follows the curriculum that was introduced in 2019."
+      ]
+    },
+    {
+      "tag": "credit_system",
+      "patterns": [
+        "Does IIT Jammu follow a credit system?",
+        "Tell me about the credit system at IIT Jammu",
+        "Does IIT Jammu have a credit-based system?"
+      ],
+      "responses": [
+        "Yes, IIT Jammu follows a credit system."
+      ]
+    },
+    {
+      "tag": "grading_system",
+      "patterns": [
+        "What grading system is used at IIT Jammu?",
+        "Tell me about the grading system at IIT Jammu",
+        "How is grading done for first-year students at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu uses relative grading for first-year students."
+      ]
+    },
+    {
+      "tag": "mode_of_admission",
+      "patterns": [
+        "How can I get admission to IIT Jammu?",
+        "What is the admission process for IIT Jammu?",
+        "Tell me about the modes of admission at IIT Jammu"
+      ],
+      "responses": [
+        "To get admission to IIT Jammu, you need to qualify JEE (Main) and JEE (Advanced), have 75% marks in Class XII or be in the top 20 percentile in the Class XII board examination, and go through JoSAA Counselling for seat allocation."
+      ]
+    },
+    {
+      "tag": "departments",
+      "patterns": [
+        "What are the departments in IIT Jammu?",
+        "Tell me the list of departments at IIT Jammu",
+        "Which departments are available at IIT Jammu?"
+      ],
+      "responses": [
+        "The departments at IIT Jammu include the Department of Computer Science and Engineering, Department of Electrical Engineering, Department of Mechanical Engineering, Department of Civil Engineering, and Department of Mathematics and Physics."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "intents": [
+    {
+      "tag": "IITJammu_counseling_intro",
+      "patterns": [
+        "Tell me about IIT Jammu Counseling Services",
+        "What are the services offered by IIT Jammu Counseling?",
+        "What is IIT Jammu Counseling Services about?"
+      ],
+      "responses": [
+        "IIT Jammu Counseling Services provides support for mental health, academic counseling, and various workshops aimed at personal growth and well-being. It offers individual counseling, group counseling, and other services to help students."
+      ]
+    },
+    {
+      "tag": "IITJammu_counseling_services_offered",
+      "patterns": [
+        "What services are offered by IIT Jammu Counseling?",
+        "What types of support does IIT Jammu Counseling provide?",
+        "What are the services available at IIT Jammu Counseling?"
+      ],
+      "responses": [
+        "IIT Jammu Counseling Services offers mental health support, academic counseling, de-addiction days, confidential personal counseling, workshops, group counseling, and referrals to psychiatrists when needed."
+      ]
+    },
+    {
+      "tag": "IITJammu_counseling_contact",
+      "patterns": [
+        "How can I contact IIT Jammu Counseling Services?",
+        "Where is IIT Jammu Counseling Services located?",
+        "What is the contact information for IIT Jammu Counseling?"
+      ],
+      "responses": [
+        "You can contact IIT Jammu Counseling Services at the phone number 0191-2570730 or via email at counselling.services@iitjammu.ac.in. Counseling services are available Monday to Friday from 9:30 AM to 5:30 PM. Emergency services are available 24/7."
+      ]
+    },
+    {
+      "tag": "IITJammu_counseling_first_visit",
+      "patterns": [
+        "What happens during the first visit to IIT Jammu Counseling Services?",
+        "How is the first session at IIT Jammu Counseling?",
+        "What should I expect during my first visit to IIT Jammu Counseling?"
+      ],
+      "responses": [
+        "During your first visit, you will have a brief 30-45 minute intake session with a counselor. They will provide information about the counseling process, discuss your concerns, and develop a plan to meet your needs."
+      ]
+    },
+    {
+      "tag": "IITJammu_counseling_confidentiality",
+      "patterns": [
+        "Is counseling information kept confidential at IIT Jammu?",
+        "Do IIT Jammu counselors maintain confidentiality?",
+        "Is my information safe with IIT Jammu Counseling?"
+      ],
+      "responses": [
+        "Yes, all counseling records at IIT Jammu are strictly confidential and not part of campus records. Information is shared only with your written permission, except in cases of safety concerns or court orders."
+      ]
+    },
+    {
+      "tag": "IITJammu_counseling_feedback",
+      "patterns": [
+        "How can I give feedback for IIT Jammu Counseling Services?",
+        "Where can I share my feedback for IIT Jammu Counseling?",
+        "I want to share my experience with IIT Jammu Counseling."
+      ],
+      "responses": [
+        "We value your feedback! Please share your experience at feedback@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "IITJammu_counselor_profiles_himanshi_singh",
+      "patterns": [
+        "Tell me about Himanshi Singh",
+        "Who is Himanshi Singh?",
+        "What is Himanshi Singh's background?"
+      ],
+      "responses": [
+        "Himanshi Singh is an RCI licensed Clinical Psychologist with an M.Phil in Clinical Psychology from PGIMS, Rohtak, Haryana. She has experience working with AIIMS, New Delhi, and specializes in psychological assessments, individual therapy (CBT, mindfulness, family therapy), and therapy for depression, anxiety, academic stress, and more."
+      ]
+    },
+    {
+      "tag": "IITJammu_counselor_profiles_nandita_sharma",
+      "patterns": [
+        "Tell me about Nandita Sharma",
+        "Who is Nandita Sharma?",
+        "What is Nandita Sharma's background?"
+      ],
+      "responses": [
+        "Nandita Sharma is an RCI Licensed Clinical Psychologist and Educational Psychologist. She has experience as an academic researcher and psychologist at medical institutions, NGOs, and schools. She specializes in stress, trauma, addiction, grief, LGBTQIA+ issues, and more, using mindfulness, CBT, and client-centric strategies."
+      ]
+    },
+    {
+      "tag": "IITJammu_team_faculty_in_charge",
+      "patterns": [
+        "Who is the faculty in charge of IIT Jammu Counseling Services?",
+        "Who coordinates IIT Jammu Counseling?",
+        "Tell me about the faculty in charge of IIT Jammu Counseling Services"
+      ],
+      "responses": [
+        "The faculty in charge of IIT Jammu Counseling Services is Dr. Sanat Kumar Tiwari, who serves as the Coordinator. You can contact him via email at sanat.tiwari@iitjammu.ac.in or by phone at 0191-257-0281. His office is located at 01AC-6-32."
+      ]
+    },
+    {
+      "tag": "IITJammu_team_student_volunteers",
+      "patterns": [
+        "Who are the student volunteers in IIT Jammu Counseling Services?",
+        "Tell me about the student volunteers at IIT Jammu Counseling",
+        "Who are the volunteers working with IIT Jammu Counseling?"
+      ],
+      "responses": [
+        "The student volunteers at IIT Jammu Counseling Services include Shantanu Pratap Singh (Creatives), Amardeep Jain, Jishnu Lakshya Devani, and Mukul Yadav."
+      ]
+    }
+  ]
+}

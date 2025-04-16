@@ -1,0 +1,241 @@
+{
+  "name": "Indian Institute of Technology Jammu",
+  "motto": {
+    "sanskrit": "Vidyādhanaṃ sarvadhana pradhānam",
+    "english": "Knowledge is Supreme of all Wealth"
+  },
+  "type": "Public technical university",
+  "established": 2016,
+  "chairman": "Sharad Kumar Saraf",
+  "director": "Manoj Singh Gaur",
+  "faculty_count": 116,
+  "student_count": 1178,
+  "undergraduates": 784,
+  "postgraduates": 149,
+  "doctoral_students": 245,
+  "rankings": {
+    "NIRF_2023": 67,
+    "NIRF_2024": 62,
+    "BTech": 52,
+    "overall": 67
+  },
+  "location": {
+    "city": "Jammu",
+    "state": "Jammu & Kashmir",
+    "country": "India",
+    "coordinates": "32°48′13″N 74°53′45″E",
+    "address": "Indian Institute of Technology, Jagti, PO Nagrota, NH-44, Jammu - 181221, Jammu and Kashmir, India",
+    "phone": "0191-2570381"
+  },
+  "campus": {
+    "size": "159 hectares (400 acres)",
+    "temporary": {
+      "area": "40,000 sq.ft.",
+      "facilities": [
+        "hostels",
+        "classrooms",
+        "seminar room",
+        "library",
+        "computer laboratory",
+        "faculty offices",
+        "cafeteria",
+        "recreational and creative facilities",
+        "volleyball, basketball, badminton courts",
+        "cricket nets",
+        "indoor sports facilities",
+        "rooms for music, dance, and other activities"
+      ]
+    },
+    "permanent": {
+      "area": "159 hectares",
+      "facilities": [
+        "hostel accommodation",
+        "cafeteria",
+        "open gym",
+        "laundry centers",
+        "digital classrooms",
+        "ubiquitous anytime WiFi",
+        "music room",
+        "TT tables",
+        "snooker table",
+        "dispensary",
+        "common hall with TV",
+        "volleyball, basketball, badminton courts",
+        "cricket nets",
+        "football ground (under construction)",
+        "ICICI and J&K Bank ATMs"
+      ]
+    }
+  },
+  "academic_profile": {
+    "programmes": [
+      "B.Tech.",
+      "M.Tech.",
+      "Ph.D.",
+      "M.Sc."
+    ],
+    "specializations": {
+      "B.Tech.": [
+        "Chemical Engineering",
+        "Mathematics and Computing",
+        "Civil Engineering",
+        "Computer Science and Engineering",
+        "Electrical Engineering",
+        "Materials Engineering",
+        "Mechanical Engineering"
+      ],
+      "M.Tech.": [
+        "Computer Science and Engineering with specialization in Data Science and Information Security",
+        "Electrical Engineering with specialization in Communications and Signal Processing",
+        "Civil Engineering with specialization in Tunnel Engineering",
+        "Thermal Engineering - Combined course from Mechanical & Chemical Engineering Department",
+        "Computer Technology (RA) - Combined course from CSE & Electrical department",
+        "Artificial Intelligence and Machine Learning (Executive)"
+      ],
+      "Ph.D.": [
+        "Chemistry",
+        "Civil Engineering",
+        "Computer Science and Engineering",
+        "Electrical Engineering",
+        "Humanities and Social Sciences",
+        "Mathematics",
+        "Materials Engineering",
+        "Mechanical Engineering",
+        "Physics"
+      ]
+    }
+  },
+  "courses": [
+    {
+      "name": "B.Tech",
+      "specializations": [
+        "Computer Science and Engineering",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Materials Engineering",
+        "Mathematics and Computing",
+        "Mechanical Engineering"
+      ],
+      "fees": "INR 2.79 Lakhs (1st Year)",
+      "entrance_exam": "JEE Advanced",
+      "counseling": "JoSAA"
+    },
+    {
+      "name": "M.Tech",
+      "specializations": [
+        "Various fields"
+      ],
+      "fees": "INR 59,480 (1st Year)",
+      "entrance_exam": "GATE",
+      "counseling": "COAP"
+    },
+    {
+      "name": "M.Sc",
+      "fees": "INR 32,480 (1st Year)",
+      "entrance_exam": "IIT JAM",
+      "counseling": "JOAPS"
+    },
+    {
+      "name": "Ph.D",
+      "fees": "INR 1 Lakh (1st Year)",
+      "entrance_exam": [
+        "GATE",
+        "UGC-NET",
+        "CSIR-NET",
+        "ICAR",
+        "ICMR"
+      ],
+      "selection_process": "Written Test and Interview"
+    }
+  ],
+  "admission": {
+    "BTech": {
+      "eligibility": "10+2 with a minimum of 75% marks",
+      "entrance_exam": "JEE Advanced",
+      "counseling": "JoSAA",
+      "cutoff_2024": {
+        "Computer Science and Engineering": {
+          "round_1_opening_rank": 3412,
+          "round_5_closing_rank": 6310
+        },
+        "Chemical Engineering": {
+          "round_1_opening_rank": 11517,
+          "round_5_closing_rank": 15048
+        },
+        "Civil Engineering": {
+          "round_1_opening_rank": 11454,
+          "round_5_closing_rank": 15583
+        },
+        "Electrical Engineering": {
+          "round_1_opening_rank": 7241,
+          "round_5_closing_rank": 10005
+        },
+        "Materials Engineering": {
+          "round_1_opening_rank": 14592,
+          "round_5_closing_rank": 16439
+        },
+        "Mathematics and Computing": {
+          "round_1_opening_rank": 5689,
+          "round_5_closing_rank": 7956
+        },
+        "Mechanical Engineering": {
+          "round_1_opening_rank": 9999,
+          "round_5_closing_rank": 12483
+        }
+      }
+    }
+  },
+  "placements": {
+    "2023": {
+      "placement_percentage": 85,
+      "highest_package": "INR 53 LPA",
+      "average_package": "INR 17 LPA",
+      "top_recruiters": [
+        "Accenture",
+        "Amazon",
+        "HCL",
+        "Tech Mahindra",
+        "HDFC Bank"
+      ]
+    },
+    "UG": {
+      "students_graduated": 128,
+      "students_placed": 93,
+      "median_package": "INR 16 LPA"
+    },
+    "PG": {
+      "students_graduated": 46,
+      "students_placed": 36,
+      "median_package": "INR 18 LPA"
+    }
+  },
+  "scholarships": [
+    {
+      "name": "Institute Merit-cum-Means Scholarship",
+      "eligibility": "CGPA & SGPA of not less than 6.0, annual family income not more than INR 4.50 Lakhs"
+    },
+    {
+      "name": "Institute Freeship Scholarship",
+      "eligibility": "Family income between INR 1 Lakh to INR 4.5 Lakhs"
+    },
+    {
+      "name": "Institute Free Messing Scholarship",
+      "eligibility": "SC/ST/PwD category"
+    }
+  ],
+  "campus_life": {
+    "facilities": [
+      "Cafeterias",
+      "Open gym",
+      "Open-air theatre",
+      "Digital classrooms",
+      "Music room",
+      "Table tennis tables",
+      "Medical unit",
+      "Pharmacy",
+      "Bank/ATM",
+      "Wifi"
+    ]
+  }
+}

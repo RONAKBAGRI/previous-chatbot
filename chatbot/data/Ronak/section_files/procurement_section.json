@@ -1,0 +1,116 @@
+{
+  "intents": [
+    {
+      "tag": "procurement_section_policies",
+      "patterns": [
+        "What are the procurement policies?",
+        "Explain purchasing policies at IIT Jammu.",
+        "What rules does IIT Jammu follow for procurement?",
+        "Tell me about the procurement guidelines."
+      ],
+      "responses": [
+        "IIT Jammu follows rigorous purchasing policies to ensure fair usage of public funds and transparency. Common-use goods and services must be procured through the Government e-Marketplace (GeM) as per GFR rules. Items not available on GeM may be procured through an open tender process."
+      ]
+    },
+    {
+      "tag": "procurement_section_overview",
+      "patterns": [
+        "What is procurement and inventory management?",
+        "Explain inventory management at IIT Jammu.",
+        "How is procurement managed at IIT Jammu?",
+        "Tell me about the inventory section."
+      ],
+      "responses": [
+        "The Procurement & Inventory section at IIT Jammu manages goods and services procurement with transparency and efficiency, aiming for integrity and accountability. They also ensure proper inventory management and accounting for all items."
+      ]
+    },
+    {
+      "tag": "procurement_contact_assistant_registrar",
+      "patterns": [
+        "Who is the Assistant Registrar for procurement?",
+        "Contact person for procurement at IIT Jammu.",
+        "Who handles the procurement section?"
+      ],
+      "responses": [
+        "Purvi Sarkar is the Assistant Registrar for the Procurement Section. You can contact her at ar.procurement@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_staff_ambika_sambyal",
+      "patterns": [
+        "Who is Ambika Sambyal?",
+        "Contact details for Ambika Sambyal.",
+        "Tell me about Senior Assistant Ambika Sambyal."
+      ],
+      "responses": [
+        "Ambika Sambyal is a Senior Assistant in the Procurement Section. Email: ambika.sambyal@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_staff_mandeep_singh",
+      "patterns": [
+        "Who is Mandeep Singh?",
+        "Contact details for Mandeep Singh.",
+        "Tell me about Junior Section Officer Mandeep Singh."
+      ],
+      "responses": [
+        "Mandeep Singh is a Junior Section Officer in the Procurement Section. Email: mandeep.singh@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_staff_srishti_raaj",
+      "patterns": [
+        "Who is Srishti Raaj?",
+        "Contact details for Srishti Raaj.",
+        "Tell me about Senior Assistant Srishti Raaj."
+      ],
+      "responses": [
+        "Srishti Raaj is a Senior Assistant in the Procurement Section. Email: srishti.raaj@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_staff_sunil_kumar",
+      "patterns": [
+        "Who is Sunil Kumar?",
+        "Contact details for Sunil Kumar.",
+        "Tell me about Senior Assistant Sunil Kumar."
+      ],
+      "responses": [
+        "Sunil Kumar is a Senior Assistant in the Procurement Section. Email: sunil.kumar@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_staff_surbhi_raina",
+      "patterns": [
+        "Who is Surbhi Raina?",
+        "Contact details for Surbhi Raina.",
+        "Tell me about Senior Assistant Surbhi Raina."
+      ],
+      "responses": [
+        "Surbhi Raina is a Senior Assistant in the Procurement Section. Email: surbhi.raina@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "procurement_process_details",
+      "patterns": [
+        "What is the procurement process?",
+        "How long does procurement take?",
+        "Explain procurement steps at IIT Jammu."
+      ],
+      "responses": [
+        "The procurement process involves steps like forming purchase committees, releasing tenders, and conducting due diligence. For expensive equipment, it may take up to a year from fund allocation to arrival."
+      ]
+    },
+    {
+      "tag": "procurement_inventory_management_details",
+      "patterns": [
+        "How is inventory managed?",
+        "Explain inventory tracking at IIT Jammu.",
+        "Tell me about the inventory management system."
+      ],
+      "responses": [
+        "Inventory management at IIT Jammu includes tracking items like lab equipment, furniture, and books using the E-governance portal. Consumable and non-consumable items are classified using C-form and NC-form for proper tracking."
+      ]
+    }
+  ]
+}

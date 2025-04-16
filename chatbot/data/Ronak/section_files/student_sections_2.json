@@ -1,0 +1,93 @@
+{
+    "intents": [
+      {
+        "tag": "micro_specialization",
+        "patterns": [
+          "What are the micro specializations offered?",
+          "Tell me about the micro specializations available",
+          "What micro specializations can I choose from?"
+        ],
+        "responses": [
+          "IIT Jammu offers the following micro specializations under UG Program: Microelectronics and VLSI Design (2022 Scheme), Tunnel Engineering (2022 Scheme)."
+        ]
+      },
+      {
+        "tag": "minor_specialization",
+        "patterns": [
+          "What are the minor specializations available?",
+          "Tell me about the minor specializations offered",
+          "What minor specializations can I choose from?"
+        ],
+        "responses": [
+          "The following minor specializations are available: Economics (2022 Scheme), Entrepreneurship and Start-up (2022 Scheme), Bioengineering, Mathematics (2019 Scheme), Nuclear Engineering, Engineering and Scientific Computation, CSE (2019 Scheme)."
+        ]
+      },
+      {
+        "tag": "course_offering_framework",
+        "patterns": [
+          "Tell me about the UG 2022 Curriculum",
+          "What is the course offering framework for UG 2022?",
+          "Give me the details about UG 2022 curriculum"
+        ],
+        "responses": [
+          "The UG Program follows the 'UG 2022 Curriculum' as the course offering framework."
+        ]
+      },
+      {
+        "tag": "core_and_elective_courses",
+        "patterns": [
+          "What courses are offered in the core and elective categories?",
+          "Tell me about core and elective courses in each department",
+          "What are the core and elective courses in different departments?"
+        ],
+        "responses": [
+          "Each department offers Core Courses and Elective courses. The departments involved are: Chemical Engineering, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Materials Engineering, Mathematics and Computing, Mechanical Engineering, Chemistry, Physics, Humanities and Social Sciences."
+        ]
+      },
+      {
+        "tag": "credit_earning_courses",
+        "patterns": [
+          "What are the credit earning courses?",
+          "Tell me about credit earning courses in the UG program",
+          "What are the core courses that earn credits?"
+        ],
+        "responses": [
+          "The Core Courses are considered Credit Earning Courses (IC) in the UG Program."
+        ]
+      },
+      {
+        "tag": "design_innovation_and_practicum",
+        "patterns": [
+          "What is the Design Innovation and Practicum course?",
+          "Tell me about the Design Innovation and Practicum in the UG program",
+          "What courses are included under Design Innovation and Practicum?"
+        ],
+        "responses": [
+          "The Design Innovation and Practicum (IC) is part of the Core Courses in the UG Program."
+        ]
+      },
+      {
+        "tag": "engineering_foundation_courses",
+        "patterns": [
+          "What are the Engineering Foundation courses?",
+          "Tell me about Engineering Foundation courses in the UG program",
+          "What courses are included under Engineering Foundation?"
+        ],
+        "responses": [
+          "The Engineering Foundation courses (IC) are part of the Core Courses in the UG Program."
+        ]
+      },
+      {
+        "tag": "environment_courses",
+        "patterns": [
+          "What are the Environment courses?",
+          "Tell me about the Environment courses in the UG program",
+          "What courses are included under the Environment category?"
+        ],
+        "responses": [
+          "The Environment courses (IC) are part of the Core Courses in the UG Program."
+        ]
+      }
+    ]
+  }
+  

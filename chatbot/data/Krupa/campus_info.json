@@ -1,0 +1,197 @@
+{
+    "title": "IIT Jammu",
+    "url": [
+        "https://www.collegepravesh.com/engineering-colleges/iit-jammu/",
+        "https://en.wikipedia.org/wiki/IIT_Jammu"
+    ],
+    "content": {
+        "institute_name": "Indian Institute of Technology Jammu",
+        "also_known_as": "IIT Jammu",
+        "motto": "Knowledge is Supreme of all Wealth",
+        "institute_type": "Government",
+        "type": "Public technical university",
+        "established": 2016,
+        "location": "Jammu, Jammu and Kashmir, India",
+        "nearest_airport": "Jammu Airport (17 km)",
+        "nearest_railway_station": "Jammu Tawi Railway Station (15 km)",
+        "campus": "Urban",
+        "chairman": "Sharad Kumar Saraf",
+        "director": "Manoj Singh Gaur",
+        "academic_staff": 116,
+        "students": 1178,
+        "undergraduates": 784,
+        "postgraduates": 149,
+        "doctoral_students": 245,
+        "colors": [
+            "Blue",
+            "Sky blue",
+            "White"
+        ],
+        "website": "www.iitjammu.ac.in",
+        "campus_details": {
+            "temporary_campus": {
+                "location": "LCD campus",
+                "facilities": [
+                    "hostels",
+                    "classrooms",
+                    "seminar room",
+                    "library",
+                    "computer laboratory",
+                    "faculty offices",
+                    "cafeteria",
+                    "recreational and creative facilities",
+                    "volleyball, basketball, badminton courts",
+                    "cricket nets",
+                    "indoor sports facilities (table tennis, carom, chess, snooker)",
+                    "rooms for music, dance, and other activities"
+                ]
+            },
+            "permanent_campus": {
+                "location": "Jagti, Nagrota Tehsil, Jammu district",
+                "land_area": "159 hectares",
+                "facilities": [
+                    "hostel accommodation for 650 students",
+                    "cafeteria",
+                    "open gym",
+                    "laundry centers",
+                    "digital classrooms",
+                    "ubiquitous anytime WiFi",
+                    "music room",
+                    "TT tables",
+                    "snooker table",
+                    "dispensary",
+                    "common hall with TV",
+                    "volleyball, basketball, badminton courts",
+                    "cricket nets",
+                    "football ground (under construction)",
+                    "ATMs (ICICI, J&K Bank)"
+                ]
+            }
+        },
+        "ranking": {
+            "NIRF_Engineering_Rankings": {
+                "2024": 62,
+                "2023": 67
+            }
+        },
+        "academic_profile": {
+            "curriculum": "Follows IIT Jammu curriculum from 2019 onward",
+            "credit_system": "Yes",
+            "grading_system": "Relative grading for first-year students"
+        },
+        "mode_of_admission": [
+            "Qualify JEE (Main)",
+            "Qualify JEE (Advanced)",
+            "75% marks in Class XII or top 20 percentile in Class XII board examination",
+            "Admissions through JoSAA Counselling"
+        ],
+        "programmes": {
+            "B.Tech": [
+                "Chemical Engineering",
+                "Mathematics and Computing",
+                "Civil Engineering",
+                "Computer Science and Engineering",
+                "Electrical Engineering",
+                "Materials Engineering",
+                "Mechanical Engineering"
+            ],
+            "M.Tech": [
+                "Computer Science and Engineering (Data Science and Information Security)",
+                "Electrical Engineering (Communications and Signal Processing)",
+                "Civil Engineering (Tunnel Engineering)",
+                "Thermal Engineering (Mechanical & Chemical Engineering)",
+                "Computer Technology (RA) (CSE & Electrical)"
+            ],
+            "M.Tech (Executive)": [
+                "Artificial Intelligence and Machine Learning"
+            ],
+            "Ph.D": [
+                "Chemistry",
+                "Civil Engineering",
+                "Computer Science and Engineering",
+                "Electrical Engineering",
+                "Humanities and Social Sciences",
+                "Mathematics",
+                "Materials Engineering",
+                "Mechanical Engineering",
+                "Physics"
+            ]
+        },
+        "courses_offered": "Various engineering courses",
+        "seat_matrix": "Available on the website",
+        "cutoff_ranks": {
+            "2024": "Available on the website",
+            "2023": "Available on the website",
+            "2022": "Available on the website",
+            "2021": "Available on the website"
+        },
+        "fee_structure": {
+            "institute_fee": {
+                "caution_money": 10000,
+                "one_time_fees": 5600,
+                "tuition_fee_per_semester": 100000,
+                "other_fees_per_semester": 14625,
+                "annual_fees": 3100,
+                "total": 133325
+            },
+            "hostel_fee": {
+                "mess_caution_money": 10000,
+                "one_time_fees": 10000,
+                "hostel_seat_rent_per_semester": 8000,
+                "other_fees_per_semester": 1600,
+                "mess_advance_per_semester": 20000,
+                "total": 49600
+            },
+            "fee_waivers": [
+                "100% Tuition Fee waiver for SC/ST/PH students",
+                "Full remission of Tuition Fee for General and OBC students with family income less than Rs.1 lakh per annum",
+                "Remission of 2/3rd of Tuition Fee for General and OBC students with family income between Rs.1 lakh to Rs.5 lakh per annum"
+            ],
+            "scholarship": [
+                "Merit-cum-Means Scholarships",
+                "Free Messing",
+                "Freeship"
+            ]
+        },
+        "placements": {
+            "2023": {
+                "overall_placement_percentage": 81.10,
+                "branchwise_placement_percentage": {
+                    "chemical_engineering": 70.37,
+                    "civil_engineering": 70.83,
+                    "computer_science_and_engineering": 91.43,
+                    "electrical_engineering": 87.88,
+                    "materials_science_and_engineering": 63.16,
+                    "mechanical_engineering": 92.31
+                },
+                "median_package_offered_branchwise": {
+                    "chemical_engineering": 16.00,
+                    "civil_engineering": 9.00,
+                    "computer_science_and_engineering": 22.00,
+                    "electrical_engineering": 22.00,
+                    "materials_science_and_engineering": 16.00,
+                    "mechanical_engineering": 12.00,
+                    "overall": 16.00
+                },
+                "highest_package_offered_branchwise": {
+                    "chemical_engineering": 28.00,
+                    "civil_engineering": 40.00,
+                    "computer_science_and_engineering": 53.00,
+                    "electrical_engineering": 43.00,
+                    "materials_science_and_engineering": 20.00,
+                    "mechanical_engineering": 47.00,
+                    "overall": 53.00
+                },
+                "average_package_offered_branchwise": {
+                    "chemical_engineering": 15.11,
+                    "civil_engineering": 13.82,
+                    "computer_science_and_engineering": 24.05,
+                    "electrical_engineering": 19.16,
+                    "materials_science_and_engineering": 13.33,
+                    "mechanical_engineering": 14.19,
+                    "overall": 17.68
+                }
+            }
+        }
+    }
+}

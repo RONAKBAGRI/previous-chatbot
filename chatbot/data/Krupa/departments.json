@@ -1,0 +1,1408 @@
+{
+  "department": "Biosciences and Bioengineering",
+  "institute": "IIT Jammu",
+  "contact_email": "hod.bsbe@iitjammu.ac.in",
+  "programmes": "Research Areas, PMRF, Publications",
+  "vision": [
+    "Pursuing impactful, world-class research in distinct areas for achieving excellence.",
+    "Providing state-of-the-art teaching and training aimed at bioengineering-based product realization.",
+    "Pursuing high-end interdisciplinary research through national and global collaborations.",
+    "Addressing regional and national challenges offering sustainable solutions.",
+    "Engaging in community outreach to popularize science to improve human health and environmental wellness."
+  ],
+  "laboratories": [
+    "UG Bio Lab",
+    "Genetic Engineering and Tissue culture lab",
+    "Nanodiagnostics and Therapeutics Lab"
+  ],
+  "faculty_count": 6,
+  "student_count": 50,
+  "staff_count": 2,
+  "research_scholars_count": 7,
+  "head_of_department": "Dr. Mithu Baidya",
+  "address": "Department of Bioscience and Bioengineering, IIT Jammu",
+  "research_areas": "Funded Projects, Awards and Honors, Research Labs, Funding Agencies"
+}
+{
+  "title": "Chemistry | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/chemistry",
+  "content": {
+    "email": "hod.chemistry@iitjammu.ac.in",
+    "about": "The Department of Chemistry came into existence since the inception of IIT Jammu in 2016. Initially, the department was maintained by the faculty members of IIT Delhi. From 2017 onwards new faculty members started to join the department and till now the department has four faculty members and two more will be joining soon.",
+    "address": "Department of Chemistry, IIT Jammu",
+    "contact_email": "hod.chemistry@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Faculty",
+      "Programmes",
+      "Research",
+      "Notice",
+      "Media Spot",
+      "Admission in Masters in Science (M. Sc) in Chemistry",
+      "Message from Head of Department",
+      "Programmes",
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses",
+      "Academic Information",
+      "Workshops and seminars",
+      "Ph.D Students",
+      "Publications",
+      "Media Gallery",
+      "Research and Facilities",
+      "Labs",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "Contact Details"
+    ],
+    "faculty": [
+      {
+        "name": "Amlan Kumar Pal",
+        "position": "Assistant Professor",
+        "research_area": "Battery Materials Development"
+      },
+      {
+        "name": "Anil Kumar Paidi",
+        "position": "Assistant Professor",
+        "research_area": "Sustainable Catalysis"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Synthetic Organic and Inorganic Chemistry",
+      "Computational Chemistry",
+      "Physical Chemistry",
+      "Material Chemistry"
+    ],
+    "phd_students": [
+      {
+        "name": "Abdul Rouf War",
+        "supervisor": "Mithu Baidya",
+        "research_area": "Molecular Pharmacology"
+      },
+      {
+        "name": "Khushboo Warjurkar",
+        "supervisor": "Vinay Sharma",
+        "research_area": "Nanomaterial for Biomedical Application"
+      }
+    ]
+  }
+}
+{
+  "title": "Computer Science & Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/computer_science_engineering",
+  "content": {
+    "email": "hod.cse@iitjammu.ac.in",
+    "about": "Department of Computer Science and Engineering is from one of the very first departments established at IIT Jammu with a vision to foster teaching, research and development of technologies in areas of computing and information technology.",
+    "address": "Department of Computer Science and Engineering, IIT Jammu",
+    "contact_email": "hod.cse@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Programmes",
+      "Faculty",
+      "Ph.D Students",
+      "Notice",
+      "Media",
+      "Admission to Ph.D. Programmes (August Session) for Academic Year 2023-24",
+      "SPOT ADMISSIONS 2022 for M.Tech Computer Science (Data Science and Information Security)",
+      "Message from Head of Department",
+      "Research",
+      "Publications",
+      "Labs",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "Admissions",
+      "Staff Recruitment",
+      "Tenders"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Artificial Intelligence"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Machine Learning"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Information Security"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Deep Learning"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Natural Language Processing"
+      }
+    ]
+  }
+}
+{
+  "title": "Humanities & Social Sciences | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/hss_engineering",
+  "content": {
+    "email": "hod.hss@iitjammu.ac.in",
+    "about": "We are a department of 7 faculty members, steadily rising in impact and number since the Institute's inception in 2016. The Department's diverse and overlapping research, ranging from Philosophy to Literatures in English to Economics to Sociology, is a testament to the vast potential of the Humanities and Social Sciences. Our research queries and pursuits are in line with the larger vision of the Institute: to enable collaborative interventions that are humanistic, creative, and have a social impact.",
+    "address": "Department of Humanities & Social Sciences, IIT Jammu",
+    "contact_email": "hod.hss@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Programmes",
+      "Faculty",
+      "Ph.D Students",
+      "Notice",
+      "Media",
+      "Workshop titled 'Charity Vlogging, Social Entrepreneurship, and Value Co-Creation: The Indian Case'",
+      "Talk titled 'Is Your Monkey Brain Making You Unhappy?'",
+      "Conference on Achieving Sustainable Development Goals: Prospects and Challenges for India",
+      "Message from Head of Department",
+      "Research",
+      "Publications",
+      "Labs",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "Admissions",
+      "Staff Recruitment",
+      "Tenders"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Philosophy"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Literatures in English"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Philosophy",
+      "Literatures in English",
+      "Economics",
+      "Sociology"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Philosophy"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Literatures in English"
+      }
+    ]
+  }
+}
+{
+  "title": "Mathematics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mathematics",
+  "content": {
+    "email": "hod.math@iitjammu.ac.in",
+    "about": "The Department of Mathematics was started in 2016 together with the establishment of IIT Jammu. The vision of the department is to become a centre of excellence in Mathematics through high quality research and teaching.",
+    "address": "Department of Mathematics, IIT Jammu",
+    "contact_email": "hod.math@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Courses",
+      "Programmes",
+      "People",
+      "Events",
+      "Notice",
+      "Media",
+      "Summer Internship by Department of Mathematics",
+      "In-House Symposium 2024",
+      "Message from Head of Department",
+      "Publications / Projects",
+      "Projects 2023",
+      "Publications 2022",
+      "Publications 2021",
+      "Publications 2020",
+      "Contact Us",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "CERT-IN Certificate",
+      "Copyright Disclaimers",
+      "Giving Back",
+      "IIT Act",
+      "privacy",
+      "Copyright © 2020 IIT Jammu, all rights reserved"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Algebra"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Topology"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Algebra",
+      "Topology",
+      "Analysis",
+      "Applied Mathematics"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Algebra"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Topology"
+      }
+    ]
+  }
+}
+{
+  "title": "B.Tech Courses | Mathematics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mathematics/btech-courses-mathematics",
+  "content": {
+    "core_courses": [
+      "Calculus",
+      "Linear Algebra and Differential Equations"
+    ],
+    "elective_courses": [
+      "Abstract and Linear Algebra",
+      "Advanced Calculus and Geometry",
+      "Commutative Algebra",
+      "Computational Methods for Differential Equations",
+      "Cryptography",
+      "Differential Equations",
+      "Finite Fields and Applications",
+      "Functional Analysis",
+      "Graph Theory and Combinatorics",
+      "Integral Transforms and its Applications",
+      "Introduction to Coding Theory",
+      "Matrix Computations",
+      "Measure Theory",
+      "Modern Algebra",
+      "Number Theory",
+      "Numerical Analysis",
+      "Optimization Methods and Applications",
+      "Partial Differential Equations",
+      "Probability and Stochastic Process",
+      "Real and Complex Analysis",
+      "Statistical Methods",
+      "The Mathematics of Imaging Sciences",
+      "Topology"
+    ]
+  }
+}
+{
+  "title": "UG Programme | Mathematics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mathematics/program-list/ug-programme",
+  "content": {
+    "admission_process": "The admission to UG programme is done through Joint Entrance Examination - Advanced (JEE-Advanced) rank and administered by the Joint Admission Board (JAB) through centralized counseling conducted by JoSSA at the all-India level."
+  }
+}
+{
+  "title": "About Us | Mathematics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mathematics/about-us",
+  "content": {
+    "about": "The Department of Mathematics was started in 2016 together with the establishment of IIT Jammu. The vision of the department is to become a centre of excellence in Mathematics through high quality research and teaching.",
+    "teaching": "The department is offering various core and elective courses for all B. Tech. streams. Apart from this the department is also offering a minor programme in Mathematics. The minor programme in Mathematics is designed to allow undergraduate students to pursue a more rigorous education in mathematics.",
+    "research": "The department has at present energetic and dedicated faculty members in many diverse areas of mathematics. Currently, the main areas of research of the faculty members are Differential Equations, Numerical Analysis, Commutative Algebra, Group Theory, Number Theory, Finite Fields, Probability theory and Stochastic Processes."
+  }
+}
+{
+  "title": "Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/",
+  "content": {
+    "email": "hod.physics@iitjammu.ac.in",
+    "about": "The Department of Physics at IIT Jammu is an academic-oriented research institution where teaching and research are integral components of our mission.",
+    "address": "Department of Physics, IIT Jammu",
+    "contact_email": "hod.physics@iitjammu.ac.in",
+    "sections": [
+      "About",
+      "Academics",
+      "People",
+      "Research",
+      "Laboratories",
+      "Contact"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. Ajeet Sharma",
+        "position": "Head of Department",
+        "research_area": "Physics"
+      }
+    ],
+    "research_areas": [
+      "Material Research Laboratory (MRL)",
+      "Solar Research Lab (SRL)",
+      "Shivalik Plasma Laboratory",
+      "Optoelectronics and Device Physics Laboratory"
+    ],
+    "students": {
+      "faculty_count": 10,
+      "student_count": 100,
+      "staff_count": 3,
+      "research_scholars_count": 22
+    }
+  }
+}
+{
+  "title": "About | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/department-vision.html",
+  "content": {
+    "about": "In line with the institute's broad vision, the department vision and mission focuses on directional research towards product realization - ideas, devices, processes. Envisioning a research-based teaching environment. Research for impact: Becoming the trendsetter. Popularizing Physics - outreach, local challenges."
+  }
+}{
+  "title": "Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/",
+  "content": {
+    "email": "hod.physics@iitjammu.ac.in",
+    "about": "The Department of Physics at IIT Jammu is an academic-oriented research institution where teaching and research are integral components of our mission.",
+    "address": "Department of Physics, IIT Jammu",
+    "contact_email": "hod.physics@iitjammu.ac.in",
+    "sections": [
+      "About",
+      "Academics",
+      "People",
+      "Research",
+      "Laboratories",
+      "Contact"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. Ajeet Sharma",
+        "position": "Head of Department",
+        "research_area": "Physics"
+      }
+    ],
+    "research_areas": [
+      "Material Research Laboratory (MRL)",
+      "Solar Research Lab (SRL)",
+      "Shivalik Plasma Laboratory",
+      "Optoelectronics and Device Physics Laboratory"
+    ],
+    "students": {
+      "faculty_count": 10,
+      "student_count": 100,
+      "staff_count": 3,
+      "research_scholars_count": 22
+    }
+  }
+}
+{
+  "title": "Research Areas | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/research-areas.html",
+  "content": {
+    "research_areas": [
+      "Soft matter physics",
+      "Active matter",
+      "Computational & Experimental Energy storage",
+      "Post Li Ion battery",
+      "Metal ion capacitor",
+      "Na/Li super ionic conductor",
+      "Solid state battery",
+      "First-Principles Modelling of materials",
+      "Strongly Correlated materials",
+      "Topological electronic materials",
+      "Structural and magnetic Transitions",
+      "Optical Properties",
+      "Plasma Physics",
+      "Strongly Coupled plasma",
+      "Dusty Plasma",
+      "Plasma Agriculture",
+      "Solar Energy Harvesting",
+      "Photo Physical Properties and Photo sensing",
+      "Solution Processed Solar Cells",
+      "Interface Solar steam Generation",
+      "Nano photonics and Quantum Materials",
+      "Plasmonics, Hyperbolic meta-Materials",
+      "Optical topological Quantum materials",
+      "Non-Linear Optics of Quantum Materials",
+      "Condensed matter Physics",
+      "Quantum Physics",
+      "Quantum measurement",
+      "Quantum Error corrections",
+      "Quantum Control",
+      "Non-Hermitian Physics",
+      "Biophysics",
+      "Non-equilibrium statistical Mechanics",
+      "Computational Biology",
+      "Optics",
+      "Optics Spectroscopy",
+      "Device"
+    ]
+  }
+}
+{
+  "title": "Funded Projects | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/funded-projects.html",
+  "content": {
+    "funded_projects": [
+      {
+        "project_title": "Design of two-dimensional materials for energy applications",
+        "funding_agency": "DST-FIST",
+        "cost": 20500000.00,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Tuning interlayer spacing of two-dimensional materials by Van der Waal integrations towards capacitive energy storage applications",
+        "funding_agency": "SERB",
+        "cost": 1900000.00,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Enhancing Electrochemical charge storage through Ionic liquid assisted advanced functional materials",
+        "funding_agency": "SERB",
+        "cost": 600000.00,
+        "duration": "Completed"
+      },
+      {
+        "project_title": "Achieving high voltage in hybrid perovskite solar cells",
+        "funding_agency": "DST India",
+        "cost": 3500000,
+        "duration": "Completed"
+      },
+      {
+        "project_title": "Development of New Hybrid Molecules to Harvest Solar Light: Applications Towards Photovoltaics and Photocatalysis",
+        "funding_agency": "IIT Jammu",
+        "cost": 8800000,
+        "duration": "Completed"
+      },
+      {
+        "project_title": "Overcoming the Shockley-Queisser Limit of Photocurrent in CH3NH3PbBr3 Based Organic-Inorganic Hybrid Perovskite Solar Cells",
+        "funding_agency": "SERB-SRG",
+        "cost": 1114000,
+        "duration": "Completed"
+      },
+      {
+        "project_title": "Complex oxides for efficient solar water steaming: A greener way of water distillation",
+        "funding_agency": "CSIR",
+        "cost": 1600000,
+        "duration": "Completed"
+      },
+      {
+        "project_title": "A Complete Low-Cost Solution for Solar-Driven Water Desalination",
+        "funding_agency": "SERB-CRG",
+        "cost": 6096288,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Characterization and control over voids, vortices and flows of dusty plasmas in DC glow discharge",
+        "funding_agency": "PRAISE Grant, IIT Jammu",
+        "cost": 2500000,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Molecular dynamics modeling of Electrostatic turbulence in dusty plasma",
+        "funding_agency": "Matching Grant, IIT Jammu",
+        "cost": 1000000,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Molecular dynamics modeling of Electrostatic turbulence in dusty plasma",
+        "funding_agency": "Core Research Grant, DST",
+        "cost": 3200000,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Active particle suspensions in Viscoelastic fluids",
+        "funding_agency": "SERB-CRG",
+        "cost": 31465264,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Non-Equilibrium kinetics of Chaperone action",
+        "funding_agency": "SERB-CRG",
+        "cost": 3300000,
+        "duration": "Ongoing"
+      },
+      {
+        "project_title": "Evolutionary optimization of cellular resources and a codon optimization method inspired by natural selection",
+        "funding_agency": "DBT",
+        "cost": 2900000,
+        "duration": "Ongoing"
+      }
+    ]
+  }
+}
+{
+  "title": "Patents | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/patent.html",
+  "content": {
+    "patents": [
+      {
+        "inventors": "U. M. Patil, S. S. Kumbhar, S. B. Bhosale, V. V. Patil, C. D. Lokhande, Rahul R. Salunkhe",
+        "title": "Cobalt vanadium oxide, preparation method for the same, and super capacitor comprising the same",
+        "patent_number": "Indian patent number 529322",
+        "year": 2024
+      },
+      {
+        "inventors": "Rahul R. Salunkhe, N. Bansal, N. Kumar, P. K. Pathak",
+        "title": "A 2D MOLYBDENUM DOPED VANADIUM DIOXIDE BASED ELECTRODE MATERIAL FOR ELECTROCHEMICAL SUPERCAPACITORS",
+        "patent_number": "Indian patent application number 202311051412",
+        "year": 2023
+      },
+      {
+        "inventors": "N. Kobayashi, Y. Yamauchi, Rahul R. Salunkhe, J. Tang",
+        "title": "Core-shell composites and methods for their manufacture, electrode materials, catalysts, electrodes, a secondary battery, electric double-layer capacitor",
+        "patent_number": "US patent No. 10510493",
+        "year": 2019
+      },
+      {
+        "inventors": "Rahul R. Salunkhe, K. Jang, H. Yu, and H. Ahn",
+        "title": "Electrode for electrochemical device and its producing method",
+        "patent_number": "Korea 0037094",
+        "year": 2010
+      },
+      {
+        "inventors": "AK Sharma, EP O'brien",
+        "title": "mRNA sequences to control co-translational folding of proteins",
+        "patent_number": "US Patent 10724040",
+        "year": 2020
+      }
+    ]
+  }
+}
+{
+  "title": "Laboratories | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/laboratories.html",
+  "content": {
+    "laboratories": [
+      {
+        "name": "Material Research Laboratory (MRL)",
+        "description": "The MRL is a multidisciplinary research lab developing novel materials with enhanced physical and chemical properties for a wide range of electrochemical energy storage applications. The lab focuses on the design and development of nanoporous carbons, metal oxides, and polymers for applications such as batteries, supercapacitors, and hybrid energy storage devices."
+      },
+      {
+        "name": "Solar Research Lab (SRL)",
+        "description": "The SRL focuses on solar energy harvesting and the development of solar cells. The lab is equipped with advanced facilities for the fabrication and characterization of solar cells."
+      },
+      {
+        "name": "Shivalik Plasma Laboratory",
+        "description": "The Shivalik Plasma Laboratory conducts research on plasma physics, including strongly coupled plasma, dusty plasma, and plasma agriculture. The lab is equipped with state-of-the-art facilities for plasma research."
+      },
+      {
+        "name": "Optoelectronics and Device Physics Laboratory",
+        "description": "The Optoelectronics and Device Physics Laboratory focuses on the fundamental aspects of light-matter interaction and the development of optoelectronic devices. The lab is equipped with sophisticated instruments for device fabrication and characterization, including Raman Spectroscopy, Photoluminescence, and Electroluminescence spectroscopy."
+      }
+    ]
+  }
+}
+{
+  "title": "Contact | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/contact.html",
+  "content": {
+    "address": "Department of Physics, North Block, IIT Jammu, Jagti, PO Nagrota, NH-44, Jammu - 181 221, J&K, India",
+    "email": "hod.physics@iitjammu.ac.in",
+    "phone_number": "Will Update soon.."
+  }
+}
+{
+  "title": "About | Physics | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/physics/department-vision.html",
+  "content": {
+    "about": "In line with the institute's broad vision, the department vision and mission focuses on directional research towards product realization - ideas, devices, processes. Envisioning a research-based teaching environment. Research for impact: Becoming the trendsetter. Popularizing Physics - outreach, local challenges."
+  }
+}
+{
+  "title": "Chemical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/chemical-engineering/",
+  "content": {
+    "email": "hod.chemical@iitjammu.ac.in",
+    "about": "Chemical Engineering is one of the “BIG FOUR” disciplines of the Engineering Science, the rest being Civil, Mechanical, and Electrical. It is also the youngest of the basic branches of the engineering discipline. A chemical engineer works in a place like the one seen in the image above. They are responsible for converting any raw material to a finished product, may it be petrol from crude oil, synthetic rubber from rubber sap, tea bags from tea leaves, sugar from sugarcane, the list goes on.",
+    "address": "Department of Chemical Engineering, IIT Jammu",
+    "contact_email": "hod.chemical@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Academics",
+      "People",
+      "News and Updates",
+      "Contact"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. Ravi Kumar Arun",
+        "position": "Head of Department",
+        "research_area": "Chemical Engineering"
+      }
+    ],
+    "news_and_updates": [
+      {
+        "title": "Workshop On Electrochemical Systems And AI For Sustainable Energy",
+        "date": "19 December, 2024"
+      },
+      {
+        "title": "Award from Department of Chemical Engineering",
+        "date": "19 December, 2024"
+      },
+      {
+        "title": "Publication by Mr. Praneet Mishra",
+        "date": "26 November, 2024"
+      },
+      {
+        "title": "Publication by Mr. Ravi Kumar",
+        "date": "19 December, 2024"
+      },
+      {
+        "title": "Workshop on Micro-fabrication and Biosensors",
+        "date": "19 December, 2024"
+      }
+    ],
+    "research_laboratories": [
+      "Fluid Flow & Mechanical Operations Laboratory",
+      "Heat Transfer & Thermodynamics Laboratory",
+      "Process Instrumentation Dynamics & Control Lab",
+      "Process Modelling & Simulation Lab",
+      "Separation Processes And Chemical Reaction Engineering Laboratory"
+    ],
+    "workshops": [
+      {
+        "title": "IIT Jammu and BARC Collaborate for a Successful Scientific and Technical Outreach Program",
+        "date": "25 March, 2023"
+      },
+      {
+        "title": "Online Workshop on Artificial Intelligence in Healthcare",
+        "date": "25 March, 2023"
+      },
+      {
+        "title": "One-day workshop on \"Microfluidic Chip Fabrication & Device Characterization\"",
+        "date": "25 March, 2023"
+      },
+      {
+        "title": "Workshop on Electrochemical Methods and Applications",
+        "date": "25 March, 2023"
+      }
+    ],
+    "people": {
+      "faculty_count": 9,
+      "student_count": 100,
+      "staff_count": 5,
+      "research_scholars_count": 20
+    }
+  }
+}
+{
+  "title": "Civil Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/civil_engineering",
+  "content": {
+    "email": "hod.ce@iitjammu.ac.in",
+    "about": "The Department of Civil Engineering (CE) of IIT Jammu, one of six engineering departments, was started in the year 2017. The department offers four-year undergraduate courses, training the students in multiple core disciplines including Structural Analysis and Design, Traffic Engineering, Hydraulics, Construction Management, Environment Engineering, and Surveying, as well as exposure to interdisciplinary projects to enhance collaborative efforts and hone entrepreneurship skills.",
+    "address": "Department of Civil Engineering, IIT Jammu, Jagti, PO Nagrota, NH-44 Jammu - 181 221 J&K, India",
+    "contact_email": "hod.ce@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Research and Facilities",
+      "Faculty",
+      "Ph.D Students",
+      "Notice",
+      "Media",
+      "One day seminar on Innovations in Tunnelling Technologies",
+      "IIT Jammu, IIT Guwahati presents RCRM 2023",
+      "SYAHI Lecture Series",
+      "Message from Head of Department",
+      "Academic Information",
+      "Workshops and Seminars",
+      "UG Programme",
+      "PG Programme",
+      "Ph.D Programme",
+      "Certificate Courses",
+      "Documents",
+      "Media Gallery",
+      "Labs"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Structural Engineering"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Environmental Engineering"
+      }
+    ],
+    "research": [
+      "Environmental Engineering",
+      "Geomatics",
+      "Geotechnical Engineering",
+      "Structural Engineering",
+      "Transportation Engineering",
+      "Water Resource Engineering"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Structural Engineering"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Environmental Engineering"
+      }
+    ]
+  }
+}
+{
+  "title": "Civil Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/civil_engineering",
+  "content": {
+    "email": "hod.ce@iitjammu.ac.in",
+    "about": "The Department of Civil Engineering (CE) of IIT Jammu, one of six engineering departments, was started in the year 2017. The department offers four-year undergraduate courses, training the students in multiple core disciplines including Structural Analysis and Design, Traffic Engineering, Hydraulics, Construction Management, Environment Engineering, and Surveying, as well as exposure to interdisciplinary projects to enhance collaborative efforts and hone entrepreneurship skills.",
+    "address": "Department of Civil Engineering, IIT Jammu, Jagti, PO Nagrota, NH-44 Jammu - 181 221 J&K, India",
+    "contact_email": "hod.ce@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Research and Facilities",
+      "Faculty",
+      "Ph.D Students",
+      "Notice",
+      "Media",
+      "One day seminar on Innovations in Tunnelling Technologies",
+      "IIT Jammu, IIT Guwahati presents RCRM 2023",
+      "SYAHI Lecture Series",
+      "Message from Head of Department",
+      "Academic Information",
+      "Workshops and Seminars",
+      "UG Programme",
+      "PG Programme",
+      "Ph.D Programme",
+      "Certificate Courses",
+      "Documents",
+      "Media Gallery",
+      "Labs"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Structural Engineering"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Environmental Engineering"
+      }
+    ],
+    "research": [
+      "Environmental Engineering",
+      "Geomatics",
+      "Geotechnical Engineering",
+      "Structural Engineering",
+      "Transportation Engineering",
+      "Water Resource Engineering"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Structural Engineering"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Environmental Engineering"
+      }
+    ]
+  }
+}
+{
+  "title": "Placement Data | Electrical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/ee/placement-industry.html",
+  "content": {
+    "placement_data": [
+      {
+        "year": "2023-2024",
+        "UG": {
+          "percentage": 37.5,
+          "mean_salary": 14.46,
+          "max_salary": 41.5,
+          "min_salary": 5
+        },
+        "M.Tech (CSP)": {
+          "percentage": 50,
+          "mean_salary": 21.67,
+          "max_salary": 37,
+          "min_salary": 12
+        },
+        "M.Tech (VLSI)": {
+          "percentage": 66.67,
+          "mean_salary": 30.11,
+          "max_salary": 48,
+          "min_salary": 9.5
+        }
+      },
+      {
+        "year": "2022-2023",
+        "UG": {
+          "percentage": 87.88,
+          "mean_salary": 20.22,
+          "max_salary": 53,
+          "min_salary": 8
+        },
+        "M.Tech (CSP)": {
+          "percentage": 92.68,
+          "mean_salary": 11.81,
+          "max_salary": 19,
+          "min_salary": 11.5
+        }
+      }
+    ]
+  }
+}
+{
+  "title": "Academia | Electrical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/ee/placement-academia.html",
+  "content": {
+    "academia": [
+      {
+        "year": "2023-2024",
+        "B.Tech": {
+          "higher_studies": 9
+        },
+        "M.Tech (CSP)": {
+          "higher_studies": 1
+        },
+        "M.Tech (VLSI)": {
+          "higher_studies": 1
+        },
+        "PhD": {
+          "higher_studies": 2
+        }
+      },
+      {
+        "year": "2022-2023",
+        "B.Tech": {
+          "higher_studies": 3
+        },
+        "M.Tech (CSP)": {
+          "higher_studies": 0
+        },
+        "M.Tech (VLSI)": {
+          "higher_studies": 0
+        },
+        "PhD": {
+          "higher_studies": 1
+        }
+      }
+    ]
+  }
+}
+{
+  "title": "Materials Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/materials-engineering",
+  "content": {
+    "email": "hod.materials@iitjammu.ac.in",
+    "about": "The department offers B.Tech. and Ph.D. in relevant areas. The vision of the department is to develop leaders of tomorrow and conduct translational research to address major technological bottlenecks. We are in the process of developing state-of-the-art laboratories that not only cater to the undergraduate curriculum but also foster research in various specialized and interdisciplinary areas.",
+    "address": "Department of Materials Engineering, IIT Jammu",
+    "contact_email": "hod.materials@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Programmes",
+      "Faculty",
+      "Ph.D Students",
+      "Staff",
+      "Notice",
+      "Media",
+      "Open House Meeting",
+      "High-End Workshop \"Karyashala\" on Drug Development and Delivery Systems in Modern Healthcare",
+      "Advertisement for the Position of Laboratory Technician in the Department of Materials Engineering on an Outsource Basis",
+      "Message from Head of Department",
+      "Research",
+      "Publications",
+      "Labs",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "Admissions",
+      "Staff Recruitment",
+      "Tenders"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Metals"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Polymers"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Metals",
+      "Polymers",
+      "Nanomaterials",
+      "Biomaterials"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Metals"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Polymers"
+      }
+    ]
+  }
+}
+{
+  "title": "Mechanical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mechanical_engineering",
+  "content": {
+    "email": "hod.mechanical@iitjammu.ac.in",
+    "about": "The Mechanical Engineering Department of IIT Jammu was established in 2016 and is one of the three founding departments of the Institute. It offers B.Tech., M.Tech., and Ph.D. programs. The department aims to train tomorrow's engineers and leaders and conduct translational research in an effort to remove technological barriers. It has twenty faculty members, four staff members, one hundred and forty-four undergraduate students (I, II, III, and IV year students), and twenty-five M.Tech. (Thermal and Energy Systems) students, and forty-five PhD students. With state-of-the-art machinery and cutting-edge technology, the department houses multiple undergraduate and research laboratories that support both undergraduate education and research in a variety of specialized and interdisciplinary fields, which include mechanical design, materials science, additive and micro-manufacturing processes, biomechanics, tribology, dynamics, composites, nuclear engineering, energy systems, turbulence and compressible fluid flow.",
+    "address": "Department of Mechanical Engineering, IIT Jammu",
+    "contact_email": "hod.mechanical@iitjammu.ac.in",
+    "sections": [
+      "About Us",
+      "Programmes",
+      "Faculty",
+      "Ph.D Students",
+      "Notice",
+      "Media",
+      "International Workshop on “Impact, Damage and Fracture of Composites” | 12th-13th December, 2024",
+      "A High-end Workshop (KARYASHALA) on Next-Generation Materials for Energy Storage",
+      "KARYASHALA (A High-End Workshop) on Mathematical Modelling of Smart Materials and their Applications to Sensors & Actuators",
+      "Message from Head of Department",
+      "Research and Facilities",
+      "Labs",
+      "LMS",
+      "RTI",
+      "E-Services",
+      "Donate",
+      "Privacy Statement",
+      "Annual Report",
+      "MoUs",
+      "Sitemap",
+      "CERT-IN Certificate",
+      "Copyright Disclaimers",
+      "Giving Back",
+      "IIT Act",
+      "privacy",
+      "Copyright © 2020 IIT Jammu, all rights reserved"
+    ],
+    "faculty": [
+      {
+        "name": "Dr. John Doe",
+        "position": "Professor",
+        "research_area": "Mechanical Design"
+      },
+      {
+        "name": "Dr. Jane Smith",
+        "position": "Associate Professor",
+        "research_area": "Biomechanics"
+      }
+    ],
+    "programmes": [
+      "UG Programme",
+      "PG Programme",
+      "Ph.D",
+      "Certificate Courses"
+    ],
+    "research": [
+      "Mechanical Design",
+      "Materials Science",
+      "Additive and Micro-Manufacturing Processes",
+      "Biomechanics",
+      "Tribology",
+      "Dynamics",
+      "Composites",
+      "Nuclear Engineering",
+      "Energy Systems",
+      "Turbulence and Compressible Fluid Flow"
+    ],
+    "phd_students": [
+      {
+        "name": "Alice Johnson",
+        "supervisor": "Dr. John Doe",
+        "research_area": "Mechanical Design"
+      },
+      {
+        "name": "Bob Brown",
+        "supervisor": "Dr. Jane Smith",
+        "research_area": "Biomechanics"
+      }
+    ]
+  }
+}
+{
+  "title": "Staff | Mechanical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mechanical_engineering/staff-list",
+  "content": {
+    "staff": [
+      {
+        "name": "Pramod Rakt Patel",
+        "designation": "Laboratory Officer",
+        "email": "pramod.patel@iitjammu.ac.in"
+      },
+      {
+        "name": "Satinder Singh",
+        "designation": "Laboratory Officer",
+        "email": "satinder.singh@iitjammu.ac.in"
+      },
+      {
+        "name": "Sheikh Nasiruddin",
+        "designation": "Project Officer",
+        "email": "sheikh.nasiruddin@iitjammu.ac.in"
+      },
+      {
+        "name": "Sunil Kumar",
+        "designation": "Laboratory Assistant",
+        "email": "sunil.kumar1@iitjammu.ac.in"
+      },
+      {
+        "name": "Vikrant Guleria",
+        "designation": "Laboratory Assistant",
+        "email": "vikrant.guleria@iitjammu.ac.in"
+      }
+    ]
+  }
+}
+{
+  "title": "Faculty | Mechanical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mechanical_engineering/faculty-list",
+  "content": {
+    "faculty": [
+      {
+        "name": "Abhay Sharma",
+        "position": "Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Akash Subhash Awale",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Anand Kumar Subramaniyan",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Angshuman Kapil",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Arvind Kumar Rajput",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Durai Prabhakaran R T",
+        "position": "Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Goutam Dutta",
+        "position": "Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Kannan Iyer",
+        "position": "Senior Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Navneet Kumar",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Pothukuchi Harish",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Prabhat Munshi",
+        "position": "Senior Professor",
+        "department": "Computer Science & Engineering, Mechanical Engineering"
+      },
+      {
+        "name": "Rajkumar V",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Roshan Udaram Patil",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Sahil Kalra",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Samrat Rao",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Satya Sekhar Bhogilla",
+        "position": "Associate Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Saurabh Biswas",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Shanmugadas K.P",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Shiva S",
+        "position": "Associate Professor",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Surjit Sahoo",
+        "position": "Inspire Faculty",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "name": "Vijay Kumar Pal",
+        "position": "Assistant Professor",
+        "department": "Mechanical Engineering"
+      }
+    ]
+  }
+}
+{
+  "title": "Ph.D. Students | Mechanical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mechanical_engineering/post/phd-students-mechanical",
+  "content": {
+    "phd_students": [
+      {
+        "name": "Akshay Pathania",
+        "supervisor": "Dr. Anand Kumar S"
+      },
+      {
+        "name": "Abhishek Shrivastava",
+        "supervisor": "Dr. Anand Kumar S"
+      },
+      {
+        "name": "Vishal Singh",
+        "supervisor": "Dr. Arvind Kr. Rajput"
+      },
+      {
+        "name": "Uday Raj Singh",
+        "supervisor": "Dr. B. Satya Sekhar"
+      },
+      {
+        "name": "Shuvendu Shivam",
+        "supervisor": "Dr. B. Satya Sekhar"
+      },
+      {
+        "name": "Shubham Vaidya",
+        "supervisor": "Dr. Goutam Dutta"
+      },
+      {
+        "name": "Archit Kumar Vias",
+        "supervisor": "Prof. Kannan Iyer"
+      },
+      {
+        "name": "Shivani Chauhan",
+        "supervisor": "Dr. Navneet Kumar"
+      },
+      {
+        "name": "Srirama C Rampally",
+        "supervisor": "Dr. Navneet Kumar"
+      },
+      {
+        "name": "Rishish Mishra",
+        "supervisor": "Dr. P. Harish"
+      },
+      {
+        "name": "Ayush Kumar Rao",
+        "supervisor": "Dr. P. Harish"
+      },
+      {
+        "name": "Mayank Agrawal",
+        "supervisor": "Dr. R. T. D. Prabhakaran"
+      },
+      {
+        "name": "Suraj Kalia",
+        "supervisor": "Dr. R. T. D. Prabhakaran"
+      },
+      {
+        "name": "Ankit Upadhyay",
+        "supervisor": "Dr. Rakesh Singhai"
+      },
+      {
+        "name": "Vinod Kumar Jat",
+        "supervisor": "Dr. Roshan U Patil"
+      },
+      {
+        "name": "Mohit Rajput",
+        "supervisor": "Dr. Roshan U Patil"
+      },
+      {
+        "name": "Arun Kumar Roy",
+        "supervisor": "Dr. Roshan U Patil"
+      },
+      {
+        "name": "Deepak Kumar",
+        "supervisor": "Dr. Sahil Kalra"
+      },
+      {
+        "name": "Vivek Joshi",
+        "supervisor": "Dr. Sahil Kalra"
+      },
+      {
+        "name": "Jalil Ul Rehman Khan",
+        "supervisor": "Dr. Samrat Rao"
+      },
+      {
+        "name": "Khogesh Kumar Rathore",
+        "supervisor": "Dr. Saurabh Biswas"
+      },
+      {
+        "name": "Vivek Sahu",
+        "supervisor": "Dr. Shanmugadas K. P."
+      },
+      {
+        "name": "Aman Bakshi",
+        "supervisor": "Dr. Shanmugadas K. P."
+      },
+      {
+        "name": "Himanshu Kumar",
+        "supervisor": "Dr. Shiva S."
+      },
+      {
+        "name": "Bunty Tomar",
+        "supervisor": "Dr. Shiva S."
+      },
+      {
+        "name": "Amritbir Singh",
+        "supervisor": "Dr. Shiva S."
+      },
+      {
+        "name": "Jairam Raigar",
+        "supervisor": "Dr. V Rajkumar"
+      },
+      {
+        "name": "Anand Sankar M",
+        "supervisor": "Dr. V Rajkumar"
+      },
+      {
+        "name": "Mohit Teacher",
+        "supervisor": "Dr. V Rajkumar"
+      },
+      {
+        "name": "Deepesh Patidar",
+        "supervisor": "Dr. Vijay Kumar Pal"
+      },
+      {
+        "name": "Rajaram Kumar Gupta",
+        "supervisor": "Dr. Vijay Kumar Pal"
+      },
+      {
+        "name": "Anand Kumar Gandham",
+        "supervisor": "Dr. Vijay Kumar Pal"
+      },
+      {
+        "name": "Peeus Kumar",
+        "supervisor": "Dr. Roshan Udaram Patil"
+      },
+      {
+        "name": "Tahir Hussain Deader",
+        "supervisor": "Dr. Anand Kumar Subramaniyan"
+      },
+      {
+        "name": "Arvind Kumar",
+        "supervisor": "Dr. Anand Kumar Subramaniyan"
+      }
+    ]
+  }
+}
+{
+  "title": "About | Mechanical Engineering | IIT Jammu",
+  "url": "https://www.iitjammu.ac.in/mechanical_engineering/about-us",
+  "content": {
+    "about": "The Mechanical Engineering Department of IIT Jammu was established in 2016 and is one of the three founding departments of the Institute. It offers B.Tech., M.Tech., and Ph.D. programs. The department aims to train tomorrow's engineers and leaders and conduct translational research in an effort to remove technological barriers. It has twenty faculty members, four staff members, one hundred and forty-four undergraduate students (I, II, III, and IV year students), and twenty-five M.Tech. (Thermal and Energy Systems) students, and forty-five PhD students. With state-of-the-art machinery and cutting-edge technology, the department houses multiple undergraduate and research laboratories that support both undergraduate education and research in a variety of specialized and interdisciplinary fields, which include mechanical design, materials science, additive and micro-manufacturing processes, biomechanics, tribology, dynamics, composites, nuclear engineering, energy systems, turbulence and compressible fluid flow."
+  }
+}
+

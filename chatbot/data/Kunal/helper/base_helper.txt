@@ -1,0 +1,35 @@
+convert this in form {
+    "intents": [
+      {
+        "tag": "hello",
+        "patterns": [
+          "Hello",
+          "Hi",
+          "Hey",
+          "Hi there",
+          "Greetings",
+          "What's up?"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What can I help you with?",
+          "Greetings! Let me know how I can assist."
+        ]
+      },
+      {
+        "tag": "bye",
+        "patterns": [
+          "Bye",
+          "Goodbye",
+          "See you",
+          "Catch you later",
+          "Talk to you later",
+          "Take care"
+        ],
+        "responses": [
+          "Goodbye! Have a great day!",
+          "See you later! Take care.",
+          "Bye! Feel free to reach out again."
+        ]
+      }]
+    }and give specific tag by knowing for which this data is belong from json provided to avoid conflicts and also add separate object with response and pattern for each team member

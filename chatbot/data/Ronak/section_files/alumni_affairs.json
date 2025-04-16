@@ -1,0 +1,85 @@
+{
+  "intents": [
+    {
+      "tag": "alumni_news_events",
+      "patterns": [
+        "Tell me about the latest alumni news",
+        "What are the latest alumni events?",
+        "Give me recent alumni updates from IIT Jammu",
+        "What's new for alumni at IIT Jammu?",
+        "Any recent alumni news?",
+        "Share some alumni news updates"
+      ],
+      "responses": [
+        "Here are the latest alumni news events:\n1. Alumni Startup Update (Published on 14-05-2024)\n2. Yash Cracks UPSC CSE 2023 (Published on 17-04-2024)\n3. Alumni Relations Newsletter 2023 (Published on 29-02-2024)."
+      ]
+    },
+    {
+      "tag": "alumni_dean_message",
+      "patterns": [
+        "What is the Dean's message for alumni?",
+        "Share the Dean's message for alumni relations",
+        "Message from the Dean regarding alumni",
+        "Who is the Dean of Alumni Affairs?",
+        "Dean's note for alumni",
+        "What does the Dean say about alumni relations?"
+      ],
+      "responses": [
+        "Dr. Prabhat Munshi, Dean of Alumni Affairs, says:\n\"We are committed to enriching our relationship with alumni, organizing events like Alumni Reunions, Scholarship Campaigns, and Distinguished Lecture Series. We also plan to fix an annual Alumni Day to celebrate alumni achievements and inspire progress at IIT Jammu.\""
+      ]
+    },
+    {
+      "tag": "alumni_associate_dean_message",
+      "patterns": [
+        "What is the Associate Dean's message for alumni?",
+        "Share the Associate Dean's note about alumni",
+        "Message from the Associate Dean for alumni",
+        "Who is the Associate Dean of Alumni Affairs?",
+        "Associate Dean's message about alumni",
+        "What does the Associate Dean say about alumni relations?"
+      ],
+      "responses": [
+        "Dr. Vinay Sharma, Associate Dean, states:\n\"We proudly support five cohorts of alumni. Our goal is to offer accessible support to every IIT Jammu alumnus. Our office enhances alumni interactions and strengthens the bond between alumni and the Institute.\""
+      ]
+    },
+    {
+      "tag": "alumni_team",
+      "patterns": [
+        "Who is on the alumni relations team?",
+        "Tell me about the Alumni Affairs team",
+        "List the members of the Alumni Affairs Office",
+        "Who manages alumni relations at IIT Jammu?",
+        "Alumni Affairs Office team"
+      ],
+      "responses": [
+        "The Alumni Affairs team includes:\n- Dr. Prabhat Munshi (Dean)\n- Dr. Vinay Sharma (Associate Dean)\n- Mr. Nishbinder Singh (Assistant Registrar)\n- Mr. Shivam Sahdev (Relationship Manager)"
+      ]
+    },
+    {
+      "tag": "alumni_services",
+      "patterns": [
+        "What services are available for alumni?",
+        "List the services offered to alumni",
+        "How can alumni request support?",
+        "Alumni support services",
+        "Are there any alumni assistance programs?"
+      ],
+      "responses": [
+        "We offer several services for our alumni:\n- 50% discount on guest house bookings.\n- Support in cities for accommodation and transport.\n- Requests for mark sheets or transcripts.\nFor assistance, email us at office.alumni@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "alumni_contact",
+      "patterns": [
+        "How do I contact the Alumni Office?",
+        "What is the contact information for alumni relations?",
+        "How can I reach the Alumni Affairs Office?",
+        "Where is the Alumni Office located?",
+        "Contact details for alumni support"
+      ],
+      "responses": [
+        "You can contact the Alumni Office:\n- Email: office.alumni@iitjammu.ac.in\n- Address: Alumni Office, IIT Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221 J&K, India."
+      ]
+    }
+  ]
+}

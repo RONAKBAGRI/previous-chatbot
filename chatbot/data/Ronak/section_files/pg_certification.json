@@ -1,0 +1,140 @@
+{
+    "intents": [
+      {
+        "tag": "pg_certification_programs",
+        "patterns": [
+          "What are the PG certification programs at IIT Jammu?",
+          "Tell me about the PG certificate courses at IIT Jammu.",
+          "IIT Jammu PG certification programs details",
+          "What programs are offered as PG certificates?",
+          "PG Certificate courses at IIT Jammu"
+        ],
+        "responses": [
+          "IIT Jammu offers two PG Certificate programs: 'PG Certificate in Digital and Neuro Marketing' and 'PG Certificate in IoT and Embedded Systems'. Would you like to know more about a specific program?"
+        ]
+      },
+      {
+        "tag": "digital_marketing_program",
+        "patterns": [
+          "Tell me more about the PG Certificate in Digital and Neuro Marketing.",
+          "What modules are included in the Digital and Neuro Marketing program?",
+          "What is the structure of the PG Certificate in Digital Marketing at IIT Jammu?",
+          "How is the Digital and Neuro Marketing course structured?",
+          "PG Certificate in Digital and Neuro Marketing details"
+        ],
+        "responses": [
+          "The PG Certificate in Digital and Neuro Marketing includes modules like 'Introduction to Digital and Neuro-Marketing', 'Consumer Behaviour', 'Digital Marketing Channels', and more. Learn from industry experts and gain hands-on experience through Virtual Instructor-Led Training (VILT)."
+        ]
+      },
+      {
+        "tag": "digital_marketing_learning_outcomes",
+        "patterns": [
+          "What will I learn in the Digital and Neuro Marketing program?",
+          "What are the learning outcomes of the PG Certificate in Digital Marketing?",
+          "What skills will I gain in the Digital and Neuro Marketing course?",
+          "What does the Digital and Neuro Marketing program teach?"
+        ],
+        "responses": [
+          "Upon completion of the PG Certificate in Digital and Neuro Marketing, you will understand consumer behavior, apply neuro-marketing techniques, create compelling content, measure campaign effectiveness, and adhere to ethical considerations in marketing."
+        ]
+      },
+      {
+        "tag": "digital_marketing_eligibility",
+        "patterns": [
+          "What are the eligibility criteria for the Digital and Neuro Marketing program?",
+          "Who can apply for the Digital and Neuro Marketing certificate?",
+          "What is the eligibility for PG Certificate in Digital Marketing?",
+          "Is there any requirement to apply for Digital and Neuro Marketing?"
+        ],
+        "responses": [
+          "The eligibility criteria for the PG Certificate in Digital and Neuro Marketing include a bachelor's degree in any field and proficiency in English for communication. Feel free to apply!"
+        ]
+      },
+      {
+        "tag": "digital_marketing_admission_process",
+        "patterns": [
+          "What is the admission process for the PG Certificate in Digital and Neuro Marketing?",
+          "How can I apply for the Digital and Neuro Marketing program?",
+          "What are the steps for admission to the Digital and Neuro Marketing certificate?",
+          "How do I get enrolled in the Digital and Neuro Marketing program?"
+        ],
+        "responses": [
+          "To apply for the PG Certificate in Digital and Neuro Marketing at IIT Jammu, visit the TeamLease EdTech website, complete the application form, and submit the required documents. The selection process includes verification of your academic credentials and experience."
+        ]
+      },
+      {
+        "tag": "digital_marketing_contact_info",
+        "patterns": [
+          "How can I contact IIT Jammu for the Digital and Neuro Marketing program?",
+          "What is the contact information for the Digital and Neuro Marketing program at IIT Jammu?",
+          "How do I get in touch with IIT Jammu regarding Digital and Neuro Marketing?",
+          "What is the contact email for the Digital and Neuro Marketing course?"
+        ],
+        "responses": [
+          "You can contact IIT Jammu for the PG Certificate in Digital and Neuro Marketing through email at admission@tleiitjammu.in or call 011 4117 0773."
+        ]
+      },
+      {
+        "tag": "iot_embedded_systems_program",
+        "patterns": [
+          "Tell me more about the PG Certificate in IoT and Embedded Systems.",
+          "What modules are included in the IoT and Embedded Systems program?",
+          "What is the structure of the PG Certificate in IoT and Embedded Systems?",
+          "How is the IoT and Embedded Systems program structured?",
+          "PG Certificate in IoT and Embedded Systems details"
+        ],
+        "responses": [
+          "The PG Certificate in IoT and Embedded Systems includes modules like 'Introduction to IoT and Embedded Systems', 'Programming the Devices', 'Security in IoT and Embedded Systems', and more. You will gain practical knowledge through Virtual Instructor-Led Training (VILT)."
+        ]
+      },
+      {
+        "tag": "iot_embedded_systems_learning_outcomes",
+        "patterns": [
+          "What will I learn in the IoT and Embedded Systems program?",
+          "What are the learning outcomes of the PG Certificate in IoT and Embedded Systems?",
+          "What skills will I gain in the IoT and Embedded Systems course?",
+          "What does the IoT and Embedded Systems program teach?"
+        ],
+        "responses": [
+          "Upon completion of the PG Certificate in IoT and Embedded Systems, you will understand IoT architecture, program embedded devices, implement IoT communication protocols, and apply real-world use cases in various fields like smart cities and energy monitoring."
+        ]
+      },
+      {
+        "tag": "iot_embedded_systems_eligibility",
+        "patterns": [
+          "What are the eligibility criteria for the IoT and Embedded Systems program?",
+          "Who can apply for the IoT and Embedded Systems certificate?",
+          "What is the eligibility for PG Certificate in IoT and Embedded Systems?",
+          "Is there any requirement to apply for IoT and Embedded Systems?"
+        ],
+        "responses": [
+          "The eligibility criteria for the PG Certificate in IoT and Embedded Systems include a bachelor's degree in relevant fields or at least one year of industry experience, along with a foundational understanding of Physics and Mathematics from high school."
+        ]
+      },
+      {
+        "tag": "iot_embedded_systems_admission_process",
+        "patterns": [
+          "What is the admission process for the PG Certificate in IoT and Embedded Systems?",
+          "How can I apply for the IoT and Embedded Systems program?",
+          "What are the steps for admission to the IoT and Embedded Systems certificate?",
+          "How do I get enrolled in the IoT and Embedded Systems program?"
+        ],
+        "responses": [
+          "To apply for the PG Certificate in IoT and Embedded Systems at IIT Jammu, visit the TeamLease EdTech website, complete the application form, and submit the required documents. The selection process includes verification of your academic credentials and experience."
+        ]
+      },
+      {
+        "tag": "iot_embedded_systems_contact_info",
+        "patterns": [
+          "How can I contact IIT Jammu for the IoT and Embedded Systems program?",
+          "What is the contact information for the IoT and Embedded Systems program at IIT Jammu?",
+          "How do I get in touch with IIT Jammu regarding IoT and Embedded Systems?",
+          "What is the contact email for the IoT and Embedded Systems course?"
+        ],
+        "responses": [
+          "You can contact IIT Jammu for the PG Certificate in IoT and Embedded Systems through email at admission@tleiitjammu.in or call 011 4117 0773."
+        ]
+      }
+    ]
+  }
+  

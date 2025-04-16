@@ -1,0 +1,368 @@
+{
+    "intents": [
+        {
+            "tag": "annual_reports",
+            "patterns": [
+                "What are the annual reports?",
+                "Can you show me the annual reports?",
+                "I need the annual reports",
+                "Give me the link to the annual reports",
+                "Where can I find the annual reports?"
+            ],
+            "responses": [
+                "Here are the annual reports for IIT Jammu from 2016 to 2024:",
+                {
+                    "2023-2024 English": "https://drive.google.com/file/d/1xhcLfW6i12Wyovef0fWN7VCvhDwkLkZG/view?usp=sharing",
+                    "2023-2024 Hindi": "https://drive.google.com/file/d/1BYIqeqthQpkO0kmD5a0UQOO7apCg2SWi/view?usp=sharing",
+                    "2022-2023 English": "https://drive.google.com/file/d/1dSpr9n_-SGaonG6RhuyknHmEUbDjfuqi/view?usp=sharing",
+                    "2022-2023 Hindi": "https://drive.google.com/file/d/1deRQdpPYbVCndZ54vKqkCxg4X5Y5SxdN/view?usp=sharing",
+                    "2021-2022 English": "https://drive.google.com/file/d/1gla-LIVqubeT1E9Jriay2sJWvsaVh7v0/view?usp=sharing",
+                    "2021-2022 Hindi": "https://drive.google.com/file/d/1lyEOhlpQA6QlDPOK6lKDxgjcomnBz4ft/view?usp=sharing",
+                    "2020-2021 English": "https://drive.google.com/file/d/1yIz1gm0xB7DenHpml0cCUEKD4zpBpxVS/view?usp=sharing",
+                    "2020-2021 Hindi": "https://drive.google.com/file/d/14NzusW8gWW9lLTdD7PMJEu23drkZc7LD/view?usp=sharing",
+                    "2019-2020 English": "https://drive.google.com/file/d/1GHBVf65fj5l0eTqVeO3nCJj_frA9yuOK/view?usp=sharing",
+                    "2018-2019 English": "https://drive.google.com/file/d/17PY7RbHVqoFnAEi0efQkhtYUTKuZ91N9/view?usp=sharing",
+                    "2018-2019 Hindi": "https://drive.google.com/file/d/1UmySujUUndueh1uNqRTc5hwd6zcd3RaO/view?usp=sharing",
+                    "2017-2018 English": "https://drive.google.com/file/d/1e-FbaaxfAndrxuJoFhaBw_Zf6e7XdYGU/view?usp=sharing",
+                    "2017-2018 Hindi": "https://drive.google.com/file/d/1lqCwYe3QfP6Y8IWKYW7vu_g2WtY48_gZ/view?usp=sharing",
+                    "2016-2017 English": "https://drive.google.com/file/d/1MHpPhOyhsLYptbaaBNubSaW1l1mgSSFA/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "tag": "certificates",
+            "patterns": [
+                "What certificates does IIT Jammu have?",
+                "Can you show the environmental clearance certificate?",
+                "I need the Form V environmental statement",
+                "Can you provide the EC compliance reports?"
+            ],
+            "responses": [
+                "Here are the certificates and compliance reports for IIT Jammu:",
+                {
+                    "Environmental Clearance Certificate": "https://drive.google.com/file/d/1HVItRSg_pWdusu9j8AN20F2yqmljrHPr/view?usp=sharing",
+                    "Form - V Environmental Statement 2024": "https://drive.google.com/file/d/1Ahi05hEBJ_Mx6X7u63NrLyo3WjV5c6Ad/view?usp=sharing",
+                    "Form - V Environmental Statement 2023": "https://drive.google.com/file/d/18OF8ER9fTITRebM83cdztVigo9tYyhuM/view?usp=sharing",
+                    "Form - V Environmental Statement 2022": "https://drive.google.com/file/d/1hWl0fY2zoqipGOHeqkzYlo5EIhS2o8Y6/view?usp=sharing",
+                    "EC Compliance Report (IIT Jammu June 2023)": "https://drive.google.com/file/d/1LeTJ0faBgNzoHbmwpEie6laYX-ptSbUj/view?usp=sharing",
+                    "EC Compliance Report (IIT Jammu December 2022)": "https://drive.google.com/file/d/17G2p-EpnL5g8kF9YRmGiQ6cg7miT2kJQ/view?usp=sharing",
+                    "EC Compliance Report (IIT Jammu June 2022)": "https://drive.google.com/file/d/11362pZoIM-gPom9deVo4jP3PceTpN9gM/view?usp=sharing",
+                    "EC Compliance Report (IIT Jammu December 2021)": "https://drive.google.com/file/d/1iq4Ujre6c7usqoMF5XEUFeAf8xLbWvou/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "tag": "donate_online",
+            "patterns": [
+                "How can I donate to IIT Jammu?",
+                "Where can I make a donation?",
+                "Can you share the donation link?",
+                "Tell me how I can support IIT Jammu financially?"
+            ],
+            "responses": [
+                "IIT Jammu welcomes donations for its growth and development. You can contribute by visiting the link below:",
+                "For any donation inquiries, feel free to reach out to donations@iitjammu.ac.in.",
+                "Donate to any of the specific causes at IIT Jammu by visiting our online donation page: ",
+                {
+                    "link": "https://saral.iitjammu.ac.in/donations"
+                }
+            ]
+        },
+        {
+            "tag": "csr_registration_certificate",
+            "patterns": [
+                "What is the CSR registration certificate?",
+                "Where can I find the CSR registration details?",
+                "Give me the CSR registration certificate link",
+                "Can you provide the CSR registration number?"
+            ],
+            "responses": [
+                "For CSR contributions, you can refer to the CSR registration details below:",
+                {
+                    "description": "For contributions towards CSR, please contact registrar@iitjammu.ac.in | Registration number is CSR00013197",
+                    "link": "https://www.iitjammu.ac.in/Approval%20Letter%20for%20form%20CSR1.pdf"
+                }
+            ]
+        },
+        {
+            "tag": "MoUs",
+            "patterns": [
+                "Can you list the MoUs for IIT Jammu?",
+                "What MoUs has IIT Jammu signed?",
+                "Show me the list of MoUs IIT Jammu has signed"
+            ],
+            "responses": [
+                "Here are the Memorandum of Understandings (MoUs) signed by IIT Jammu:",
+                {
+                    "MoUs": [
+                        "Software Technology Parks",
+                        "Homi Bhabha National Institute",
+                        "CSIR-Central Road Research Institute",
+                        "Jammu and Kashmir Entrepreneurship Development Institute",
+                        "National Telecommunication Institute for Policy Research Innovation and Training",
+                        "Airport Authority of India",
+                        "National Skill Training Institute(Women) Jammu",
+                        "Synopsts(India)EDA Software Pvt Ltd",
+                        "Punjab Engineering College",
+                        "UiT The Arctic University Norway",
+                        "Samsung R and D Inst India Banglore Pvt Ltd",
+                        "68 Armoured Regiment",
+                        "Bureau of Indian standards",
+                        "Mckinley Rice",
+                        "Shraman Foundation",
+                        "Ministry of Education- 2023-24",
+                        "MS Sharat Puri Contractors",
+                        "Bordeaux Institute of Technology",
+                        "Sant Longowal Institute of Engineering and Technology",
+                        "MODY University",
+                        "NIT Patna",
+                        "NIT Warangal",
+                        "NIT Agartala",
+                        "Vivekananda Institute of Professional Studies-Technical Campus",
+                        "Deutscher Akademischer Austauschdienst (German Academic Exchange Service)",
+                        "IIT Mandi",
+                        "Sardar Vallabhbhai National Institute of Technology Surat",
+                        "NIT Goa",
+                        "AICTE",
+                        "National Chung Cheng University Taiwan",
+                        "Jal Shakti Department",
+                        "Nixi CSC Data Services Limited",
+                        "International Finance Corporation and Tabreed India Private Limited",
+                        "IIT Bhilai",
+                        "Dr Sharad Kumar Saraf, Chairman Technocraft Industries (India)",
+                        "J&K Science, Technology & Innovation Council",
+                        "Faculty of Mathematics and Natural Sciences University of Bergen",
+                        "Islamic University of Science and Technology Kashmir",
+                        "I3C-IIT Jammu & SIDBI",
+                        "Yes Bank",
+                        "Times Education and Events Limited",
+                        "INFLIBNET Centre",
+                        "CST Advanced Systems Pvt Ltd",
+                        "Central Sanskrit University Jammu",
+                        "Nutoday Pvt Ltd",
+                        "Cluster University of Jammu",
+                        "NHPC",
+                        "NHAI Udhampur",
+                        "JK Lakshmipat University",
+                        "Bombay Textile Research Association, Mumbai",
+                        "Tribal Affairs Department J&K",
+                        "Dept of Mech Engg University of Genoa",
+                        "Information Technology Department, Jammu and Kashmir",
+                        "Maker Bhavan Foundation (Donor)",
+                        "Veermata Jijabai Technological Institute",
+                        "MoU between Pacetronix & IIT Jammu, IIT Indore, IET Indore, Shri G S ITS, Indore and ABV IIIT and Management Gwalior",
+                        "The Board of Trustees of the University of Alabama for The University of Alabama",
+                        "University of Saskatchewan, Saskatoon, Canada",
+                        "MoU between IIT Jammu, IIM Jammu, AIIMS Jammu and RFHHA Delhi",
+                        "CDAC, Thiruvananthapuram",
+                        "Manipal Institute of Technology",
+                        "NIELIT Jammu",
+                        "TU BAF",
+                        "FICCI FLO",
+                        "IIT Madras",
+                        "I3C - IIT Jammu",
+                        "Tripartite MoU between IIM Jammu, IIT Jammu, and AIIMS Jammu",
+                        "Foundation for Innovation and Technology Transfer, New Delhi",
+                        "MIET Jammu",
+                        "CSIR Central Building Research Institute Roorkee",
+                        "UPL Limited",
+                        "Chang Gung University Taiwan (For Student Internship)",
+                        "Chang Gung University Taiwan",
+                        "Headquarter Northern Command (HQNC)",
+                        "Higher Education Department J&K Government",
+                        "IIM Jammu",
+                        "Central University of Jammu",
+                        "Department of Skill Development J&K",
+                        "National Highways Authority of India (NHAI)",
+                        "AIIMS, Rishikesh",
+                        "GCET, Jammu",
+                        "CSIR-IIIM, Jammu",
+                        "The Norwegian University of Science and Technology",
+                        "Regional Training Institute Jammu Indian Audit & Accounts Department",
+                        "Pingala AI Private Limited, Noida",
+                        "NIT Karnataka Surathkal",
+                        "Data Security Council of India, Noida",
+                        "SVNIT, Surat",
+                        "Department of Space, GOI",
+                        "Udhampur-Srinagar-Baramulla-Rail-Link Project (USBRL) Northern Railways"
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "videos",
+            "patterns": [
+                "What are the videos related to IIT Jammu?",
+                "Can you share videos of IIT Jammu?",
+                "Show me the IIT Jammu videos"
+            ],
+            "responses": [
+                "Here are the videos related to IIT Jammu:",
+                {
+                    "IIT Jammu Convocation 2024": "https://youtu.be/twmjstJ-R5E",
+                    "In Conversation with Prof. A.S. Pillai | BrahMos Aerospace - Founder": "https://youtu.be/qn7lCSGTCBw",
+                    "PRISM DIGEST | Campus News, August, 2024": "https://youtu.be/fn50wF5N0NM",
+                    "Welcome to IIT Jammu: Your Gateway to Excellence & Innovation": "https://youtu.be/vFgozFuURPA",
+                    "Discover IIT Jammu: Student Perspective": "https://youtu.be/tfGwbpahFiQ",
+                    "This is IIT Jammu": "https://youtu.be/y2_0NqDELxA",
+                    "9th International Day of Yoga": "https://youtu.be/bWMKsjgefrY",
+                    "How Diverse is IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/8CGVJL5kI1g",
+                    "How are the Faculties at IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/RqKnzlXmwAY",
+                    "How is Mess food at IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/pU16nyIC0ss",
+                    "HOW IS WEATHER AT IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/K-M9u6U5o3s",
+                    "HOW IS SPORT CULTURE AT IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/o2y9X2Sz1bw",
+                    "HOW ARE THE SENIOR JUNIOR RELATIONSHIPS IN IIT JAMMU | FAQ | IIT JAMMU": "https://youtu.be/3HBeNkSne64",
+                    "HOW ARE THE PLACEMENTS AT IIT JAMMU? | FAQ | IIT JAMMU": "https://youtu.be/XqaKDkBcCjk",
+                    "IS IIT JAMMU WORTH IT? | FAQ | IIT JAMMU": "https://youtu.be/UD_4Xu4vyd0",
+                    "Is IIT Jammu Safe? | FAQ | IIT JAMMU": "https://youtu.be/IVPffk33SOA",
+                    "IIT Jammu Inauguration, Phase 1A and 1B of the campus": "https://youtu.be/TgqwZthZahM",
+                    "IIT Jammu Campus Tour Official Video": "https://youtu.be/FCOoEBxWdeM",
+                    "HRD Minister Prakash Javadekar inaugurates IIT, Jammu": "https://youtu.be/XS80oK7rROA"
+                }
+            ]
+        },
+        {
+            "tag": "holidays",
+            "patterns": [
+                "What are the holidays for this year?",
+                "Can you list the holidays?",
+                "Give me the holiday dates"
+            ],
+            "responses": [
+                "Here are the holidays for IIT Jammu in the year 2025:",
+                {
+                    "holidays": [
+                        {
+                            "Holiday": "Makar Sankranti",
+                            "Date": "January 14",
+                            "Day of Week": "Tuesday"
+                        },
+                        {
+                            "Holiday": "Republic Day",
+                            "Date": "January 26",
+                            "Day of Week": "Sunday"
+                        },
+                        {
+                            "Holiday": "Maha Shivratri",
+                            "Date": "February 26",
+                            "Day of Week": "Wednesday"
+                        },
+                        {
+                            "Holiday": "Holi",
+                            "Date": "March 14",
+                            "Day of Week": "Friday"
+                        },
+                        {
+                            "Holiday": "Id-ul-Fitr",
+                            "Date": "March 31",
+                            "Day of Week": "Monday"
+                        },
+                        {
+                            "Holiday": "Mahavir Jayanti",
+                            "Date": "April 10",
+                            "Day of Week": "Thursday"
+                        },
+                        {
+                            "Holiday": "Good Friday",
+                            "Date": "April 18",
+                            "Day of Week": "Friday"
+                        },
+                        {
+                            "Holiday": "Buddha Purnima",
+                            "Date": "May 12",
+                            "Day of Week": "Monday"
+                        },
+                        {
+                            "Holiday": "Id-ul-Zuha (Bakrid)",
+                            "Date": "June 7",
+                            "Day of Week": "Saturday"
+                        },
+                        {
+                            "Holiday": "Muharram",
+                            "Date": "July 6",
+                            "Day of Week": "Sunday"
+                        },
+                        {
+                            "Holiday": "Independence Day",
+                            "Date": "August 15",
+                            "Day of Week": "Friday"
+                        },
+                        {
+                            "Holiday": "Milad-un-Nabi or Id-e-Milad",
+                            "Date": "September 5",
+                            "Day of Week": "Friday"
+                        },
+                        {
+                            "Holiday": "Mahatama Gandhi's Birthday",
+                            "Date": "October 2",
+                            "Day of Week": "Thursday"
+                        },
+                        {
+                            "Holiday": "Dussehra",
+                            "Date": "October 2",
+                            "Day of Week": "Thursday"
+                        },
+                        {
+                            "Holiday": "Diwali",
+                            "Date": "October 20",
+                            "Day of Week": "Monday"
+                        },
+                        {
+                            "Holiday": "Govardhan Puja",
+                            "Date": "October 22",
+                            "Day of Week": "Wednesday"
+                        },
+                        {
+                            "Holiday": "Bhai Duj",
+                            "Date": "October 23",
+                            "Day of Week": "Thursday"
+                        },
+                        {
+                            "Holiday": "Guru Nanak's Birthday",
+                            "Date": "November 5",
+                            "Day of Week": "Wednesday"
+                        },
+                        {
+                            "Holiday": "Christmas",
+                            "Date": "December 25",
+                            "Day of Week": "Thursday"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "team_members",
+            "patterns": [
+                "Who are the team members?",
+                "Who works with IIT Jammu?",
+                "Tell me about the team"
+            ],
+            "responses": [
+                "The team at IIT Jammu is led by a dedicated group of professionals:",
+                {
+                    "Prof. M. K. Pandit": {
+                        "designation": "Director",
+                        "department": "Office of the Director"
+                    },
+                    "Prof. Navin Kumar": {
+                        "designation": "Professor",
+                        "department": "Department of Computer Science and Engineering"
+                    },
+                    "Prof. Dr. Asad Ali Khan": {
+                        "designation": "Professor",
+                        "department": "Department of Electrical Engineering"
+                    },
+                    "Dr. Ritesh Kumar": {
+                        "designation": "Assistant Professor",
+                        "department": "Department of Civil Engineering"
+                    },
+                    "Mr. Arun Sharma": {
+                        "designation": "Research Assistant",
+                        "department": "Research and Development"
+                    }
+                }
+            ]
+        }
+    ]
+}

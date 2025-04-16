@@ -1,0 +1,256 @@
+{
+    "intents": [
+        {
+            "tag": "location",
+            "patterns": [
+            "Where is IIT Jammu Located?",
+            "What is the location of IIT Jammu?",
+            "Where can I find IIT Jammu?",
+            "What's the address of IIT Jammu?"
+            ],
+            "responses": [
+            "The Indian Institute of Technology Jammu is located on the north side of Jammu city. The campus is situated on lush green land of Jagti village en-route to Katra via NH-44."
+            ]
+        },
+        {
+            "tag": "how_to_reach",
+            "patterns": [
+            "How to reach IIT Jammu?",
+            "What are the ways to reach IIT Jammu?",
+            "How can I get to IIT Jammu?",
+            "What transport options are available to reach IIT Jammu?"
+            ],
+            "responses": [
+            "You can reach IIT Jammu by air, rail or road. \n\nBy Air: IIT Jammu is around 17 km away from Jammu Airport. From Jammu Airport, plenty of auto rickshaws and prepaid taxis are available to reach the IIT Jammu Jagti campus.\n\nBy Train: Jammu is a railway hub connected to many cities through trains. IIT Jammu is around 13 km away from Jammu Railway Station. From Jammu Railway Station, you can take a bus going to Katra which will drop you in front of the IIT Jammu Jagti Campus or you can take a prepaid taxi or auto rickshaw to reach the campus.\n\nBy Bus: IIT Jammu is around 12 km away from Jammu Bus stand. From the Bus Stand, you can take a bus going to Katra which will drop you in front of the IIT Jammu Jagti Campus. Alternatively, you can take a matador, three-wheeler, or taxi to reach IIT Jammu Jagti Campus."
+            ]
+        },
+        {
+            "tag": "climatic_conditions",
+            "patterns": [
+            "How is the climatic condition at IIT Jammu?",
+            "What's the weather like in IIT Jammu?",
+            "What climate can I expect at IIT Jammu?",
+            "Tell me about the temperature in IIT Jammu"
+            ],
+            "responses": [
+            "The Jammu lies 302m above the sea level. In Jammu, the climate is warm and temperate. According to Köppen and Geiger, this climate is classified as Cwa. Jammu, like the rest of north-western India, features a humid subtropical climate, with summer temperatures reaching 46 °C (115 °F), and temperatures in the winter months occasionally falling below 4 °C (39 °F). June is the hottest month, while January is the coldest month. Please bring a good quality winter jacket/sweater along with gloves and headcap for the winters. You may also bring an umbrella."
+            ]
+        },
+        {
+            "tag": "classwork",
+            "patterns": [
+            "Do Students need to come to the campus for classwork?",
+            "Is physical attendance required for classes?",
+            "Are classes conducted offline?",
+            "Is attendance compulsory in IIT Jammu?"
+            ],
+            "responses": [
+            "Yes, students need to attend the classwork physically."
+            ]
+        },
+        {
+            "tag": "ug_programs",
+            "patterns": [
+            "Which UG Programs are offered by IIT Jammu for undergraduate students & number of seats in each program?",
+            "What are the undergraduate courses available at IIT Jammu?",
+            "Tell me about the UG programs in IIT Jammu",
+            "How many seats are there in UG programs at IIT Jammu?"
+            ],
+            "responses": [
+            "For the UG programs offered from IIT Jammu & number of seats in each program kindly visit the link https://iitjammu.ac.in/ug-admissions"
+            ]
+        },
+        {
+            "tag": "departments",
+            "patterns": [
+            "How many departments are there in IIT Jammu?",
+            "What are the different departments in IIT Jammu?",
+            "List the departments of IIT Jammu",
+            "Tell me about academic departments at IIT Jammu"
+            ],
+            "responses": [
+            "There are Eleven departments in IIT Jammu.\n1. Department of Bio Sciences and Bio Engineering\n2. Department of Chemical Engineering\n3. Department of Chemistry.\n4. Department of Civil Engineering.\n5. Department of Computer Science & Engineering.\n6. Department of Electrical Engineering.\n7. Department of Humanities and Social Sciences\n8. Department of Materials Engineering.\n9. Department of Mathematics.\n10. Department of Mechanical Engineering.\n11. Department of Physics."
+            ]
+        },
+        {
+            "tag": "fee_structure",
+            "patterns": [
+            "What is the UG fee structure at IIT Jammu?",
+            "How much is the fee for UG programs?",
+            "Tell me about the fees at IIT Jammu",
+            "What are the semester fees for undergraduate courses?"
+            ],
+            "responses": [
+            "For fee details, visit the link https://iitjammu.ac.in/fee"
+            ]
+        },
+        {
+            "tag": "scholarships",
+            "patterns": [
+            "Does IIT Jammu provide scholarships/financial assistance to the UG Students?",
+            "What scholarships are available at IIT Jammu?",
+            "Tell me about financial aid at IIT Jammu",
+            "Are there any merit scholarships at IIT Jammu?"
+            ],
+            "responses": [
+            "The Institute offers the following scholarships to undergraduate students:\n- Institute UG Scholarship\n- Institute Merit-cum-Means Scholarship\n- Institute Free ship Scholarship\n- Institute Free Messing Scholarship\n\nQuality for Undergraduates in Engineering, Science and Technology (QUEST) https://iitjammu.ac.in/academic-notifications\nMinistry of Tribal Affairs (MoTA) Financial Assistance for ST students https://iitjammu.ac.in/academic-notifications\nStudents are encouraged to apply on the National Scholarship Portal (NSP) created by the Government (GoI) of India for students across the country. For detailed information please visit https://scholarships.gov.in/"
+            ]
+        },
+        {
+            "tag": "registration_documents",
+            "patterns": [
+            "What are the documents that are required to be submitted for Registration?",
+            "Which documents do I need for registration?",
+            "List of documents needed for IIT Jammu admission",
+            "What papers should I bring for registration?"
+            ],
+            "responses": [
+            "List of documents to be submitted by new UG students at the time of the physical reporting & Registration at IIT Jammu:\n1. 2 copies of latest passport size photograph\n2. Receipt of the payment made to JoSAA at the time of seat acceptance\n3. Receipt of online payment of balance fees. For online payment, in place of Entry Number, please write your StudentID\n4. Receipt of the online payment of mess charges. For online payment, in place of Entry Number, please write your StudentID\n5. Self-attested copy of Aadhar (student)\n6. Seat allotment letter (note down JEE-Adv Roll Number and JEE-adv rank)\n7. The original 12th mark sheet and certificate and one self-attested copy\n8. The original 10th mark sheet and certificate and one self-attested copy\n9. The original category certificate (for OBC-NCL / SC / ST as applicable) and one self-attested copy.\n10. The original PwD certificate and one self-attested copy. Medical examination will be done by institute medical officer\n11. The original EWS certificate in JoSAA format (as produced during seat allotment)\n12. Print out of online application form.\n13. FORM A- Undertakings of awareness of academic rules at IIT Jammu\n14. FORM B & C- Family Income Statement\n15. Self-Declaration: Affidavit on Rs.10 Non Judicial stamp paper duly attested by Notary.\n16. Form D- Undertakings by the Parents and Student (Offline Mode)\n17. FORM E - Hostel declaration form"
+            ]
+        },
+        {
+            "tag": "form_b_c_self_declaration",
+            "patterns": [
+            "Do all students need to fill Form B, C and Self Declaration?",
+            "Who needs to fill Form B, C and Self Declaration?",
+            "Is Form B, C and Self Declaration mandatory?",
+            "Which forms are required for income above 5 lakhs?"
+            ],
+            "responses": [
+            "If your income category is above 5 lakhs and you are not claiming for any concession/ scholarship from the Institute you need not to fill Form C and Self Declaration. However, Form B is to be filled by students of all income categories."
+            ]
+        },
+        {
+            "tag": "registration_procedure",
+            "patterns": [
+            "What is the procedure for Registration?",
+            "How do I register at IIT Jammu?",
+            "Tell me about the registration process",
+            "What steps are involved in registration?"
+            ],
+            "responses": [
+            "The detailed list of documents as mentioned above has to be uploaded during online Registration on E-Gov portal (link will be shared on email) by the students. The same documents will be required to be produced by the students at the time of physical reporting for verification. Failure to produce the genuine documents at the time of physical reporting will lead to cancellation of the candidature."
+            ]
+        },
+        {
+            "tag": "preparatory_students",
+            "patterns": [
+            "What are the instructions for the preparatory students?",
+            "Tell me about preparatory course details",
+            "How does the preparatory program work?",
+            "What should preparatory students know?"
+            ],
+            "responses": [
+            "Please visit the link https://iitjammu.ac.in/ug-admissions"
+            ]
+        },
+        {
+            "tag": "placements",
+            "patterns": [
+            "What are the efforts made by the Institute towards Student Placements?",
+            "How does IIT Jammu help with placements?",
+            "Tell me about the placement opportunities",
+            "What is the placement process at IIT Jammu?"
+            ],
+            "responses": [
+            "The prime role of the Training and Placement office is to bridge the gap between the industry leaders of today and the budding leaders of tomorrow. It will continuously be engaged in inviting companies to our campus and will make a rigorous effort to build a long term relationship with the organization. Kindly visit the link for details https://iitjammu.ac.in/cds"
+            ]
+        },
+        {
+            "tag": "campus_life",
+            "patterns": [
+            "How is Campus life at IIT Jammu?",
+            "What is it like to study at IIT Jammu?",
+            "Tell me about student life at IIT Jammu",
+            "What activities are available on campus?"
+            ],
+            "responses": [
+            "IIT Jammu offers plenty of opportunities for the holistic development of Students. Apart from intensive academics with regular classes, assignments and quizzes, students are encouraged to pursue extra-curricular activities of their choice throughout the year. For details, please visit https://iitjammu.ac.in/life@iitjammu"
+            ]
+        },
+        {
+            "tag": "hostel_mess",
+            "patterns": [
+            "Do students get hostel accommodation and Mess availability at the time of reporting?",
+            "Is hostel accommodation provided?",
+            "Tell me about hostel and mess facilities",
+            "What are the hostel arrangements for new students?"
+            ],
+            "responses": [
+            "All PG/UG students at IIT Jammu shall be provided hostel accommodation when they report at the institute.\n\nStudent will dine in their allotted mess at the time of reporting and charges will be adjusted against the deposit mess advance."
+            ]
+        },
+        {
+            "tag": "furniture_fixtures",
+            "patterns": [
+            "What furniture and fixtures are provided in student room?",
+            "What items are provided in hostel rooms?",
+            "Tell me about hostel room facilities",
+            "What furniture will I get in my room?"
+            ],
+            "responses": [
+            "Institute shall provide a bed, an almirah, a table, and a chair to each student accommodated in the hostel.\n\nThere shall be stalls by vendors to purchase a mattress, bucket, mug, and some essential items. A Tuck shop is located in the campus for daily needs. Students/parents can make their own arrangements as well."
+            ]
+        },
+        {
+            "tag": "parents_in_hostel",
+            "patterns": [
+            "Can parents stay in hostel?",
+            "Is parent accommodation available in hostel?",
+            "Are parents allowed to stay in hostels?",
+            "What about parent accommodation during admission?"
+            ],
+            "responses": [
+            "Accompanying parents are not allowed to stay in the Hostels."
+            ]
+        },
+        {
+            "tag": "income_certificate",
+            "patterns": [
+            "Can ITR be submitted in place of Income certificate?",
+            "Is ITR accepted instead of income certificate?",
+            "What documents are needed for income proof?",
+            "Do you accept ITR for income verification?"
+            ],
+            "responses": [
+            "No, student needs to upload latest income certificate. ITR shall not be accepted in place of income certificate."
+            ]
+        },
+        {
+            "tag": "student_id",
+            "patterns": [
+            "What is Student Id/Entry Number?",
+            "How do I find my student ID?",
+            "Where can I get my entry number?",
+            "How to know my student ID number?"
+            ],
+            "responses": [
+            "Student Id and Entry number are same and will be available once you login on E-Governance."
+            ]
+        },
+        {
+            "tag": "refund_policy",
+            "patterns": [
+            "What is the fee refund policy for UG students?",
+            "Can I get a refund if I withdraw?",
+            "Tell me about fee refund rules",
+            "How does the refund process work?"
+            ],
+            "responses": [
+            "As Institute receives the final list of students from JOSAA, who have secured admission, after the last round of admission, no refund of fee shall be allowed in case of withdrawal and only the security amount will be refunded."
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+            "How Can I Contact at IIT Jammu?",
+            "What are the contact details for IIT Jammu?",
+            "Who should I contact for queries?",
+            "Give me IIT Jammu's contact information"
+            ],
+            "responses": [
+            "For any query related to UG admission:\nEmail Id: ugoffice.acad@iitjammu.ac.in\nPh. No. 0191-2570633\n\nFor any query related to Hostel/Mess:\nEmail Id: swoffice@iitjammu.ac.in\nPh. No. 0191-2570697"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+  "intents": [
+    {
+      "tag": "eg_saral_about_us",
+      "patterns": [
+        "What is EG SARAL?",
+        "Tell me about the EG SARAL initiative",
+        "What is the journey of EG SARAL at IIT Jammu?"
+      ],
+      "responses": [
+        "In July 2018, IIT Jammu embarked upon an ambitious journey to simplify its Academic, Research, and Administrative processes. The goal was to build an integrated e-Governance Solution (EGS) to cater to various processes and workflows with a vision of creating an almost paperless office."
+      ]
+    },
+    {
+      "tag": "eg_saral_message",
+      "patterns": [
+        "What is the message of EG SARAL?",
+        "Tell me the message behind EG SARAL"
+      ],
+      "responses": [
+        "EG effortlessly established accountability for service delivery and functional elegance in the very roots of the campus activities."
+      ]
+    },
+    {
+      "tag": "eg_saral_associate_dean",
+      "patterns": [
+        "Who is the Associate Dean for EG SARAL?",
+        "Tell me about the Associate Dean of EG SARAL"
+      ],
+      "responses": [
+        "The Associate Dean for EG SARAL at IIT Jammu is Ankit Kathuria."
+      ]
+    },
+    {
+      "tag": "eg_saral_integrated_portals",
+      "patterns": [
+        "What portals are integrated with EG SARAL?",
+        "Which portals are part of the EG SARAL system?"
+      ],
+      "responses": [
+        "The portals integrated with EG SARAL include: PhD Admission portal, PG Admission portal, Vendor Registration portal, Donations portal, Saptarshi (Central Instrumentation Facility), and Intern Registration Portal."
+      ]
+    },
+    {
+      "tag": "eg_saral_services",
+      "patterns": [
+        "What services are available in EG SARAL?",
+        "Tell me about the EG SARAL services"
+      ],
+      "responses": [
+        "The services provided by EG SARAL include EG SARAL AI CoE Portal for MoE, Flight Manifest Search Portal for CISF, Intranet Recruitment Portals, LGSDF 2021, and NEP 2020 Documents."
+      ]
+    },
+    {
+      "tag": "eg_saral_contact_queries",
+      "patterns": [
+        "How can I contact for EG SARAL system queries?",
+        "Tell me the contact for EG SARAL system-related queries"
+      ],
+      "responses": [
+        "For queries related to the EG SARAL system, you can contact: saral@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "eg_saral_contact_interface",
+      "patterns": [
+        "How can I contact regarding EG SARAL interface issues?",
+        "Tell me the contact for EG SARAL interface-related matters"
+      ],
+      "responses": [
+        "For EG SARAL interface-related matters, you can contact: saral@iitjammu.ac.in (Level 1)."
+      ]
+    },
+    {
+      "tag": "eg_saral_contact_unresolved",
+      "patterns": [
+        "How can I contact for unresolved EG SARAL issues?",
+        "Tell me the contact for unresolved EG SARAL system problems"
+      ],
+      "responses": [
+        "For unresolved issues, you can contact: ad.egs@iitjammu.ac.in (Level 2)."
+      ]
+    },
+    {
+      "tag": "eg_saral_contact_office",
+      "patterns": [
+        "How can I contact for office-specific EG SARAL matters?",
+        "Tell me the contact for EG SARAL office-specific issues"
+      ],
+      "responses": [
+        "For office-specific matters, please contact the respective offices."
+      ]
+    },
+    {
+      "tag": "eg_saral_security_and_privacy",
+      "patterns": [
+        "How is the security of EG SARAL maintained?",
+        "Tell me about EG SARAL's security and privacy practices"
+      ],
+      "responses": [
+        "We follow industry best practices for the security of the EG SARAL application. A third-party service provider, impaneled with CERT-IN, conducted a security audit. The personal data captured in individual profiles is never shared externally, and privacy of Personally Identifiable Information (PII) is maintained."
+      ]
+    },
+    {
+      "tag": "eg_saral_team_ankit_kathuria",
+      "patterns": [
+        "Tell me about Ankit Kathuria",
+        "Who is Ankit Kathuria in the EG SARAL team?"
+      ],
+      "responses": [
+        "Ankit Kathuria is the Associate Dean of EG SARAL at IIT Jammu and plays a vital role in the development and implementation of the EG SARAL e-Governance Solution."
+      ]
+    },
+    {
+      "tag": "eg_saral_support",
+      "patterns": [
+        "How can I get support for EG SARAL?",
+        "Tell me about the EG SARAL support team"
+      ],
+      "responses": [
+        "While we have successfully implemented our system, we are supporting other higher education institutes in their journey of e-Governance by assisting with concept development, RFP preparation, deployment discussions, and sharing institutional memory on e-Governance."
+      ]
+    },
+    {
+      "tag": "eg_saral_website_url",
+      "patterns": [
+        "What is the website for EG SARAL?",
+        "Tell me the EG SARAL website"
+      ],
+      "responses": [
+        "The website for EG SARAL at IIT Jammu is: [https://saral.iitjammu.ac.in/](https://saral.iitjammu.ac.in/)."
+      ]
+    }
+  ]
+}

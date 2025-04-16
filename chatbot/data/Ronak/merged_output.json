@@ -1,0 +1,2252 @@
+{
+    "intents": [
+        {
+            "tag": "finance_and_accounts",
+            "patterns": [
+                "Finance and accounts",
+                "Tell me about finance and accounts",
+                "What does the finance section do?",
+                "Financial transactions at IIT Jammu",
+                "Account management at IIT Jammu"
+            ],
+            "responses": [
+                "The accounts section of an academic institution is responsible for managing financial transactions and records. It handles budgeting, accounting, financial reporting, payroll, accounts payable and receivable, and statutory compliance."
+            ]
+        },
+        {
+            "tag": "assistant_registrar_message",
+            "patterns": [
+                "Message from Assistant Registrar",
+                "Who is the Assistant Registrar?",
+                "Accounts message",
+                "Finance message"
+            ],
+            "responses": [
+                "As the Assistant Registrar for Finance & Accounts at IIT Jammu, Shikha Malhotra welcomes all users warmly. The team is ready to assist with billing, fee payments, financial aid, and scholarships to ensure a seamless experience."
+            ]
+        },
+        {
+            "tag": "about_finance",
+            "patterns": [
+                "About the finance team",
+                "About accounts at IIT Jammu",
+                "What is the role of the finance section?",
+                "Responsibilities of the finance section"
+            ],
+            "responses": [
+                "The accounts section manages the institution's financial stability by handling budgeting, accounting, financial reporting, payroll, accounts payable and receivable, and statutory compliance. It ensures compliance with all relevant accounting standards and regulations."
+            ]
+        },
+        {
+            "tag": "finance_and_accounts_team",
+            "patterns": [
+                "Who is on the finance team?",
+                "List of finance team members",
+                "Finance and accounts team at IIT Jammu"
+            ],
+            "responses": [
+                "The Finance and Accounts team includes:\n- Shikha Malhotra, Assistant Registrar (ar.accounts@iitjammu.ac.in)\n- Meena Sharma, Senior Assistant (meena.sharma@iitjammu.ac.in)\n- Ripul Vaid, Section Officer (ripul.vaid@iitjammu.ac.in)\n- Sahil Dogra, Senior Assistant (sahil.dogra@iitjammu.ac.in)\n- Shubham Gupta, Senior Assistant (shubham.gupta@iitjammu.ac.in)"
+            ]
+        },
+        {
+            "tag": "shikha_malhotra",
+            "patterns": [
+                "Who is Shikha Malhotra?",
+                "Assistant Registrar contact",
+                "Contact Shikha Malhotra"
+            ],
+            "responses": [
+                "Shikha Malhotra is the Assistant Registrar for Finance and Accounts at IIT Jammu. You can reach her at ar.accounts@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "meena_sharma",
+            "patterns": [
+                "Who is Meena Sharma?",
+                "Senior Assistant contact",
+                "Contact Meena Sharma"
+            ],
+            "responses": [
+                "Meena Sharma is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach her at meena.sharma@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "ripul_vaid",
+            "patterns": [
+                "Who is Ripul Vaid?",
+                "Section Officer contact",
+                "Contact Ripul Vaid"
+            ],
+            "responses": [
+                "Ripul Vaid is the Section Officer in the Finance and Accounts team at IIT Jammu. You can reach him at ripul.vaid@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "sahil_dogra",
+            "patterns": [
+                "Who is Sahil Dogra?",
+                "Senior Assistant contact",
+                "Contact Sahil Dogra"
+            ],
+            "responses": [
+                "Sahil Dogra is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach him at sahil.dogra@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "shubham_gupta",
+            "patterns": [
+                "Who is Shubham Gupta?",
+                "Senior Assistant contact",
+                "Contact Shubham Gupta"
+            ],
+            "responses": [
+                "Shubham Gupta is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach him at shubham.gupta@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "alumni_news_events",
+            "patterns": [
+                "Tell me about the latest alumni news",
+                "What are the latest alumni events?",
+                "Give me recent alumni updates from IIT Jammu",
+                "What's new for alumni at IIT Jammu?",
+                "Any recent alumni news?",
+                "Share some alumni news updates"
+            ],
+            "responses": [
+                "Here are the latest alumni news events:\n1. Alumni Startup Update (Published on 14-05-2024)\n2. Yash Cracks UPSC CSE 2023 (Published on 17-04-2024)\n3. Alumni Relations Newsletter 2023 (Published on 29-02-2024)."
+            ]
+        },
+        {
+            "tag": "alumni_dean_message",
+            "patterns": [
+                "What is the Dean's message for alumni?",
+                "Share the Dean's message for alumni relations",
+                "Message from the Dean regarding alumni",
+                "Who is the Dean of Alumni Affairs?",
+                "Dean's note for alumni",
+                "What does the Dean say about alumni relations?"
+            ],
+            "responses": [
+                "Dr. Prabhat Munshi, Dean of Alumni Affairs, says:\n\"We are committed to enriching our relationship with alumni, organizing events like Alumni Reunions, Scholarship Campaigns, and Distinguished Lecture Series. We also plan to fix an annual Alumni Day to celebrate alumni achievements and inspire progress at IIT Jammu.\""
+            ]
+        },
+        {
+            "tag": "alumni_associate_dean_message",
+            "patterns": [
+                "What is the Associate Dean's message for alumni?",
+                "Share the Associate Dean's note about alumni",
+                "Message from the Associate Dean for alumni",
+                "Who is the Associate Dean of Alumni Affairs?",
+                "Associate Dean's message about alumni",
+                "What does the Associate Dean say about alumni relations?"
+            ],
+            "responses": [
+                "Dr. Vinay Sharma, Associate Dean, states:\n\"We proudly support five cohorts of alumni. Our goal is to offer accessible support to every IIT Jammu alumnus. Our office enhances alumni interactions and strengthens the bond between alumni and the Institute.\""
+            ]
+        },
+        {
+            "tag": "alumni_team",
+            "patterns": [
+                "Who is on the alumni relations team?",
+                "Tell me about the Alumni Affairs team",
+                "List the members of the Alumni Affairs Office",
+                "Who manages alumni relations at IIT Jammu?",
+                "Alumni Affairs Office team"
+            ],
+            "responses": [
+                "The Alumni Affairs team includes:\n- Dr. Prabhat Munshi (Dean)\n- Dr. Vinay Sharma (Associate Dean)\n- Mr. Nishbinder Singh (Assistant Registrar)\n- Mr. Shivam Sahdev (Relationship Manager)"
+            ]
+        },
+        {
+            "tag": "alumni_services",
+            "patterns": [
+                "What services are available for alumni?",
+                "List the services offered to alumni",
+                "How can alumni request support?",
+                "Alumni support services",
+                "Are there any alumni assistance programs?"
+            ],
+            "responses": [
+                "We offer several services for our alumni:\n- 50% discount on guest house bookings.\n- Support in cities for accommodation and transport.\n- Requests for mark sheets or transcripts.\nFor assistance, email us at office.alumni@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "alumni_contact",
+            "patterns": [
+                "How do I contact the Alumni Office?",
+                "What is the contact information for alumni relations?",
+                "How can I reach the Alumni Affairs Office?",
+                "Where is the Alumni Office located?",
+                "Contact details for alumni support"
+            ],
+            "responses": [
+                "You can contact the Alumni Office:\n- Email: office.alumni@iitjammu.ac.in\n- Address: Alumni Office, IIT Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221 J&K, India."
+            ]
+        },
+        {
+            "tag": "academic_affairs_dean",
+            "patterns": [
+                "Who is the Dean of Academic Affairs at IIT Jammu?",
+                "Name of the Dean of Academics at IIT Jammu",
+                "Contact information for the Dean of Academic Affairs"
+            ],
+            "responses": [
+                "The Dean of Academic Affairs at IIT Jammu is Kannan Iyer. You can reach out via email at dean.acad@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_associate_dean_research",
+            "patterns": [
+                "Who is the Associate Dean for Research Programs at IIT Jammu?",
+                "Contact details for Associate Dean of Research and Interdisciplinary Programs"
+            ],
+            "responses": [
+                "The Associate Dean for Research Programs and Interdisciplinary Programs is Sameer K. Sarma P. You can contact him at sameer.pachalla@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_associate_dean_curriculum",
+            "patterns": [
+                "Who is the Associate Dean for Curriculum at IIT Jammu?",
+                "Contact information for Associate Dean Curriculum (UG, PG)"
+            ],
+            "responses": [
+                "The Associate Dean for Curriculum (UG, PG) is Shanmugadas K.P. You can reach him at shanmugadas.kp@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_deputy_registrar",
+            "patterns": [
+                "Who is the Deputy Registrar at IIT Jammu?",
+                "Name of the Deputy Registrar for Academic Affairs",
+                "Contact details of the Deputy Registrar"
+            ],
+            "responses": [
+                "The Deputy Registrar at IIT Jammu is Shrikarshan Pareek. You can contact him at dr.acad@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_abhishek",
+            "patterns": [
+                "Who is Abhishek at IIT Jammu?",
+                "Contact details for Abhishek in Academic Affairs"
+            ],
+            "responses": [
+                "Abhishek is a Senior Assistant in Academic Affairs. You can reach him at abhishek@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_dileep_kumar",
+            "patterns": [
+                "Who is Dileep Kumar at IIT Jammu?",
+                "Contact details for Dileep Kumar in Academic Affairs"
+            ],
+            "responses": [
+                "Dileep Kumar is an Assistant Manager in Academic Affairs. His email is dileep.kumar@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_kritika_handoo",
+            "patterns": [
+                "Who is Kritika Handoo at IIT Jammu?",
+                "Contact information for Kritika Handoo"
+            ],
+            "responses": [
+                "Kritika Handoo is a Senior Assistant in Academic Affairs. You can contact her at kritika.handoo@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_nandini_sharma",
+            "patterns": [
+                "Who is Nandini Sharma at IIT Jammu?",
+                "Email for Nandini Sharma in Academic Affairs"
+            ],
+            "responses": [
+                "Nandini Sharma is a Senior Assistant in Academic Affairs. Her email is nandini.sharma@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_sahil_rattan",
+            "patterns": [
+                "Who is Sahil Rattan at IIT Jammu?",
+                "Contact details for Sahil Rattan"
+            ],
+            "responses": [
+                "Sahil Rattan is a Senior Assistant in Academic Affairs. You can reach him at sahil.rattan@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_staff_vipen_sharma",
+            "patterns": [
+                "Who is Vipen Sharma at IIT Jammu?",
+                "Contact information for Vipen Sharma"
+            ],
+            "responses": [
+                "Vipen Sharma is a Senior Assistant in Academic Affairs. His email is vipen.sharma@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_contact_info",
+            "patterns": [
+                "What is the contact number for Academic Affairs at IIT Jammu?",
+                "Email addresses for UG and PG admissions at IIT Jammu",
+                "Academic Affairs contact information"
+            ],
+            "responses": [
+                "You can contact Academic Affairs at IIT Jammu at 0191-2570633 or via email at ar.acad@iitjammu.ac.in. For UG admissions, use ugoffice.acad@iitjammu.ac.in, and for PG admissions, use pgoffice.acad@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "academic_affairs_overview",
+            "patterns": [
+                "Tell me about Academic Affairs",
+                "What does Academic Affairs do?",
+                "Describe the Academic Affairs section",
+                "Academic programs information",
+                "What is the role of Academic Affairs?"
+            ],
+            "responses": [
+                "The Academic Affairs office oversees various academic programs and departments. It assists students in navigating their academic pathways, managing admissions, registration, examinations, and student requests. Academic Affairs implements decisions on academic matters by the Senate. It offers 7 UG, 8 M.Tech, 2 M.Sc./MS(R), 11 Ph.D. programs, and an Executive M.Tech in Artificial Intelligence and Machine Learning."
+            ]
+        },
+        {
+            "tag": "academic_affairs_dean_message",
+            "patterns": [
+                "What is the Dean's message?",
+                "Message from Dean of Academics",
+                "Dean's welcome note",
+                "Who is the Dean of Academics?",
+                "Academic message from IIT Jammu"
+            ],
+            "responses": [
+                "Prof. Kannan Iyer, Dean of Academics, welcomes students to IIT Jammu, the fastest-growing third-generation IIT. He emphasizes interactive, hands-on learning and a multidisciplinary curriculum designed to connect academic theory with real-world practice."
+            ]
+        },
+        {
+            "tag": "academic_affairs_departments",
+            "patterns": [
+                "List all the departments at IIT Jammu",
+                "What departments are available?",
+                "Departments in IIT Jammu",
+                "Which engineering fields are offered?"
+            ],
+            "responses": [
+                "IIT Jammu offers departments such as Biosciences and Bioengineering, Chemical Engineering, Chemistry, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Humanities and Social Sciences, Materials Engineering, Mathematics, Mechanical Engineering, and Physics."
+            ]
+        },
+        {
+            "tag": "academic_affairs_notifications",
+            "patterns": [
+                "Show me the latest notifications",
+                "What are the recent academic notifications?",
+                "Academic announcements at IIT Jammu",
+                "Latest updates from Academic Affairs"
+            ],
+            "responses": [
+                "For details on the latest academic notifications and announcements, please visit https://www.iitjammu.ac.in/academics"
+            ]
+        },
+        {
+            "tag": "academic_affairs_general_contact",
+            "patterns": [
+                "How can I contact Academic Affairs?",
+                "Contact details for Academic Affairs",
+                "Email for UG admissions at IIT Jammu",
+                "Phone number for Academic Office"
+            ],
+            "responses": [
+                "You can contact the Academic Affairs office at IIT Jammu via phone: 0191-2570633 or email: ar.acad@iitjammu.ac.in. For UG admissions, email: ugoffice.acad@iitjammu.ac.in, and for PG admissions, email: pgoffice.acad@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_section_policies",
+            "patterns": [
+                "What are the procurement policies?",
+                "Explain purchasing policies at IIT Jammu.",
+                "What rules does IIT Jammu follow for procurement?",
+                "Tell me about the procurement guidelines."
+            ],
+            "responses": [
+                "IIT Jammu follows rigorous purchasing policies to ensure fair usage of public funds and transparency. Common-use goods and services must be procured through the Government e-Marketplace (GeM) as per GFR rules. Items not available on GeM may be procured through an open tender process."
+            ]
+        },
+        {
+            "tag": "procurement_section_overview",
+            "patterns": [
+                "What is procurement and inventory management?",
+                "Explain inventory management at IIT Jammu.",
+                "How is procurement managed at IIT Jammu?",
+                "Tell me about the inventory section."
+            ],
+            "responses": [
+                "The Procurement & Inventory section at IIT Jammu manages goods and services procurement with transparency and efficiency, aiming for integrity and accountability. They also ensure proper inventory management and accounting for all items."
+            ]
+        },
+        {
+            "tag": "procurement_contact_assistant_registrar",
+            "patterns": [
+                "Who is the Assistant Registrar for procurement?",
+                "Contact person for procurement at IIT Jammu.",
+                "Who handles the procurement section?"
+            ],
+            "responses": [
+                "Purvi Sarkar is the Assistant Registrar for the Procurement Section. You can contact her at ar.procurement@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_staff_ambika_sambyal",
+            "patterns": [
+                "Who is Ambika Sambyal?",
+                "Contact details for Ambika Sambyal.",
+                "Tell me about Senior Assistant Ambika Sambyal."
+            ],
+            "responses": [
+                "Ambika Sambyal is a Senior Assistant in the Procurement Section. Email: ambika.sambyal@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_staff_mandeep_singh",
+            "patterns": [
+                "Who is Mandeep Singh?",
+                "Contact details for Mandeep Singh.",
+                "Tell me about Junior Section Officer Mandeep Singh."
+            ],
+            "responses": [
+                "Mandeep Singh is a Junior Section Officer in the Procurement Section. Email: mandeep.singh@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_staff_srishti_raaj",
+            "patterns": [
+                "Who is Srishti Raaj?",
+                "Contact details for Srishti Raaj.",
+                "Tell me about Senior Assistant Srishti Raaj."
+            ],
+            "responses": [
+                "Srishti Raaj is a Senior Assistant in the Procurement Section. Email: srishti.raaj@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_staff_sunil_kumar",
+            "patterns": [
+                "Who is Sunil Kumar?",
+                "Contact details for Sunil Kumar.",
+                "Tell me about Senior Assistant Sunil Kumar."
+            ],
+            "responses": [
+                "Sunil Kumar is a Senior Assistant in the Procurement Section. Email: sunil.kumar@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_staff_surbhi_raina",
+            "patterns": [
+                "Who is Surbhi Raina?",
+                "Contact details for Surbhi Raina.",
+                "Tell me about Senior Assistant Surbhi Raina."
+            ],
+            "responses": [
+                "Surbhi Raina is a Senior Assistant in the Procurement Section. Email: surbhi.raina@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "procurement_process_details",
+            "patterns": [
+                "What is the procurement process?",
+                "How long does procurement take?",
+                "Explain procurement steps at IIT Jammu."
+            ],
+            "responses": [
+                "The procurement process involves steps like forming purchase committees, releasing tenders, and conducting due diligence. For expensive equipment, it may take up to a year from fund allocation to arrival."
+            ]
+        },
+        {
+            "tag": "procurement_inventory_management_details",
+            "patterns": [
+                "How is inventory managed?",
+                "Explain inventory tracking at IIT Jammu.",
+                "Tell me about the inventory management system."
+            ],
+            "responses": [
+                "Inventory management at IIT Jammu includes tracking items like lab equipment, furniture, and books using the E-governance portal. Consumable and non-consumable items are classified using C-form and NC-form for proper tracking."
+            ]
+        },
+        {
+            "tag": "cds_about",
+            "patterns": [
+                "What is CDS?",
+                "Tell me about Career Development Services",
+                "What is the role of CDS at IIT Jammu?",
+                "Can you explain CDS?"
+            ],
+            "responses": [
+                "The Career and Development Services (CDS) at IIT Jammu, established in 2018, bridges the gap between students and recruiters. It handles campus placements for all graduating students and offers career planning, job search strategies, and more."
+            ]
+        },
+        {
+            "tag": "cds_contact",
+            "patterns": [
+                "How can I contact CDS?",
+                "What is the CDS email?",
+                "CDS contact details",
+                "Phone number of CDS"
+            ],
+            "responses": [
+                "You can contact CDS via email at placements@iitjammu.ac.in or call at 0191 - 2570289. The address is Career Development Services, IIT Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+            ]
+        },
+        {
+            "tag": "cds_linkedin",
+            "patterns": [
+                "Does CDS have a LinkedIn?",
+                "Where can I find CDS on LinkedIn?",
+                "CDS LinkedIn link"
+            ],
+            "responses": [
+                "You can find CDS on LinkedIn at [this link](https://www.linkedin.com/company/cds-iit-jammu)."
+            ]
+        },
+        {
+            "tag": "cds_team",
+            "patterns": [
+                "Who is in the CDS team?",
+                "Tell me about the CDS team",
+                "Who are the faculty members in CDS?"
+            ],
+            "responses": [
+                "The CDS team includes faculty like Prof. Vinit Jakhetiya (Professor In-charge), Ambika Prasad Shah, Ashutosh Yadav, Chembolu Vinay, Karan Nathwani, Pothukuchi Harish, Sunil Kumar Kashyap, and many others. For detailed contacts, you can reach out via the provided emails."
+            ]
+        },
+        {
+            "tag": "placement_statistics",
+            "patterns": [
+                "What are the placement statistics?",
+                "How many students got placed in 2024?",
+                "Placement details for IIT Jammu 2024",
+                "What is the highest package at IIT Jammu?"
+            ],
+            "responses": [
+                "In 2024, 200 students were placed, with 180 securing jobs. The highest package was INR 30 LPA, and the average package was INR 12 LPA. In 2023, 180 students were placed with an average package of INR 11 LPA."
+            ]
+        },
+        {
+            "tag": "placement_policy",
+            "patterns": [
+                "Where can I find the placement policy?",
+                "What is the placement policy at IIT Jammu?",
+                "Give me the placement policy document"
+            ],
+            "responses": [
+                "You can find the placement policy at [this link](https://iitjammu.ac.in/Facilities/cds/Placement%20Policy%E2%80%93%20IIT%20Jammu%20-%20Ver%20III.pdf)."
+            ]
+        },
+        {
+            "tag": "message_from_director",
+            "patterns": [
+                "Message from the Director",
+                "What is the message from the Director of IIT Jammu?",
+                "Tell me about the Director's message"
+            ],
+            "responses": [
+                "The Director, Prof. Manoj Singh Gaur, expresses warm greetings and highlights the vision of IIT Jammu to create tomorrow's world through technological interventions. He shares how the lush green surroundings of IIT Jammu contribute to student growth and development."
+            ]
+        },
+        {
+            "tag": "message_from_professor_incharge",
+            "patterns": [
+                "Message from the Professor In-charge of CDS",
+                "What does the Professor In-charge of CDS say?",
+                "Tell me about the message from the Professor In-charge"
+            ],
+            "responses": [
+                "Dr. Vinit Jakhetiya, Professor In-charge of CDS, highlights the comprehensive resources provided to students, such as personalized counseling, workshops, and industry partnerships, to guide them towards successful careers."
+            ]
+        },
+        {
+            "tag": "i3c_overview",
+            "patterns": [
+                "What is I3C?",
+                "Tell me about I3C at IIT Jammu",
+                "What is the focus of I3C at IIT Jammu?"
+            ],
+            "responses": [
+                "I3C (Institute Incubation and Innovation Council) at IIT Jammu fosters a startup ecosystem. It collaborates with JKEDI and other partners to support startups, focusing on sectors like aerospace, defense, and other innovative fields."
+            ]
+        },
+        {
+            "tag": "faculty_team_ambika_prasad_shah",
+            "patterns": [
+                "Contact Ambika Prasad Shah",
+                "Who is Ambika Prasad Shah?",
+                "Ambika Prasad Shah email"
+            ],
+            "responses": [
+                "Ambika Prasad Shah is part of the CDS faculty team. You can contact him at ambika.shah@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_ashutosh_yadav",
+            "patterns": [
+                "Contact Ashutosh Yadav",
+                "Who is Ashutosh Yadav?",
+                "Ashutosh Yadav email"
+            ],
+            "responses": [
+                "Ashutosh Yadav is part of the CDS faculty team. You can contact him at ashutosh.yadav@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_chembolu_vinay",
+            "patterns": [
+                "Contact Chembolu Vinay",
+                "Who is Chembolu Vinay?",
+                "Chembolu Vinay email"
+            ],
+            "responses": [
+                "Chembolu Vinay is part of the CDS faculty team. You can contact him at chembolu.vinay@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_karan_nathwani",
+            "patterns": [
+                "Contact Karan Nathwani",
+                "Who is Karan Nathwani?",
+                "Karan Nathwani email"
+            ],
+            "responses": [
+                "Karan Nathwani is part of the CDS faculty team. You can contact him at karan.nathwani@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_pothukuchi_harish",
+            "patterns": [
+                "Contact Pothukuchi Harish",
+                "Who is Pothukuchi Harish?",
+                "Pothukuchi Harish email"
+            ],
+            "responses": [
+                "Pothukuchi Harish is part of the CDS faculty team. You can contact him at pothukuchi.harish@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_sunil_kumar_kashyap",
+            "patterns": [
+                "Contact Sunil Kumar Kashyap",
+                "Who is Sunil Kumar Kashyap?",
+                "Sunil Kumar Kashyap email"
+            ],
+            "responses": [
+                "Sunil Kumar Kashyap is part of the CDS faculty team. You can contact him at sunil.kashyap@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "faculty_team_vinit_jakhetiya",
+            "patterns": [
+                "Contact Vinit Jakhetiya",
+                "Who is Vinit Jakhetiya?",
+                "Vinit Jakhetiya email"
+            ],
+            "responses": [
+                "Vinit Jakhetiya is the Professor In-charge of CDS. You can contact him at vinit.jakhetiya@iitjammu.ac.in or at pic.cds@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "staff_richa_sharma",
+            "patterns": [
+                "Contact Richa Sharma",
+                "Who is Richa Sharma?",
+                "Richa Sharma email"
+            ],
+            "responses": [
+                "Richa Sharma is part of the CDS staff. You can contact her at iitjmu80132@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "staff_ridham_gupta",
+            "patterns": [
+                "Contact Ridham Gupta",
+                "Who is Ridham Gupta?",
+                "Ridham Gupta email"
+            ],
+            "responses": [
+                "Ridham Gupta is part of the CDS staff. You can contact him at ridham.gupta@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "ces_outreach",
+            "patterns": [
+                "Tell me about CES outreach",
+                "What is CES outreach?",
+                "What are CES activities?"
+            ],
+            "responses": [
+                "CES (Center for Engineering Solutions) outreach includes initiatives like CES and CEAC to connect with students and professionals for skill development."
+            ]
+        },
+        {
+            "tag": "ceac_executive_programs",
+            "patterns": [
+                "What are the executive programs under CEAC?",
+                "Tell me about the CEAC executive programs",
+                "What programs are offered under CEAC?"
+            ],
+            "responses": [
+                "The CEAC Executive programs include M. Tech. in AIML, Post Graduate Diploma in Cyber Security, and MTech in VLSI Design (Executive)."
+            ]
+        },
+        {
+            "tag": "unnat_bharat_abhiyan",
+            "patterns": [
+                "What activities are part of Unnat Bharat Abhiyan?",
+                "Tell me about Unnat Bharat Abhiyan activities",
+                "What are SHG-1, SHG-2, SHG-3?"
+            ],
+            "responses": [
+                "Unnat Bharat Abhiyan includes activities like SHG-1, SHG-2, and SHG-3 to promote rural development and community engagement."
+            ]
+        },
+        {
+            "tag": "continuing_education_department_contact",
+            "patterns": [
+                "How can I contact the Continuing Education Program?",
+                "What is the email address for Continuing Education?",
+                "Give me the contact details for Continuing Education"
+            ],
+            "responses": [
+                "You can contact the Continuing Education Program via email at dean.contedu@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "continuing_education_program_additional_information",
+            "patterns": [
+                "Where can I know more about the Continuing Education Program?",
+                "How can I learn more about the Continuing Education Program?",
+                "Give me more information about the Continuing Education Program"
+            ],
+            "responses": [
+                "Visit the website at [https://www.iitjammu.ac.in/cep/](https://www.iitjammu.ac.in/cep/) for more details about the Continuing Education Program."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_intro",
+            "patterns": [
+                "Tell me about IIT Jammu Counseling Services",
+                "What are the services offered by IIT Jammu Counseling?",
+                "What is IIT Jammu Counseling Services about?"
+            ],
+            "responses": [
+                "IIT Jammu Counseling Services provides support for mental health, academic counseling, and various workshops aimed at personal growth and well-being. It offers individual counseling, group counseling, and other services to help students."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_services_offered",
+            "patterns": [
+                "What services are offered by IIT Jammu Counseling?",
+                "What types of support does IIT Jammu Counseling provide?",
+                "What are the services available at IIT Jammu Counseling?"
+            ],
+            "responses": [
+                "IIT Jammu Counseling Services offers mental health support, academic counseling, de-addiction days, confidential personal counseling, workshops, group counseling, and referrals to psychiatrists when needed."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_contact",
+            "patterns": [
+                "How can I contact IIT Jammu Counseling Services?",
+                "Where is IIT Jammu Counseling Services located?",
+                "What is the contact information for IIT Jammu Counseling?"
+            ],
+            "responses": [
+                "You can contact IIT Jammu Counseling Services at the phone number 0191-2570730 or via email at counselling.services@iitjammu.ac.in. Counseling services are available Monday to Friday from 9:30 AM to 5:30 PM. Emergency services are available 24/7."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_first_visit",
+            "patterns": [
+                "What happens during the first visit to IIT Jammu Counseling Services?",
+                "How is the first session at IIT Jammu Counseling?",
+                "What should I expect during my first visit to IIT Jammu Counseling?"
+            ],
+            "responses": [
+                "During your first visit, you will have a brief 30-45 minute intake session with a counselor. They will provide information about the counseling process, discuss your concerns, and develop a plan to meet your needs."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_confidentiality",
+            "patterns": [
+                "Is counseling information kept confidential at IIT Jammu?",
+                "Do IIT Jammu counselors maintain confidentiality?",
+                "Is my information safe with IIT Jammu Counseling?"
+            ],
+            "responses": [
+                "Yes, all counseling records at IIT Jammu are strictly confidential and not part of campus records. Information is shared only with your written permission, except in cases of safety concerns or court orders."
+            ]
+        },
+        {
+            "tag": "IITJammu_counseling_feedback",
+            "patterns": [
+                "How can I give feedback for IIT Jammu Counseling Services?",
+                "Where can I share my feedback for IIT Jammu Counseling?",
+                "I want to share my experience with IIT Jammu Counseling."
+            ],
+            "responses": [
+                "We value your feedback! Please share your experience at feedback@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "IITJammu_counselor_profiles_himanshi_singh",
+            "patterns": [
+                "Tell me about Himanshi Singh",
+                "Who is Himanshi Singh?",
+                "What is Himanshi Singh's background?"
+            ],
+            "responses": [
+                "Himanshi Singh is an RCI licensed Clinical Psychologist with an M.Phil in Clinical Psychology from PGIMS, Rohtak, Haryana. She has experience working with AIIMS, New Delhi, and specializes in psychological assessments, individual therapy (CBT, mindfulness, family therapy), and therapy for depression, anxiety, academic stress, and more."
+            ]
+        },
+        {
+            "tag": "IITJammu_counselor_profiles_nandita_sharma",
+            "patterns": [
+                "Tell me about Nandita Sharma",
+                "Who is Nandita Sharma?",
+                "What is Nandita Sharma's background?"
+            ],
+            "responses": [
+                "Nandita Sharma is an RCI Licensed Clinical Psychologist and Educational Psychologist. She has experience as an academic researcher and psychologist at medical institutions, NGOs, and schools. She specializes in stress, trauma, addiction, grief, LGBTQIA+ issues, and more, using mindfulness, CBT, and client-centric strategies."
+            ]
+        },
+        {
+            "tag": "IITJammu_team_faculty_in_charge",
+            "patterns": [
+                "Who is the faculty in charge of IIT Jammu Counseling Services?",
+                "Who coordinates IIT Jammu Counseling?",
+                "Tell me about the faculty in charge of IIT Jammu Counseling Services"
+            ],
+            "responses": [
+                "The faculty in charge of IIT Jammu Counseling Services is Dr. Sanat Kumar Tiwari, who serves as the Coordinator. You can contact him via email at sanat.tiwari@iitjammu.ac.in or by phone at 0191-257-0281. His office is located at 01AC-6-32."
+            ]
+        },
+        {
+            "tag": "IITJammu_team_student_volunteers",
+            "patterns": [
+                "Who are the student volunteers in IIT Jammu Counseling Services?",
+                "Tell me about the student volunteers at IIT Jammu Counseling",
+                "Who are the volunteers working with IIT Jammu Counseling?"
+            ],
+            "responses": [
+                "The student volunteers at IIT Jammu Counseling Services include Shantanu Pratap Singh (Creatives), Amardeep Jain, Jishnu Lakshya Devani, and Mukul Yadav."
+            ]
+        },
+        {
+            "tag": "eg_saral_about_us",
+            "patterns": [
+                "What is EG SARAL?",
+                "Tell me about the EG SARAL initiative",
+                "What is the journey of EG SARAL at IIT Jammu?"
+            ],
+            "responses": [
+                "In July 2018, IIT Jammu embarked upon an ambitious journey to simplify its Academic, Research, and Administrative processes. The goal was to build an integrated e-Governance Solution (EGS) to cater to various processes and workflows with a vision of creating an almost paperless office."
+            ]
+        },
+        {
+            "tag": "eg_saral_message",
+            "patterns": [
+                "What is the message of EG SARAL?",
+                "Tell me the message behind EG SARAL"
+            ],
+            "responses": [
+                "EG effortlessly established accountability for service delivery and functional elegance in the very roots of the campus activities."
+            ]
+        },
+        {
+            "tag": "eg_saral_associate_dean",
+            "patterns": [
+                "Who is the Associate Dean for EG SARAL?",
+                "Tell me about the Associate Dean of EG SARAL"
+            ],
+            "responses": [
+                "The Associate Dean for EG SARAL at IIT Jammu is Ankit Kathuria."
+            ]
+        },
+        {
+            "tag": "eg_saral_integrated_portals",
+            "patterns": [
+                "What portals are integrated with EG SARAL?",
+                "Which portals are part of the EG SARAL system?"
+            ],
+            "responses": [
+                "The portals integrated with EG SARAL include: PhD Admission portal, PG Admission portal, Vendor Registration portal, Donations portal, Saptarshi (Central Instrumentation Facility), and Intern Registration Portal."
+            ]
+        },
+        {
+            "tag": "eg_saral_services",
+            "patterns": [
+                "What services are available in EG SARAL?",
+                "Tell me about the EG SARAL services"
+            ],
+            "responses": [
+                "The services provided by EG SARAL include EG SARAL AI CoE Portal for MoE, Flight Manifest Search Portal for CISF, Intranet Recruitment Portals, LGSDF 2021, and NEP 2020 Documents."
+            ]
+        },
+        {
+            "tag": "eg_saral_contact_queries",
+            "patterns": [
+                "How can I contact for EG SARAL system queries?",
+                "Tell me the contact for EG SARAL system-related queries"
+            ],
+            "responses": [
+                "For queries related to the EG SARAL system, you can contact: saral@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "eg_saral_contact_interface",
+            "patterns": [
+                "How can I contact regarding EG SARAL interface issues?",
+                "Tell me the contact for EG SARAL interface-related matters"
+            ],
+            "responses": [
+                "For EG SARAL interface-related matters, you can contact: saral@iitjammu.ac.in (Level 1)."
+            ]
+        },
+        {
+            "tag": "eg_saral_contact_unresolved",
+            "patterns": [
+                "How can I contact for unresolved EG SARAL issues?",
+                "Tell me the contact for unresolved EG SARAL system problems"
+            ],
+            "responses": [
+                "For unresolved issues, you can contact: ad.egs@iitjammu.ac.in (Level 2)."
+            ]
+        },
+        {
+            "tag": "eg_saral_contact_office",
+            "patterns": [
+                "How can I contact for office-specific EG SARAL matters?",
+                "Tell me the contact for EG SARAL office-specific issues"
+            ],
+            "responses": [
+                "For office-specific matters, please contact the respective offices."
+            ]
+        },
+        {
+            "tag": "eg_saral_security_and_privacy",
+            "patterns": [
+                "How is the security of EG SARAL maintained?",
+                "Tell me about EG SARAL's security and privacy practices"
+            ],
+            "responses": [
+                "We follow industry best practices for the security of the EG SARAL application. A third-party service provider, impaneled with CERT-IN, conducted a security audit. The personal data captured in individual profiles is never shared externally, and privacy of Personally Identifiable Information (PII) is maintained."
+            ]
+        },
+        {
+            "tag": "eg_saral_team_ankit_kathuria",
+            "patterns": [
+                "Tell me about Ankit Kathuria",
+                "Who is Ankit Kathuria in the EG SARAL team?"
+            ],
+            "responses": [
+                "Ankit Kathuria is the Associate Dean of EG SARAL at IIT Jammu and plays a vital role in the development and implementation of the EG SARAL e-Governance Solution."
+            ]
+        },
+        {
+            "tag": "eg_saral_support",
+            "patterns": [
+                "How can I get support for EG SARAL?",
+                "Tell me about the EG SARAL support team"
+            ],
+            "responses": [
+                "While we have successfully implemented our system, we are supporting other higher education institutes in their journey of e-Governance by assisting with concept development, RFP preparation, deployment discussions, and sharing institutional memory on e-Governance."
+            ]
+        },
+        {
+            "tag": "eg_saral_website_url",
+            "patterns": [
+                "What is the website for EG SARAL?",
+                "Tell me the EG SARAL website"
+            ],
+            "responses": [
+                "The website for EG SARAL at IIT Jammu is: [https://saral.iitjammu.ac.in/](https://saral.iitjammu.ac.in/)."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_location",
+            "patterns": [
+                "What is the address of the library?",
+                "Where is the library located?"
+            ],
+            "responses": [
+                "The Central Library, Indian Institute of Technology Jammu is located at Jagti, NH-44, PO Nagrota, Jammu \u00e2\u20ac\u201c 181 221, J&K, India."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_contact",
+            "patterns": [
+                "What is the contact number of the library?",
+                "How can I contact the library?",
+                "What is the library's email address?"
+            ],
+            "responses": [
+                "You can contact the library at +91-191-257-0631 or email at library@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_opening_hours",
+            "patterns": [
+                "What are the library's opening hours?",
+                "When is the library open?"
+            ],
+            "responses": [
+                "The library opens on weekdays from 09:00 AM - 10:00 PM, and on Saturdays from 09:00 AM - 05:30 PM."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_circulation_timing",
+            "patterns": [
+                "What are the circulation timings?",
+                "When can I borrow books?"
+            ],
+            "responses": [
+                "The circulation timing is from 10:00 AM to 5:30 PM (Monday to Friday)."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_faculty_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for faculty?",
+                "How many books can faculty borrow?"
+            ],
+            "responses": [
+                "Faculty members can borrow 6 books for 90 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_phd_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for PhD students?",
+                "How many books can PhD students borrow?"
+            ],
+            "responses": [
+                "PhD students can borrow 5 books for 30 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_mtech_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for M. Tech students?",
+                "How many books can M. Tech students borrow?"
+            ],
+            "responses": [
+                "M. Tech students can borrow 3 General Books for 14 days and 1 Textbook for 14 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_btech_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for B. Tech students?",
+                "How many books can B. Tech students borrow?"
+            ],
+            "responses": [
+                "B. Tech students can borrow 2 General Books for 14 days and 2 Textbooks for 7 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_project_assistant_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for Project or Teaching Assistants?",
+                "How many books can project assistants borrow?"
+            ],
+            "responses": [
+                "Project/Teaching Assistants and others can borrow 2 books for 14 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_staff_borrowing_policy",
+            "patterns": [
+                "What is the borrowing policy for staff members?",
+                "How many books can staff borrow?"
+            ],
+            "responses": [
+                "Staff members can borrow 2 books for 30 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_hindi_books_policy",
+            "patterns": [
+                "What is the borrowing policy for Hindi books?",
+                "How many Hindi books can I borrow?"
+            ],
+            "responses": [
+                "All members can borrow 1 Hindi book for 30 days."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_resources",
+            "patterns": [
+                "What e-resources does the library have?",
+                "What online journals are available?",
+                "What e-books can I access?"
+            ],
+            "responses": [
+                "The library provides access to a variety of e-resources, including ACM Digital Library, Springer Journals, IEEE IEL Online, JSTOR, Science Direct, and many others. Additionally, it offers e-books from publishers such as McGraw Hill, Pearson, Wiley, and the Institute of Physics."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_research_assistance_tools",
+            "patterns": [
+                "What research assistance tools are available?",
+                "Does the library provide research tools?"
+            ],
+            "responses": [
+                "Research assistance tools available include iThenticate, Grammarly, QuillBot, and DrillBit."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_seating_arrangements",
+            "patterns": [
+                "When can I use the seating in the library?",
+                "Is the seating arrangement ready?"
+            ],
+            "responses": [
+                "The seating arrangements in the LHC Library are ready, and you can start using them from Monday, 06-01-2025. The installation of other furniture and book racks is still in progress."
+            ]
+        },
+        {
+            "tag": "library_iit_jammu_updates",
+            "patterns": [
+                "What are the latest updates in the library?",
+                "Tell me about the library setup progress"
+            ],
+            "responses": [
+                "The final setup and book shifting from the Transit Campus Library to the Mansar Library (LHC) are in progress. Updates will be shared once completed. Stay tuned for more!"
+            ]
+        },
+        {
+            "tag": "medical_center_intro",
+            "patterns": [
+                "Tell me about the Medical Centre",
+                "What is the Medical Centre?",
+                "Where is the Health and Wellness Center?",
+                "Can you tell me about the Health and Wellness Center?",
+                "What facilities does the Medical Centre offer?"
+            ],
+            "responses": [
+                "Welcome to our Institute Health and Wellness Center, your go-to destination for all your medical needs on campus! Nestled in the serene southern corner of our campus lies your gateway to well-being, our Health and Wellness Center. Here amidst the tranquil surroundings, you'll discover a haven dedicated to nurturing your health and vitality since 2018."
+            ]
+        },
+        {
+            "tag": "medical_center_contact",
+            "patterns": [
+                "How can I contact the Medical Centre?",
+                "What is the email of the Medical Centre?",
+                "What is the phone number of the Medical Centre?",
+                "How to reach out to the Medical Centre?"
+            ],
+            "responses": [
+                "You can contact the Medical Centre by email at medical.center@iitjammu.ac.in or call at 01912570636. We're always here to assist you!"
+            ]
+        },
+        {
+            "tag": "medical_center_facilities",
+            "patterns": [
+                "What are the facilities at the Medical Centre?",
+                "List the facilities offered at the Health and Wellness Center",
+                "What services does the Medical Centre provide?"
+            ],
+            "responses": [
+                "The Medical Centre provides the following facilities:\n- Dental facilities\n- Ward facility\n- Minor OT/Dressing Room\n- Physiotherapy\n- Laboratory services\n- ECG Services\n- Pharmacy\n- Ambulance Services"
+            ]
+        },
+        {
+            "tag": "doctor_karunika",
+            "patterns": [
+                "Tell me about Dr. Karunika",
+                "Who is Dr. Karunika?",
+                "What qualifications does Dr. Karunika have?",
+                "How can I contact Dr. Karunika?"
+            ],
+            "responses": [
+                "Dr. Karunika is a specialist with qualifications in MBBS, MD, PGDHHM, and a Diploma in Ultrasonography. She has over 10 years of experience. You can reach her at karunika.sharma@iitjammu.ac.in or call +91 95967 45001."
+            ]
+        },
+        {
+            "tag": "doctor_vikram_singh",
+            "patterns": [
+                "Tell me about Dr. Vikram Singh",
+                "Who is Dr. Vikram Singh?",
+                "What qualifications does Dr. Vikram Singh have?",
+                "How can I contact Dr. Vikram Singh?"
+            ],
+            "responses": [
+                "Dr. Vikram Singh holds an MBBS degree and has 2.5 years of experience. You can contact him at medical.gdmo3@iitjammu.ac.in or call +91 99060 16244."
+            ]
+        },
+        {
+            "tag": "doctor_priya",
+            "patterns": [
+                "Tell me about Dr. Priya",
+                "Who is Dr. Priya?",
+                "What qualifications does Dr. Priya have?",
+                "How can I contact Dr. Priya?"
+            ],
+            "responses": [
+                "Dr. Priya is an MBBS graduate with 6 months of experience in psychiatry. You can reach her at medical.gdmo@iitjammu.ac.in or call +91 70064 66731."
+            ]
+        },
+        {
+            "tag": "doctor_bidisha",
+            "patterns": [
+                "Tell me about Dr. Bidisha",
+                "Who is Dr. Bidisha?",
+                "What qualifications does Dr. Bidisha have?",
+                "How can I contact Dr. Bidisha?"
+            ],
+            "responses": [
+                "Dr. Bidisha is an MBBS graduate with 1 year of experience. You can contact her at medical.gdmo5@iitjammu.ac.in or call +91 700601 75069."
+            ]
+        },
+        {
+            "tag": "doctor_pranav_gupta",
+            "patterns": [
+                "Tell me about Dr. Pranav Gupta",
+                "Who is Dr. Pranav Gupta?",
+                "What qualifications does Dr. Pranav Gupta have?",
+                "How can I contact Dr. Pranav Gupta?"
+            ],
+            "responses": [
+                "Dr. Pranav Gupta has qualifications in B.D.S, M.D.S, and Fellowship of the Faculty of Applied Clinical Sciences (F.F.A.C). He has 7 years of experience. You can reach him at medical.gdmo4@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "doctor_rohit_bhatiya",
+            "patterns": [
+                "Who is Dr. Rohit Bhatiya?",
+                "Tell me about Dr. Rohit Bhatiya",
+                "What is the role of Dr. Rohit Bhatiya?"
+            ],
+            "responses": [
+                "Dr. Rohit Bhatiya is a Visiting Physiotherapist at the Medical Centre. For appointments, please contact the Medical Centre directly."
+            ]
+        },
+        {
+            "tag": "medical_center_location",
+            "patterns": [
+                "Where is the Medical Centre located?",
+                "Tell me the address of the Medical Centre",
+                "What is the address of the Health and Wellness Center?"
+            ],
+            "responses": [
+                "The Medical Centre is located at: Medical Centre, Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_section",
+            "patterns": [
+                "Research and Consultancy at IIT Jammu",
+                "What is the Research and Consultancy Section?",
+                "Tell me about the Research and Consultancy Section"
+            ],
+            "responses": [
+                "The Research and Consultancy Section at IIT Jammu is an integral part of the institute, supporting research and development activities to enhance intellectual property and knowledge base."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_message",
+            "patterns": [
+                "What is the message from Research and Consultancy?",
+                "Tell me about the message for Research and Consultancy",
+                "What does the Research and Consultancy section say?"
+            ],
+            "responses": [
+                "Research and consultancy are integral parts of IIT Jammu's mission, and we are committed to providing a supportive and efficient environment for research and consultancy activities."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_deputy_registrar",
+            "patterns": [
+                "Who is the Deputy Registrar for Research and Consultancy?",
+                "Tell me about the Deputy Registrar",
+                "Who heads the Research and Consultancy?"
+            ],
+            "responses": [
+                "The Deputy Registrar for Research and Consultancy is Cdr Avinash Barthwal (Retd)."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_objectives",
+            "patterns": [
+                "What are the objectives of the Research and Consultancy Section?",
+                "Tell me about the objectives of Research and Consultancy",
+                "What are the goals of the Research and Consultancy section?"
+            ],
+            "responses": [
+                "The Research and Consultancy Section provides services such as research projects, industry collaborations, and consulting services while closely working with other departments and external partners."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_main_functions",
+            "patterns": [
+                "What are the main functions of the Research and Consultancy Section?",
+                "Tell me about the main functions of Research and Consultancy",
+                "What does the Research and Consultancy section handle?"
+            ],
+            "responses": [
+                "The main functions include administrative and accounting support for various projects, grants, staff recruitment, and monitoring of funds and expenditures."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_team_deputy_registrar",
+            "patterns": [
+                "Tell me about Cdr Avinash Barthwal",
+                "Who is Cdr Avinash Barthwal?",
+                "What is the role of Cdr Avinash Barthwal?"
+            ],
+            "responses": [
+                "Cdr Avinash Barthwal (Retd) is the Deputy Registrar of Research and Consultancy at IIT Jammu. You can contact him at hos.rnc@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_team_ashish_dawar",
+            "patterns": [
+                "Tell me about Ashish Dawar",
+                "Who is Ashish Dawar?",
+                "What is Ashish Dawar's role?"
+            ],
+            "responses": [
+                "Ashish Dawar is a Junior Section Officer in the Research and Consultancy team at IIT Jammu. You can contact him at ashish.dawar@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "research_and_consultancy_team_sumit_kumar_sharma",
+            "patterns": [
+                "Tell me about Sumit Kumar Sharma",
+                "Who is Sumit Kumar Sharma?",
+                "What is Sumit Kumar Sharma's role?"
+            ],
+            "responses": [
+                "Sumit Kumar Sharma is a Senior Assistant in the Research and Consultancy team at IIT Jammu. You can contact him at sumit.sharma@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "campus_security",
+            "patterns": [
+                "What is the campus security like?",
+                "Tell me about campus security",
+                "How secure is the IIT Jammu campus?"
+            ],
+            "responses": [
+                "IIT Jammu has a robust, well-defined, and reliable security setup. The campus remains under continuous integrated smart CCTV surveillance for the safety and security of residents and visitors.",
+                "The campus is secured with professional and trained security staff, supported by local police authorities, and is under continuous CCTV surveillance."
+            ]
+        },
+        {
+            "tag": "visitor_instructions",
+            "patterns": [
+                "What are the visitor instructions?",
+                "Can you tell me the visitor guidelines?",
+                "How should visitors enter IIT Jammu?"
+            ],
+            "responses": [
+                "Visitors must carry a valid photo ID card or a soft copy in the Digi locker app for entry.",
+                "Visitors' vehicles are not permitted inside the campus, and there are strict security checks, including frisking and the use of a metal detector."
+            ]
+        },
+        {
+            "tag": "student_instructions",
+            "patterns": [
+                "What are the security instructions for students?",
+                "What should students know about campus security?",
+                "Tell me about the student security rules."
+            ],
+            "responses": [
+                "Students must follow basic principles of community living, carry their Institute ID at all times while moving out, and follow the instructions of the security staff.",
+                "IIT Jammu is a no-ragging zone, and students must not damage any property of the Institute or other individuals."
+            ]
+        },
+        {
+            "tag": "emergency_contact",
+            "patterns": [
+                "What is the emergency contact?",
+                "Tell me the emergency numbers for IIT Jammu",
+                "In case of emergency, who should I contact?"
+            ],
+            "responses": [
+                "In case of an emergency, contact the Security Control Room at 0638 or 0191-257 0638.",
+                "For immediate assistance, call the Emergency Response Team at 1111 (0191 \u00e2\u20ac\u201c 257 1111)."
+            ]
+        },
+        {
+            "tag": "security_staff",
+            "patterns": [
+                "Who is the Security Officer?",
+                "Tell me about the security officer",
+                "Who is the head of the security team?",
+                "What is the contact for the security officer?"
+            ],
+            "responses": [
+                "The Security Officer is Lt Cdr Mannu Virk (Retd.), and can be contacted at security.officer@iitjammu.ac.in or 0191 \u00e2\u20ac\u201c 257 0639.",
+                "For any inquiries regarding security, reach out to the Security Officer Lt Cdr Mannu Virk (Retd.) at security.officer@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "security_contact",
+            "patterns": [
+                "What is the contact number for security?",
+                "How can I contact the security team?",
+                "Give me the security team's contact details."
+            ],
+            "responses": [
+                "You can contact the Security Control Room at 0638 or 0191-257 0638 for general queries.",
+                "In case of an emergency, reach out to the Emergency Response Team at 1111 (0191 \u00e2\u20ac\u201c 257 1111)."
+            ]
+        },
+        {
+            "tag": "security_officer_email",
+            "patterns": [
+                "What is the email of the security officer?",
+                "How can I contact the security officer?",
+                "What is the contact email for the Security Officer?"
+            ],
+            "responses": [
+                "You can contact the Security Officer at security.officer@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_section",
+            "patterns": [
+                "Student Affairs at IIT Jammu",
+                "What is the Student Affairs Section?",
+                "Tell me about the Student Affairs Section"
+            ],
+            "responses": [
+                "Welcome to the Student Affairs Section of IIT Jammu. This office provides a supportive and enriching environment for students, focusing on both academic success and personal growth."
+            ]
+        },
+        {
+            "tag": "student_affairs_message",
+            "patterns": [
+                "What is the message from the Student Affairs Office?",
+                "Tell me about the message for Student Affairs",
+                "What does the Student Affairs section say?"
+            ],
+            "responses": [
+                "The Student Affairs Office serves as the central hub for all aspects of student life, aiming to foster a supportive environment for academic excellence and personal development."
+            ]
+        },
+        {
+            "tag": "hostel_life",
+            "patterns": [
+                "Tell me about the hostel life at IIT Jammu",
+                "What is the hostel experience like?",
+                "How is the campus hostel at IIT Jammu?"
+            ],
+            "responses": [
+                "Campus Hostel life at IIT Jammu is vital for learning independence and self-sufficiency. The institute offers three hostels at the main campus and two at the satellite campus, providing all basic amenities."
+            ]
+        },
+        {
+            "tag": "mess_facilities",
+            "patterns": [
+                "What are the mess facilities at IIT Jammu?",
+                "Tell me about the mess at IIT Jammu",
+                "What food options are available at IIT Jammu?"
+            ],
+            "responses": [
+                "The institute provides healthy and delicious meals through Mess Canary, Mess Breag, and Mess Egret, ensuring students' overall well-being."
+            ]
+        },
+        {
+            "tag": "student_activities",
+            "patterns": [
+                "What student activities are available at IIT Jammu?",
+                "Tell me about student activities at IIT Jammu",
+                "What extracurricular activities can students engage in?"
+            ],
+            "responses": [
+                "The Student Activities Section offers a variety of clubs, including technical, cultural, social, adventure clubs, and the EK Bharat Shrestha Bharat initiative, providing ample opportunities for student involvement."
+            ]
+        },
+        {
+            "tag": "sports_facilities",
+            "patterns": [
+                "What sports facilities are available at IIT Jammu?",
+                "Tell me about sports at IIT Jammu",
+                "What sports are offered at IIT Jammu?"
+            ],
+            "responses": [
+                "The Sports Section offers a range of facilities for sports like cricket, football, basketball, volleyball, athletics, and more, with qualified trainers to help students improve their skills."
+            ]
+        },
+        {
+            "tag": "student_affairs_office",
+            "patterns": [
+                "What is the role of the Student Affairs Office?",
+                "Tell me about the Student Affairs Office",
+                "What does the Student Affairs Office do?"
+            ],
+            "responses": [
+                "The Student Affairs Office provides health insurance, accidental coverage, travel support, certificates, financial assistance, and manages student welfare funds, among other responsibilities."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_sartaj_ul_hasan",
+            "patterns": [
+                "Who is Sartaj Ul Hasan?",
+                "Tell me about Sartaj Ul Hasan",
+                "What is Sartaj Ul Hasan's role?"
+            ],
+            "responses": [
+                "Sartaj Ul Hasan is the Dean of Student Affairs at IIT Jammu. You can contact him at dean.sw@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_anup_shukla",
+            "patterns": [
+                "Who is Anup Shukla?",
+                "Tell me about Anup Shukla",
+                "What is Anup Shukla's role?"
+            ],
+            "responses": [
+                "Anup Shukla is the Associate Dean of Hostel Affairs and Mess Management at IIT Jammu. You can contact him at anup.shukla@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_arvind_kumar",
+            "patterns": [
+                "Who is Arvind Kumar?",
+                "Tell me about Arvind Kumar",
+                "What is Arvind Kumar's role?"
+            ],
+            "responses": [
+                "Arvind Kumar is the Associate Dean of Student Activities at IIT Jammu. You can contact him at arvind.kumar@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_devi_lal",
+            "patterns": [
+                "Who is Devi Lal?",
+                "Tell me about Devi Lal",
+                "What is Devi Lal's role?"
+            ],
+            "responses": [
+                "Devi Lal is the Associate Dean of Sports, Student Welfare, and Wellness at IIT Jammu. You can contact him at devi.lal@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_r_p_prajapat",
+            "patterns": [
+                "Who is R. P. Prajapat?",
+                "Tell me about R. P. Prajapat",
+                "What is R. P. Prajapat's role?"
+            ],
+            "responses": [
+                "R. P. Prajapat is the Assistant Registrar at the Student Affairs Office of IIT Jammu. You can contact him at ar.sw@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_anish_koul",
+            "patterns": [
+                "Who is Anish Koul?",
+                "Tell me about Anish Koul",
+                "What is Anish Koul's role?"
+            ],
+            "responses": [
+                "Anish Koul is the Caretaker-cum-Manager for the Student Affairs Office at IIT Jammu. You can contact him at anish.koul@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_raj_srivastava",
+            "patterns": [
+                "Who is Raj Srivastava?",
+                "Tell me about Raj Srivastava",
+                "What is Raj Srivastava's role?"
+            ],
+            "responses": [
+                "Raj Srivastava is the Assistant Sports Officer at IIT Jammu. You can contact him at raj.srivastava@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "student_affairs_team_rehana_rasool",
+            "patterns": [
+                "Who is Rehana Rasool?",
+                "Tell me about Rehana Rasool",
+                "What is Rehana Rasool's role?"
+            ],
+            "responses": [
+                "Rehana Rasool is the Mess Manager at IIT Jammu. You can contact her at rehana.rasool@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "tinkering_lab_mission_vision",
+            "patterns": [
+                "What is the mission of IIT Jammu Tinkering Lab?",
+                "Tell me about the vision of IIT Jammu Tinkering Lab",
+                "What is the purpose of the Tinkering Lab?",
+                "Can you describe IIT Jammu Tinkering Lab's mission?"
+            ],
+            "responses": [
+                "IIT Jammu Tinkering Lab's mission is to create workspaces where young minds can learn innovation skills, sculpt their ideas through hands-on activities, social and cross-cultural collaboration, and ethical leadership. Students will learn to build models, enhance product development skills, and create innovative solutions to India's unique problems, promoting Atma Nirbhar Bharat."
+            ]
+        },
+        {
+            "tag": "tinkering_lab_tools_resources",
+            "patterns": [
+                "What tools and resources are available at IIT Jammu Tinkering Lab?",
+                "Tell me about the tools and resources in the Tinkering Lab",
+                "How big is the IIT Jammu Tinkering Lab?",
+                "Where is the IIT Jammu Tinkering Lab located?"
+            ],
+            "responses": [
+                "The IIT Jammu Tinkering Lab is 1800 sq. ft. in size and located in the Institute's academic block. It is available 24/7 for students and faculty members and is just 170m away from the hostels."
+            ]
+        },
+        {
+            "tag": "tinkering_lab_new_facility",
+            "patterns": [
+                "Tell me about the new facility at IIT Jammu Tinkering Lab",
+                "What is the new facility in the Tinkering Lab?",
+                "Tell me about the new Institute Innovation & Entrepreneurship Development Center"
+            ],
+            "responses": [
+                "The new facility at IIT Jammu Tinkering Lab, which took 18 months to develop, spans an area of 8000 - 10000 sq. ft. and will serve as the Institute Innovation & Entrepreneurship Development Center."
+            ]
+        },
+        {
+            "tag": "tinkering_lab_contact",
+            "patterns": [
+                "Where is IIT Jammu Tinkering Lab located?",
+                "What is the address of IIT Jammu Tinkering Lab?",
+                "Tell me the contact details for IIT Jammu Tinkering Lab"
+            ],
+            "responses": [
+                "IIT Jammu Tinkering Lab is located at Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+            ]
+        },
+        {
+            "tag": "tlu_about_us",
+            "patterns": [
+                "Tell me about the Teaching-Learning Unit (TLU)",
+                "What is TLU?",
+                "Can you describe the Teaching-Learning Unit?",
+                "What is the purpose of TLU?"
+            ],
+            "responses": [
+                "The Teaching-Learning Unit (TLU) promotes new pedagogical skills, which help faculty and instructors deliver knowledge effectively. TLU empowers faculty to experiment with teaching methods and provides modern infrastructure, including state-of-the-art studio classrooms, to deliver content online to students."
+            ]
+        },
+        {
+            "tag": "tlu_message",
+            "patterns": [
+                "What does TLU provide?",
+                "Tell me about the services provided by TLU",
+                "What is the TLU message?",
+                "How does TLU help faculty?"
+            ],
+            "responses": [
+                "Through TLU activities, faculty members are empowered to experiment with teaching methods. TLU provides modern infrastructure like studio classrooms, LMS, and online scheduled lectures to deliver content online to students."
+            ]
+        },
+        {
+            "tag": "tlu_contact",
+            "patterns": [
+                "How can I contact TLU?",
+                "What is the contact for TLU?",
+                "Tell me the TLU contact details",
+                "How do I reach TLU?"
+            ],
+            "responses": [
+                "You can contact the TLU section at tlu.admin@iitjammu.ac.in or reach out for LMS support at tlu.support@iitjammu.ac.in. For phone inquiries, call 0191-2570282."
+            ]
+        },
+        {
+            "tag": "lms_homepage",
+            "patterns": [
+                "What is the LMS homepage?",
+                "Where can I access the LMS?",
+                "Give me the link to LMS",
+                "Where is the LMS located?"
+            ],
+            "responses": [
+                "You can access the LMS homepage at [lms.iitjammu.ac.in](https://lms.iitjammu.ac.in)."
+            ]
+        },
+        {
+            "tag": "amitash_ojha",
+            "patterns": [
+                "Tell me about Amitash Ojha",
+                "Who is Amitash Ojha?",
+                "What does Amitash Ojha do?"
+            ],
+            "responses": [
+                "Amitash Ojha is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "ankit_gupta",
+            "patterns": [
+                "Tell me about Ankit Gupta",
+                "Who is Ankit Gupta?",
+                "What does Ankit Gupta do?"
+            ],
+            "responses": [
+                "Ankit Gupta is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "yaseen_khan",
+            "patterns": [
+                "Tell me about Yaseen Khan",
+                "Who is Yaseen Khan?",
+                "What does Yaseen Khan do?"
+            ],
+            "responses": [
+                "Yaseen Khan is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "mohd_yaseen",
+            "patterns": [
+                "Tell me about Mohd Yaseen",
+                "Who is Mohd Yaseen?",
+                "What does Mohd Yaseen do?"
+            ],
+            "responses": [
+                "Mohd Yaseen is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "lakhvinder_singh",
+            "patterns": [
+                "Tell me about Lakhvinder Singh",
+                "Who is Lakhvinder Singh?",
+                "What does Lakhvinder Singh do?"
+            ],
+            "responses": [
+                "Lakhvinder Singh is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+            ]
+        },
+        {
+            "tag": "pg_certification_programs",
+            "patterns": [
+                "What are the PG certification programs at IIT Jammu?",
+                "Tell me about the PG certificate courses at IIT Jammu.",
+                "IIT Jammu PG certification programs details",
+                "What programs are offered as PG certificates?",
+                "PG Certificate courses at IIT Jammu"
+            ],
+            "responses": [
+                "IIT Jammu offers two PG Certificate programs: 'PG Certificate in Digital and Neuro Marketing' and 'PG Certificate in IoT and Embedded Systems'. Would you like to know more about a specific program?"
+            ]
+        },
+        {
+            "tag": "digital_marketing_program",
+            "patterns": [
+                "Tell me more about the PG Certificate in Digital and Neuro Marketing.",
+                "What modules are included in the Digital and Neuro Marketing program?",
+                "What is the structure of the PG Certificate in Digital Marketing at IIT Jammu?",
+                "How is the Digital and Neuro Marketing course structured?",
+                "PG Certificate in Digital and Neuro Marketing details"
+            ],
+            "responses": [
+                "The PG Certificate in Digital and Neuro Marketing includes modules like 'Introduction to Digital and Neuro-Marketing', 'Consumer Behaviour', 'Digital Marketing Channels', and more. Learn from industry experts and gain hands-on experience through Virtual Instructor-Led Training (VILT)."
+            ]
+        },
+        {
+            "tag": "digital_marketing_learning_outcomes",
+            "patterns": [
+                "What will I learn in the Digital and Neuro Marketing program?",
+                "What are the learning outcomes of the PG Certificate in Digital Marketing?",
+                "What skills will I gain in the Digital and Neuro Marketing course?",
+                "What does the Digital and Neuro Marketing program teach?"
+            ],
+            "responses": [
+                "Upon completion of the PG Certificate in Digital and Neuro Marketing, you will understand consumer behavior, apply neuro-marketing techniques, create compelling content, measure campaign effectiveness, and adhere to ethical considerations in marketing."
+            ]
+        },
+        {
+            "tag": "digital_marketing_eligibility",
+            "patterns": [
+                "What are the eligibility criteria for the Digital and Neuro Marketing program?",
+                "Who can apply for the Digital and Neuro Marketing certificate?",
+                "What is the eligibility for PG Certificate in Digital Marketing?",
+                "Is there any requirement to apply for Digital and Neuro Marketing?"
+            ],
+            "responses": [
+                "The eligibility criteria for the PG Certificate in Digital and Neuro Marketing include a bachelor's degree in any field and proficiency in English for communication. Feel free to apply!"
+            ]
+        },
+        {
+            "tag": "digital_marketing_admission_process",
+            "patterns": [
+                "What is the admission process for the PG Certificate in Digital and Neuro Marketing?",
+                "How can I apply for the Digital and Neuro Marketing program?",
+                "What are the steps for admission to the Digital and Neuro Marketing certificate?",
+                "How do I get enrolled in the Digital and Neuro Marketing program?"
+            ],
+            "responses": [
+                "To apply for the PG Certificate in Digital and Neuro Marketing at IIT Jammu, visit the TeamLease EdTech website, complete the application form, and submit the required documents. The selection process includes verification of your academic credentials and experience."
+            ]
+        },
+        {
+            "tag": "digital_marketing_contact_info",
+            "patterns": [
+                "How can I contact IIT Jammu for the Digital and Neuro Marketing program?",
+                "What is the contact information for the Digital and Neuro Marketing program at IIT Jammu?",
+                "How do I get in touch with IIT Jammu regarding Digital and Neuro Marketing?",
+                "What is the contact email for the Digital and Neuro Marketing course?"
+            ],
+            "responses": [
+                "You can contact IIT Jammu for the PG Certificate in Digital and Neuro Marketing through email at admission@tleiitjammu.in or call 011 4117 0773."
+            ]
+        },
+        {
+            "tag": "iot_embedded_systems_program",
+            "patterns": [
+                "Tell me more about the PG Certificate in IoT and Embedded Systems.",
+                "What modules are included in the IoT and Embedded Systems program?",
+                "What is the structure of the PG Certificate in IoT and Embedded Systems?",
+                "How is the IoT and Embedded Systems program structured?",
+                "PG Certificate in IoT and Embedded Systems details"
+            ],
+            "responses": [
+                "The PG Certificate in IoT and Embedded Systems includes modules like 'Introduction to IoT and Embedded Systems', 'Programming the Devices', 'Security in IoT and Embedded Systems', and more. You will gain practical knowledge through Virtual Instructor-Led Training (VILT)."
+            ]
+        },
+        {
+            "tag": "iot_embedded_systems_learning_outcomes",
+            "patterns": [
+                "What will I learn in the IoT and Embedded Systems program?",
+                "What are the learning outcomes of the PG Certificate in IoT and Embedded Systems?",
+                "What skills will I gain in the IoT and Embedded Systems course?",
+                "What does the IoT and Embedded Systems program teach?"
+            ],
+            "responses": [
+                "Upon completion of the PG Certificate in IoT and Embedded Systems, you will understand IoT architecture, program embedded devices, implement IoT communication protocols, and apply real-world use cases in various fields like smart cities and energy monitoring."
+            ]
+        },
+        {
+            "tag": "iot_embedded_systems_eligibility",
+            "patterns": [
+                "What are the eligibility criteria for the IoT and Embedded Systems program?",
+                "Who can apply for the IoT and Embedded Systems certificate?",
+                "What is the eligibility for PG Certificate in IoT and Embedded Systems?",
+                "Is there any requirement to apply for IoT and Embedded Systems?"
+            ],
+            "responses": [
+                "The eligibility criteria for the PG Certificate in IoT and Embedded Systems include a bachelor's degree in relevant fields or at least one year of industry experience, along with a foundational understanding of Physics and Mathematics from high school."
+            ]
+        },
+        {
+            "tag": "iot_embedded_systems_admission_process",
+            "patterns": [
+                "What is the admission process for the PG Certificate in IoT and Embedded Systems?",
+                "How can I apply for the IoT and Embedded Systems program?",
+                "What are the steps for admission to the IoT and Embedded Systems certificate?",
+                "How do I get enrolled in the IoT and Embedded Systems program?"
+            ],
+            "responses": [
+                "To apply for the PG Certificate in IoT and Embedded Systems at IIT Jammu, visit the TeamLease EdTech website, complete the application form, and submit the required documents. The selection process includes verification of your academic credentials and experience."
+            ]
+        },
+        {
+            "tag": "iot_embedded_systems_contact_info",
+            "patterns": [
+                "How can I contact IIT Jammu for the IoT and Embedded Systems program?",
+                "What is the contact information for the IoT and Embedded Systems program at IIT Jammu?",
+                "How do I get in touch with IIT Jammu regarding IoT and Embedded Systems?",
+                "What is the contact email for the IoT and Embedded Systems course?"
+            ],
+            "responses": [
+                "You can contact IIT Jammu for the PG Certificate in IoT and Embedded Systems through email at admission@tleiitjammu.in or call 011 4117 0773."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_intro",
+            "patterns": [
+                "What is PMRF at IIT Jammu?",
+                "Tell me about PMRF at IIT Jammu",
+                "What is the Prime Minister's Research Fellows scheme at IIT Jammu?",
+                "Give me information on PMRF at IIT Jammu"
+            ],
+            "responses": [
+                "The Prime Minister's Research Fellows (PMRF) Scheme at IIT Jammu is designed to improve the quality of research in various higher educational institutions in India. It provides attractive fellowships to attract the best talent into research and is part of the vision for development through innovation. The scheme was announced in the Budget 2018-19, and IIT Jammu is one of the institutes offering the PMRF fellowship."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_selection_process",
+            "patterns": [
+                "How are PMRF fellows selected at IIT Jammu?",
+                "What is the selection process for PMRF fellows at IIT Jammu?",
+                "Tell me about the selection process for PMRF at IIT Jammu"
+            ],
+            "responses": [
+                "Candidates for the PMRF fellowship at IIT Jammu are selected through a rigorous process. The fellows are chosen based on their academic performance and research capabilities. Their performance is reviewed through a national convention, and IIT Jammu is responsible for the final selection."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_fellows",
+            "patterns": [
+                "Who are the PMRF fellows at IIT Jammu?",
+                "List the PMRF fellows at IIT Jammu",
+                "Tell me the names of PMRF fellows at IIT Jammu"
+            ],
+            "responses": [
+                "The PMRF fellows at IIT Jammu include Atul Banotra, Gaurav Kumar, Inayat Ullah, Irshad Javid Ahmad Ganie, Manisha Sharma, Murtiza Ali, Neetu Bansal, Palak Verma, Pronnoy Bhat, Rupal Chauhan, Saurabh Agarwal, Saurabh Kumar Jha, Syed Farah Naz, Uday Raj Singh, and Yasin Khan."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_contact_info",
+            "patterns": [
+                "How can I contact PMRF at IIT Jammu?",
+                "What is the PMRF contact information at IIT Jammu?",
+                "Where is the PMRF office at IIT Jammu?"
+            ],
+            "responses": [
+                "For PMRF-related queries at IIT Jammu, you can contact us at:\nPhone: 044-2257 8079\nEmail: pmrfsupport@smail.iitm.ac.in\nAddress: 1st Floor, PMRF Office, DOST Building, IIT Madras, Sardar Patel Road, Guindy, Chennai - 600 036. (Note: This contact information is for PMRF at IIT Madras but pertains to all IITs, including IIT Jammu)."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_guidelines",
+            "patterns": [
+                "Where can I find the PMRF guidelines for IIT Jammu?",
+                "Give me the PMRF guidelines link for IIT Jammu",
+                "I need the PMRF guidelines at IIT Jammu"
+            ],
+            "responses": [
+                "You can find the PMRF guidelines for IIT Jammu at this link: [PMRF Guidelines for IIT Jammu](https://iitjammu.ac.in/Facilities/pmrf/PMRF%20Guidelines.pdf)"
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_eligibility",
+            "patterns": [
+                "What are the eligibility criteria for PMRF at IIT Jammu?",
+                "How can I apply for PMRF at IIT Jammu?",
+                "Tell me about the application procedure for PMRF at IIT Jammu"
+            ],
+            "responses": [
+                "To apply for PMRF at IIT Jammu, you must meet specific eligibility criteria. These include:\n- Direct Entry Channel: Completed or pursuing final year in certain degrees with a CGPA of at least 8.0.\n- Lateral Entry Channel: If you are already pursuing a Ph.D. at IIT Jammu with specific requirements, including a CGPA of 8.5."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_research_areas",
+            "patterns": [
+                "What are the broad areas of research under PMRF at IIT Jammu?",
+                "Tell me the research areas for PMRF at IIT Jammu",
+                "What fields are covered under PMRF at IIT Jammu?"
+            ],
+            "responses": [
+                "The PMRF scheme at IIT Jammu supports research in broad areas such as Civil Engineering, Mechanical Engineering, Electrical Engineering, Computer Science & Engineering, Biomedical Engineering, Chemical Engineering, Materials Science, Physics, Chemistry, and Interdisciplinary areas in Science and Engineering."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_team_member_contact",
+            "patterns": [
+                "Who is the PMRF coordinator at IIT Jammu?",
+                "Tell me about the PMRF coordinator at IIT Jammu",
+                "Who is Dr. Badri N Subudhi at IIT Jammu?"
+            ],
+            "responses": [
+                "The PMRF coordinator at IIT Jammu is Dr. Badri N Subudhi, who is the Associate Dean (Research Programs) at IIT Madras, overseeing the PMRF operations at IIT Jammu as well."
+            ]
+        },
+        {
+            "tag": "iit_jammu_pmrf_team_members",
+            "patterns": [
+                "Tell me about the PMRF fellows at IIT Jammu",
+                "Who are the fellows of PMRF at IIT Jammu?"
+            ],
+            "responses": [
+                {
+                    "name": "Atul Banotra",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Gaurav Kumar",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Inayat Ullah",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Irshad Javid Ahmad Ganie",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Manisha Sharma",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Murtiza Ali",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Neetu Bansal",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Palak Verma",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Pronnoy Bhat",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Rupal Chauhan",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Saurabh Agarwal",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Saurabh Kumar Jha",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Syed Farah Naz",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Uday Raj Singh",
+                    "role": "PMRF Fellow"
+                },
+                {
+                    "name": "Yasin Khan",
+                    "role": "PMRF Fellow"
+                }
+            ]
+        },
+        {
+            "tag": "micro_specialization",
+            "patterns": [
+                "What are the micro specializations offered?",
+                "Tell me about the micro specializations available",
+                "What micro specializations can I choose from?"
+            ],
+            "responses": [
+                "IIT Jammu offers the following micro specializations under UG Program: Microelectronics and VLSI Design (2022 Scheme), Tunnel Engineering (2022 Scheme)."
+            ]
+        },
+        {
+            "tag": "minor_specialization",
+            "patterns": [
+                "What are the minor specializations available?",
+                "Tell me about the minor specializations offered",
+                "What minor specializations can I choose from?"
+            ],
+            "responses": [
+                "The following minor specializations are available: Economics (2022 Scheme), Entrepreneurship and Start-up (2022 Scheme), Bioengineering, Mathematics (2019 Scheme), Nuclear Engineering, Engineering and Scientific Computation, CSE (2019 Scheme)."
+            ]
+        },
+        {
+            "tag": "course_offering_framework",
+            "patterns": [
+                "Tell me about the UG 2022 Curriculum",
+                "What is the course offering framework for UG 2022?",
+                "Give me the details about UG 2022 curriculum"
+            ],
+            "responses": [
+                "The UG Program follows the 'UG 2022 Curriculum' as the course offering framework."
+            ]
+        },
+        {
+            "tag": "core_and_elective_courses",
+            "patterns": [
+                "What courses are offered in the core and elective categories?",
+                "Tell me about core and elective courses in each department",
+                "What are the core and elective courses in different departments?"
+            ],
+            "responses": [
+                "Each department offers Core Courses and Elective courses. The departments involved are: Chemical Engineering, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Materials Engineering, Mathematics and Computing, Mechanical Engineering, Chemistry, Physics, Humanities and Social Sciences."
+            ]
+        },
+        {
+            "tag": "credit_earning_courses",
+            "patterns": [
+                "What are the credit earning courses?",
+                "Tell me about credit earning courses in the UG program",
+                "What are the core courses that earn credits?"
+            ],
+            "responses": [
+                "The Core Courses are considered Credit Earning Courses (IC) in the UG Program."
+            ]
+        },
+        {
+            "tag": "design_innovation_and_practicum",
+            "patterns": [
+                "What is the Design Innovation and Practicum course?",
+                "Tell me about the Design Innovation and Practicum in the UG program",
+                "What courses are included under Design Innovation and Practicum?"
+            ],
+            "responses": [
+                "The Design Innovation and Practicum (IC) is part of the Core Courses in the UG Program."
+            ]
+        },
+        {
+            "tag": "engineering_foundation_courses",
+            "patterns": [
+                "What are the Engineering Foundation courses?",
+                "Tell me about Engineering Foundation courses in the UG program",
+                "What courses are included under Engineering Foundation?"
+            ],
+            "responses": [
+                "The Engineering Foundation courses (IC) are part of the Core Courses in the UG Program."
+            ]
+        },
+        {
+            "tag": "environment_courses",
+            "patterns": [
+                "What are the Environment courses?",
+                "Tell me about the Environment courses in the UG program",
+                "What courses are included under the Environment category?"
+            ],
+            "responses": [
+                "The Environment courses (IC) are part of the Core Courses in the UG Program."
+            ]
+        },
+        {
+            "tag": "dual_degree_program",
+            "patterns": [
+                "Tell me about the dual degree program at IIT Jammu",
+                "What is IIT Jammu's dual degree program?",
+                "Details of IIT Jammu dual degree program"
+            ],
+            "responses": [
+                "IIT Jammu offers a dual degree program with IIM Jammu, which includes a four-year B.Tech. from IIT Jammu and a two-year MBA from IIM Jammu. To transition to IIM, students must have a minimum CGPA of 7.0 in their B.Tech program."
+            ]
+        },
+        {
+            "tag": "admission_process",
+            "patterns": [
+                "How to apply for admission at IIT Jammu?",
+                "What is the admission process for IIT Jammu?",
+                "Tell me about the IIT Jammu admission process"
+            ],
+            "responses": [
+                "Admission to IIT Jammu is through the Joint Entrance Examination - Advanced (JEE-Advanced), conducted by the Joint Admission Board (JAB). Counseling is done through centralized counseling by JoSAA."
+            ]
+        },
+        {
+            "tag": "contact_details",
+            "patterns": [
+                "How can I contact IIT Jammu?",
+                "What is the contact email for IIT Jammu?",
+                "Provide the contact details for IIT Jammu"
+            ],
+            "responses": [
+                "You can contact IIT Jammu at ugoffice.acad@iitjammu.ac.in or call 0191-2570633. For postgraduate inquiries, reach pgoffice.acad@iitjammu.ac.in."
+            ]
+        },
+        {
+            "tag": "hostel_accommodation",
+            "patterns": [
+                "Tell me about hostel accommodation at IIT Jammu",
+                "What is the hostel accommodation like at IIT Jammu?",
+                "How do I get hostel accommodation at IIT Jammu?"
+            ],
+            "responses": [
+                "All undergraduate students are provided hostel accommodation at IIT Jammu. You can report to Room no 132 for the hostel. Basic amenities like a bed, almirah, table, and chair are provided. Essential items such as a mattress, bucket, and mug can be purchased from on-campus vendors."
+            ]
+        },
+        {
+            "tag": "pg_admission_info",
+            "patterns": [
+                "How to apply for postgraduate programs at IIT Jammu?",
+                "Tell me about the postgraduate application process at IIT Jammu",
+                "Where can I apply for M.Tech at IIT Jammu?"
+            ],
+            "responses": [
+                "You can apply for postgraduate programs at IIT Jammu through the application portal at https://saral.iitjammu.ac.in/pgapplication."
+            ]
+        },
+        {
+            "tag": "pg_programs_offered",
+            "patterns": [
+                "What postgraduate programs are offered at IIT Jammu?",
+                "List of M.Tech programs at IIT Jammu",
+                "Tell me about the PG programs at IIT Jammu"
+            ],
+            "responses": [
+                "IIT Jammu offers M.Tech programs in various fields, including Computer Science Engineering, Electrical Engineering (with specializations), Civil Engineering, Mechanical Engineering, Chemical Engineering, and M.Sc programs in Chemistry and Physics."
+            ]
+        },
+        {
+            "tag": "self_sponsored_admission",
+            "patterns": [
+                "Tell me about self-sponsored admission for M.Tech in Chemical Engineering",
+                "What are the eligibility criteria for self-sponsored M.Tech admission at IIT Jammu?",
+                "Details about self-sponsored admission at IIT Jammu"
+            ],
+            "responses": [
+                "The self-sponsored admission for M.Tech in Chemical Engineering with specialization in Sustainable Energy Engineering is open for candidates with relevant B.Tech/ M.Sc degrees. The eligibility criteria include a minimum of 60% aggregate marks or 6.0 CGPA on a 10-point scale for general candidates."
+            ]
+        },
+        {
+            "tag": "phd_program_info",
+            "patterns": [
+                "What are the PhD programs at IIT Jammu?",
+                "Tell me about the PhD admission process at IIT Jammu",
+                "Details of PhD programs at IIT Jammu"
+            ],
+            "responses": [
+                "IIT Jammu offers PhD programs in various departments like Computer Science, Electrical Engineering, Civil Engineering, Mathematics, Mechanical Engineering, and more. You can apply for the PhD program at IIT Jammu through their portal."
+            ]
+        },
+        {
+            "tag": "foreign_national_phd_admission",
+            "patterns": [
+                "Tell me about the PhD admission for foreign nationals at IIT Jammu",
+                "What is the PhD application process for foreign nationals at IIT Jammu?",
+                "How can foreign nationals apply for PhD at IIT Jammu?"
+            ],
+            "responses": [
+                "Foreign nationals can apply for the PhD program at IIT Jammu by following the guidelines on the Study in India website. The application deadline for 2024 is October 28, 2024."
+            ]
+        },
+        {
+            "tag": "january_session_phd_admission",
+            "patterns": [
+                "How to apply for the January session PhD at IIT Jammu?",
+                "Tell me about the January 2024 PhD admission at IIT Jammu",
+                "PhD January session admission process"
+            ],
+            "responses": [
+                "You can apply for the January 2024 session PhD program at IIT Jammu by visiting the application portal at https://saral.iitjammu.ac.in/phdapplication."
+            ]
+        },
+        {
+            "tag": "academic_calendar",
+            "patterns": [
+                "Where can I view the academic calendar for IIT Jammu?",
+                "Tell me about the academic calendar of IIT Jammu",
+                "IIT Jammu academic calendar link"
+            ],
+            "responses": [
+                "You can view the IIT Jammu academic calendar [here](https://www.iitjammu.ac.in/calendar)."
+            ]
+        },
+        {
+            "tag": "semester_schedule",
+            "patterns": [
+                "Where can I find the semester schedule for IIT Jammu?",
+                "Tell me about the semester schedule at IIT Jammu",
+                "IIT Jammu semester schedule link"
+            ],
+            "responses": [
+                "You can find the IIT Jammu semester schedule [here](https://www.iitjammu.ac.in/semester-schedule)."
+            ]
+        },
+        {
+            "tag": "time_table",
+            "patterns": [
+                "Where can I view the time table for IIT Jammu?",
+                "Tell me about the IIT Jammu time table",
+                "IIT Jammu time table link"
+            ],
+            "responses": [
+                "You can view the IIT Jammu time table [here](https://www.iitjammu.ac.in/time-table)."
+            ]
+        }
+    ]
+}

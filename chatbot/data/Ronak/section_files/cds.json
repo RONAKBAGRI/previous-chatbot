@@ -1,0 +1,205 @@
+{
+  "intents": [
+    {
+      "tag": "cds_about",
+      "patterns": [
+        "What is CDS?",
+        "Tell me about Career Development Services",
+        "What is the role of CDS at IIT Jammu?",
+        "Can you explain CDS?"
+      ],
+      "responses": [
+        "The Career and Development Services (CDS) at IIT Jammu, established in 2018, bridges the gap between students and recruiters. It handles campus placements for all graduating students and offers career planning, job search strategies, and more."
+      ]
+    },
+    {
+      "tag": "cds_contact",
+      "patterns": [
+        "How can I contact CDS?",
+        "What is the CDS email?",
+        "CDS contact details",
+        "Phone number of CDS"
+      ],
+      "responses": [
+        "You can contact CDS via email at placements@iitjammu.ac.in or call at 0191 - 2570289. The address is Career Development Services, IIT Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+      ]
+    },
+    {
+      "tag": "cds_linkedin",
+      "patterns": [
+        "Does CDS have a LinkedIn?",
+        "Where can I find CDS on LinkedIn?",
+        "CDS LinkedIn link"
+      ],
+      "responses": [
+        "You can find CDS on LinkedIn at [this link](https://www.linkedin.com/company/cds-iit-jammu)."
+      ]
+    },
+    {
+      "tag": "cds_team",
+      "patterns": [
+        "Who is in the CDS team?",
+        "Tell me about the CDS team",
+        "Who are the faculty members in CDS?"
+      ],
+      "responses": [
+        "The CDS team includes faculty like Prof. Vinit Jakhetiya (Professor In-charge), Ambika Prasad Shah, Ashutosh Yadav, Chembolu Vinay, Karan Nathwani, Pothukuchi Harish, Sunil Kumar Kashyap, and many others. For detailed contacts, you can reach out via the provided emails."
+      ]
+    },
+    {
+      "tag": "placement_statistics",
+      "patterns": [
+        "What are the placement statistics?",
+        "How many students got placed in 2024?",
+        "Placement details for IIT Jammu 2024",
+        "What is the highest package at IIT Jammu?"
+      ],
+      "responses": [
+        "In 2024, 200 students were placed, with 180 securing jobs. The highest package was INR 30 LPA, and the average package was INR 12 LPA. In 2023, 180 students were placed with an average package of INR 11 LPA."
+      ]
+    },
+    {
+      "tag": "placement_policy",
+      "patterns": [
+        "Where can I find the placement policy?",
+        "What is the placement policy at IIT Jammu?",
+        "Give me the placement policy document"
+      ],
+      "responses": [
+        "You can find the placement policy at [this link](https://iitjammu.ac.in/Facilities/cds/Placement%20Policy%E2%80%93%20IIT%20Jammu%20-%20Ver%20III.pdf)."
+      ]
+    },
+    {
+      "tag": "message_from_director",
+      "patterns": [
+        "Message from the Director",
+        "What is the message from the Director of IIT Jammu?",
+        "Tell me about the Director's message"
+      ],
+      "responses": [
+        "The Director, Prof. Manoj Singh Gaur, expresses warm greetings and highlights the vision of IIT Jammu to create tomorrow's world through technological interventions. He shares how the lush green surroundings of IIT Jammu contribute to student growth and development."
+      ]
+    },
+    {
+      "tag": "message_from_professor_incharge",
+      "patterns": [
+        "Message from the Professor In-charge of CDS",
+        "What does the Professor In-charge of CDS say?",
+        "Tell me about the message from the Professor In-charge"
+      ],
+      "responses": [
+        "Dr. Vinit Jakhetiya, Professor In-charge of CDS, highlights the comprehensive resources provided to students, such as personalized counseling, workshops, and industry partnerships, to guide them towards successful careers."
+      ]
+    },
+    {
+      "tag": "i3c_overview",
+      "patterns": [
+        "What is I3C?",
+        "Tell me about I3C at IIT Jammu",
+        "What is the focus of I3C at IIT Jammu?"
+      ],
+      "responses": [
+        "I3C (Institute Incubation and Innovation Council) at IIT Jammu fosters a startup ecosystem. It collaborates with JKEDI and other partners to support startups, focusing on sectors like aerospace, defense, and other innovative fields."
+      ]
+    },
+    {
+      "tag": "faculty_team_ambika_prasad_shah",
+      "patterns": [
+        "Contact Ambika Prasad Shah",
+        "Who is Ambika Prasad Shah?",
+        "Ambika Prasad Shah email"
+      ],
+      "responses": [
+        "Ambika Prasad Shah is part of the CDS faculty team. You can contact him at ambika.shah@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_ashutosh_yadav",
+      "patterns": [
+        "Contact Ashutosh Yadav",
+        "Who is Ashutosh Yadav?",
+        "Ashutosh Yadav email"
+      ],
+      "responses": [
+        "Ashutosh Yadav is part of the CDS faculty team. You can contact him at ashutosh.yadav@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_chembolu_vinay",
+      "patterns": [
+        "Contact Chembolu Vinay",
+        "Who is Chembolu Vinay?",
+        "Chembolu Vinay email"
+      ],
+      "responses": [
+        "Chembolu Vinay is part of the CDS faculty team. You can contact him at chembolu.vinay@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_karan_nathwani",
+      "patterns": [
+        "Contact Karan Nathwani",
+        "Who is Karan Nathwani?",
+        "Karan Nathwani email"
+      ],
+      "responses": [
+        "Karan Nathwani is part of the CDS faculty team. You can contact him at karan.nathwani@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_pothukuchi_harish",
+      "patterns": [
+        "Contact Pothukuchi Harish",
+        "Who is Pothukuchi Harish?",
+        "Pothukuchi Harish email"
+      ],
+      "responses": [
+        "Pothukuchi Harish is part of the CDS faculty team. You can contact him at pothukuchi.harish@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_sunil_kumar_kashyap",
+      "patterns": [
+        "Contact Sunil Kumar Kashyap",
+        "Who is Sunil Kumar Kashyap?",
+        "Sunil Kumar Kashyap email"
+      ],
+      "responses": [
+        "Sunil Kumar Kashyap is part of the CDS faculty team. You can contact him at sunil.kashyap@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty_team_vinit_jakhetiya",
+      "patterns": [
+        "Contact Vinit Jakhetiya",
+        "Who is Vinit Jakhetiya?",
+        "Vinit Jakhetiya email"
+      ],
+      "responses": [
+        "Vinit Jakhetiya is the Professor In-charge of CDS. You can contact him at vinit.jakhetiya@iitjammu.ac.in or at pic.cds@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "staff_richa_sharma",
+      "patterns": [
+        "Contact Richa Sharma",
+        "Who is Richa Sharma?",
+        "Richa Sharma email"
+      ],
+      "responses": [
+        "Richa Sharma is part of the CDS staff. You can contact her at iitjmu80132@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "staff_ridham_gupta",
+      "patterns": [
+        "Contact Ridham Gupta",
+        "Who is Ridham Gupta?",
+        "Ridham Gupta email"
+      ],
+      "responses": [
+        "Ridham Gupta is part of the CDS staff. You can contact him at ridham.gupta@iitjammu.ac.in."
+      ]
+    }
+  ]
+}

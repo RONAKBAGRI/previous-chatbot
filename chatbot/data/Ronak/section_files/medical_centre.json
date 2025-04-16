@@ -1,0 +1,122 @@
+{
+  "intents": [
+    {
+      "tag": "medical_center_intro",
+      "patterns": [
+        "Tell me about the Medical Centre",
+        "What is the Medical Centre?",
+        "Where is the Health and Wellness Center?",
+        "Can you tell me about the Health and Wellness Center?",
+        "What facilities does the Medical Centre offer?"
+      ],
+      "responses": [
+        "Welcome to our Institute Health and Wellness Center, your go-to destination for all your medical needs on campus! Nestled in the serene southern corner of our campus lies your gateway to well-being, our Health and Wellness Center. Here amidst the tranquil surroundings, you'll discover a haven dedicated to nurturing your health and vitality since 2018."
+      ]
+    },
+    {
+      "tag": "medical_center_contact",
+      "patterns": [
+        "How can I contact the Medical Centre?",
+        "What is the email of the Medical Centre?",
+        "What is the phone number of the Medical Centre?",
+        "How to reach out to the Medical Centre?"
+      ],
+      "responses": [
+        "You can contact the Medical Centre by email at medical.center@iitjammu.ac.in or call at 01912570636. We're always here to assist you!"
+      ]
+    },
+    {
+      "tag": "medical_center_facilities",
+      "patterns": [
+        "What are the facilities at the Medical Centre?",
+        "List the facilities offered at the Health and Wellness Center",
+        "What services does the Medical Centre provide?"
+      ],
+      "responses": [
+        "The Medical Centre provides the following facilities:\n- Dental facilities\n- Ward facility\n- Minor OT/Dressing Room\n- Physiotherapy\n- Laboratory services\n- ECG Services\n- Pharmacy\n- Ambulance Services"
+      ]
+    },
+    {
+      "tag": "doctor_karunika",
+      "patterns": [
+        "Tell me about Dr. Karunika",
+        "Who is Dr. Karunika?",
+        "What qualifications does Dr. Karunika have?",
+        "How can I contact Dr. Karunika?"
+      ],
+      "responses": [
+        "Dr. Karunika is a specialist with qualifications in MBBS, MD, PGDHHM, and a Diploma in Ultrasonography. She has over 10 years of experience. You can reach her at karunika.sharma@iitjammu.ac.in or call +91 95967 45001."
+      ]
+    },
+    {
+      "tag": "doctor_vikram_singh",
+      "patterns": [
+        "Tell me about Dr. Vikram Singh",
+        "Who is Dr. Vikram Singh?",
+        "What qualifications does Dr. Vikram Singh have?",
+        "How can I contact Dr. Vikram Singh?"
+      ],
+      "responses": [
+        "Dr. Vikram Singh holds an MBBS degree and has 2.5 years of experience. You can contact him at medical.gdmo3@iitjammu.ac.in or call +91 99060 16244."
+      ]
+    },
+    {
+      "tag": "doctor_priya",
+      "patterns": [
+        "Tell me about Dr. Priya",
+        "Who is Dr. Priya?",
+        "What qualifications does Dr. Priya have?",
+        "How can I contact Dr. Priya?"
+      ],
+      "responses": [
+        "Dr. Priya is an MBBS graduate with 6 months of experience in psychiatry. You can reach her at medical.gdmo@iitjammu.ac.in or call +91 70064 66731."
+      ]
+    },
+    {
+      "tag": "doctor_bidisha",
+      "patterns": [
+        "Tell me about Dr. Bidisha",
+        "Who is Dr. Bidisha?",
+        "What qualifications does Dr. Bidisha have?",
+        "How can I contact Dr. Bidisha?"
+      ],
+      "responses": [
+        "Dr. Bidisha is an MBBS graduate with 1 year of experience. You can contact her at medical.gdmo5@iitjammu.ac.in or call +91 700601 75069."
+      ]
+    },
+    {
+      "tag": "doctor_pranav_gupta",
+      "patterns": [
+        "Tell me about Dr. Pranav Gupta",
+        "Who is Dr. Pranav Gupta?",
+        "What qualifications does Dr. Pranav Gupta have?",
+        "How can I contact Dr. Pranav Gupta?"
+      ],
+      "responses": [
+        "Dr. Pranav Gupta has qualifications in B.D.S, M.D.S, and Fellowship of the Faculty of Applied Clinical Sciences (F.F.A.C). He has 7 years of experience. You can reach him at medical.gdmo4@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "doctor_rohit_bhatiya",
+      "patterns": [
+        "Who is Dr. Rohit Bhatiya?",
+        "Tell me about Dr. Rohit Bhatiya",
+        "What is the role of Dr. Rohit Bhatiya?"
+      ],
+      "responses": [
+        "Dr. Rohit Bhatiya is a Visiting Physiotherapist at the Medical Centre. For appointments, please contact the Medical Centre directly."
+      ]
+    },
+    {
+      "tag": "medical_center_location",
+      "patterns": [
+        "Where is the Medical Centre located?",
+        "Tell me the address of the Medical Centre",
+        "What is the address of the Health and Wellness Center?"
+      ],
+      "responses": [
+        "The Medical Centre is located at: Medical Centre, Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+      ]
+    }
+  ]
+}

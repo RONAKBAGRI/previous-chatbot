@@ -1,0 +1,163 @@
+{
+    "intents": [
+      {
+        "tag": "iit_jammu_pmrf_intro",
+        "patterns": [
+          "What is PMRF at IIT Jammu?",
+          "Tell me about PMRF at IIT Jammu",
+          "What is the Prime Minister's Research Fellows scheme at IIT Jammu?",
+          "Give me information on PMRF at IIT Jammu"
+        ],
+        "responses": [
+          "The Prime Minister's Research Fellows (PMRF) Scheme at IIT Jammu is designed to improve the quality of research in various higher educational institutions in India. It provides attractive fellowships to attract the best talent into research and is part of the vision for development through innovation. The scheme was announced in the Budget 2018-19, and IIT Jammu is one of the institutes offering the PMRF fellowship."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_selection_process",
+        "patterns": [
+          "How are PMRF fellows selected at IIT Jammu?",
+          "What is the selection process for PMRF fellows at IIT Jammu?",
+          "Tell me about the selection process for PMRF at IIT Jammu"
+        ],
+        "responses": [
+          "Candidates for the PMRF fellowship at IIT Jammu are selected through a rigorous process. The fellows are chosen based on their academic performance and research capabilities. Their performance is reviewed through a national convention, and IIT Jammu is responsible for the final selection."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_fellows",
+        "patterns": [
+          "Who are the PMRF fellows at IIT Jammu?",
+          "List the PMRF fellows at IIT Jammu",
+          "Tell me the names of PMRF fellows at IIT Jammu"
+        ],
+        "responses": [
+          "The PMRF fellows at IIT Jammu include Atul Banotra, Gaurav Kumar, Inayat Ullah, Irshad Javid Ahmad Ganie, Manisha Sharma, Murtiza Ali, Neetu Bansal, Palak Verma, Pronnoy Bhat, Rupal Chauhan, Saurabh Agarwal, Saurabh Kumar Jha, Syed Farah Naz, Uday Raj Singh, and Yasin Khan."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_contact_info",
+        "patterns": [
+          "How can I contact PMRF at IIT Jammu?",
+          "What is the PMRF contact information at IIT Jammu?",
+          "Where is the PMRF office at IIT Jammu?"
+        ],
+        "responses": [
+          "For PMRF-related queries at IIT Jammu, you can contact us at:\nPhone: 044-2257 8079\nEmail: pmrfsupport@smail.iitm.ac.in\nAddress: 1st Floor, PMRF Office, DOST Building, IIT Madras, Sardar Patel Road, Guindy, Chennai - 600 036. (Note: This contact information is for PMRF at IIT Madras but pertains to all IITs, including IIT Jammu)."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_guidelines",
+        "patterns": [
+          "Where can I find the PMRF guidelines for IIT Jammu?",
+          "Give me the PMRF guidelines link for IIT Jammu",
+          "I need the PMRF guidelines at IIT Jammu"
+        ],
+        "responses": [
+          "You can find the PMRF guidelines for IIT Jammu at this link: [PMRF Guidelines for IIT Jammu](https://iitjammu.ac.in/Facilities/pmrf/PMRF%20Guidelines.pdf)"
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_eligibility",
+        "patterns": [
+          "What are the eligibility criteria for PMRF at IIT Jammu?",
+          "How can I apply for PMRF at IIT Jammu?",
+          "Tell me about the application procedure for PMRF at IIT Jammu"
+        ],
+        "responses": [
+          "To apply for PMRF at IIT Jammu, you must meet specific eligibility criteria. These include:\n- Direct Entry Channel: Completed or pursuing final year in certain degrees with a CGPA of at least 8.0.\n- Lateral Entry Channel: If you are already pursuing a Ph.D. at IIT Jammu with specific requirements, including a CGPA of 8.5."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_research_areas",
+        "patterns": [
+          "What are the broad areas of research under PMRF at IIT Jammu?",
+          "Tell me the research areas for PMRF at IIT Jammu",
+          "What fields are covered under PMRF at IIT Jammu?"
+        ],
+        "responses": [
+          "The PMRF scheme at IIT Jammu supports research in broad areas such as Civil Engineering, Mechanical Engineering, Electrical Engineering, Computer Science & Engineering, Biomedical Engineering, Chemical Engineering, Materials Science, Physics, Chemistry, and Interdisciplinary areas in Science and Engineering."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_team_member_contact",
+        "patterns": [
+          "Who is the PMRF coordinator at IIT Jammu?",
+          "Tell me about the PMRF coordinator at IIT Jammu",
+          "Who is Dr. Badri N Subudhi at IIT Jammu?"
+        ],
+        "responses": [
+          "The PMRF coordinator at IIT Jammu is Dr. Badri N Subudhi, who is the Associate Dean (Research Programs) at IIT Madras, overseeing the PMRF operations at IIT Jammu as well."
+        ]
+      },
+      {
+        "tag": "iit_jammu_pmrf_team_members",
+        "patterns": [
+          "Tell me about the PMRF fellows at IIT Jammu",
+          "Who are the fellows of PMRF at IIT Jammu?"
+        ],
+        "responses": [
+          {
+            "name": "Atul Banotra",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Gaurav Kumar",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Inayat Ullah",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Irshad Javid Ahmad Ganie",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Manisha Sharma",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Murtiza Ali",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Neetu Bansal",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Palak Verma",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Pronnoy Bhat",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Rupal Chauhan",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Saurabh Agarwal",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Saurabh Kumar Jha",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Syed Farah Naz",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Uday Raj Singh",
+            "role": "PMRF Fellow"
+          },
+          {
+            "name": "Yasin Khan",
+            "role": "PMRF Fellow"
+          }
+        ]
+      }
+    ]
+  }
+  

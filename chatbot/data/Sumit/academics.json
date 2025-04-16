@@ -1,0 +1,283 @@
+{
+  "institution": "IIT Jammu",
+  "academic_year": "2024",
+  "brief_history": {
+    "founded": 2016,
+    "initial_programs": 3,
+    "student_intake": 82,
+    "current_students": 1600,
+    "current_programs": {
+      "btech": 7,
+      "mtech": 8,
+      "msc": 2,
+      "executive_mtech": 2,
+      "pg_diploma": 1,
+      "phd": 11
+    }
+  },
+  "programs": {
+    "undergraduate": {
+      "overview": "IIT Jammu offers full-time residential BTech programs spanning four years.",
+      "majors": [
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Computer Science and Engineering",
+        "Electrical Engineering",
+        "Materials Engineering",
+        "Mathematics and Computing",
+        "Mechanical Engineering"
+      ]
+    },
+    "postgraduate": {
+      "overview": "MTech, MSc, MS(R), and Executive MTech programs are available.",
+      "degrees": [
+        {
+          "name": "MTech",
+          "specializations": [
+            "Computer Science Engineering",
+            "Electrical Engineering (Communications and Signal Processing, VLSI Design)",
+            "Civil Engineering (Tunnel Engineering, Structural Engineering)",
+            "Mechanical Engineering (Thermal and Energy Systems Engineering)",
+            "Chemical Engineering (Sustainable Energy Engineering)"
+          ]
+        },
+        {
+          "name": "Executive MTech",
+          "focus": "Artificial Intelligence and Machine Learning",
+          "mode": "Online for working professionals"
+        },
+        {
+          "name": "MSc",
+          "fields": [
+            "Chemistry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "PG Diploma",
+          "focus": "Cyber Security",
+          "duration": "12 months"
+        }
+      ]
+    },
+    "doctoral": {
+      "overview": "PhD programs are offered in various departments with a focus on research excellence.",
+      "departments": [
+        "Bio-Sciences and Bio-Engineering",
+        "Chemical Engineering",
+        "Chemistry",
+        "Civil Engineering",
+        "Computer Science and Engineering",
+        "Electrical Engineering",
+        "Humanities and Social Sciences",
+        "Materials Engineering",
+        "Mathematics",
+        "Mechanical Engineering",
+        "Physics"
+      ]
+    }
+  },
+  "admission": {
+    "btech": {
+      "procedure": "Through Joint Seat Allocation Authority (JoSAA) based on JEE Advanced rank.",
+      "duration": "4 years full-time",
+      "requirements": "Online and physical document verification."
+    },
+    "mtech": {
+      "categories": [
+        "Teaching Assistant (TA)",
+        "Research Assistant (RA)",
+        "Self-Sponsored"
+      ],
+      "procedure": "GATE-based admission through COAP or departmental tests/interviews.",
+      "special_notes": "RA programs span 3 years; TA programs span 2 years."
+    },
+    "msc": {
+      "procedure": "Joint Admission Test for Masters (JAM).",
+      "program_types": [
+        "2-year MSc",
+        "3-year MS(R) with research focus"
+      ]
+    },
+    "phd": {
+      "procedure": "Written tests and/or interviews by departments.",
+      "categories": [
+        "Institute Research Student",
+        "Externally Funded",
+        "Sponsored",
+        "Off-Campus Research"
+      ],
+      "eligibility": "Departmental discretion based on advertised criteria."
+    }
+  },
+  "academic_calendar": {
+    "semesters": [
+      {
+        "name": "Autumn/Monsoon",
+        "duration": "August to December",
+        "weeks": 16
+      },
+      {
+        "name": "Winter/Spring",
+        "duration": "January to May",
+        "weeks": 16
+      },
+      {
+        "name": "Summer Term",
+        "duration": "Mid-May to July",
+        "weeks": 10,
+        "notes": "Special term for backlogs or accelerated learning."
+      }
+    ],
+    "hostel_rules": {
+      "summer_vacation": "Undergraduates must vacate hostels; exceptions require advance permission.",
+      "postgraduates": "No vacation; separate leave rules apply."
+    }
+  },
+  "grading_and_evaluation": {
+    "grading_system": {
+      "grades": {
+        "AA": 10,
+        "AB": 9,
+        "BB": 8,
+        "BC": 7,
+        "CC": 6,
+        "CD": 5,
+        "DD": 4,
+        "FF": 0
+      },
+      "special_grades": {
+        "II": "Incomplete due to exceptional circumstances",
+        "WW": "Withdrawn from course",
+        "SS": "Satisfactory",
+        "UU": "Unsatisfactory"
+      },
+      "improvement_policy": {
+        "repeat_limit": 2,
+        "conditions": "Must repeat within 2 semesters; no overstay allowed."
+      }
+    },
+    "evaluation_methods": {
+      "theory": {
+        "mid_sem": "10-20%",
+        "end_sem": "40-60%",
+        "assignments": "0-25%",
+        "quizzes": "0-20%"
+      },
+      "mixed": {
+        "labs": "25-35%",
+        "mid_sem": "10-20%",
+        "end_sem": "30-50%"
+      },
+      "labs_only": {
+        "labs": "60-70%",
+        "end_sem": "20-30%"
+      }
+    }
+  },
+  "financial_support": {
+    "ug_scholarships": [
+      {
+        "name": "Merit-cum-Means (MCM)",
+        "eligibility": "CGPA >= 6.0, income <= Rs. 4.5 Lakh",
+        "benefits": "Tuition fee refund + Rs. 1000/month"
+      },
+      {
+        "name": "Free Messing",
+        "eligibility": "SC/ST/PWD students, income <= Rs. 4.5 Lakh",
+        "benefits": "Free basic mess + Rs. 250/month"
+      }
+    ],
+    "pg_fellowships": [
+      {
+        "type": "Teaching Assistantship (TA)",
+        "amount": "Rs. 12,400/month for 24 months"
+      },
+      {
+        "type": "Research Assistantship (RA)",
+        "amount": "50% more than TA"
+      }
+    ],
+    "phd_assistantship": {
+      "duration": "Up to 5 years",
+      "conditions": "Based on satisfactory academic and research performance."
+    }
+  },
+  "honour_code": {
+    "academic_integrity": {
+      "rules": [
+        "No cheating in assignments, labs, or exams.",
+        "Plagiarism of any kind is prohibited.",
+        "Self-plagiarism in archived documents is also not allowed."
+      ],
+      "penalties": [
+        "Course failure",
+        "Semester suspension",
+        "Expulsion from institute"
+      ]
+    },
+    "attendance": {
+      "ug": "Minimum 70% required; relaxation for medical and extracurricular reasons.",
+      "pg": "Minimum 75% required.",
+      "phd": "Minimum 80% required for coursework."
+    }
+  },
+  "fellowships": {
+    "early_postdoctoral": {
+      "duration": "3 months",
+      "eligibility": "PhD students post-oral defense.",
+      "purpose": "Support for career transition and manuscript completion."
+    },
+    "international_internship": {
+      "eligibility": "PhD students; one-time support per program.",
+      "quota": "10 students per academic year."
+    },
+    "euler_scheme": {
+      "focus": "Earn While You Learn",
+      "eligibility": "Students without scholarships.",
+      "roles": "Academic, administrative, and research tasks."
+    }
+  },
+  "awards": {
+    "ug": [
+      {
+        "name": "President Gold Medal",
+        "criteria": "Highest CGPA with no backlogs or disciplinary actions."
+      },
+      {
+        "name": "Director's Gold Medal",
+        "criteria": "Best all-round performance."
+      },
+      {
+        "name": "Institute Silver Medal",
+        "criteria": "Highest CGPA in department (excluding Gold Medal winners)."
+      }
+    ],
+    "pg": [
+      {
+        "name": "Institute Gold Medal",
+        "criteria": "Highest CGPA in MTech programs."
+      },
+      {
+        "name": "Outstanding Doctoral Student Award",
+        "criteria": "Quality of thesis, publications, and extracurricular achievements."
+      }
+    ]
+  },
+  "credits": {
+    "ug_structure": {
+      "total": 146.5,
+      "categories": {
+        "co_curricular": 8,
+        "hss_core": 6,
+        "science_core": 18.5,
+        "engineering_core": 21,
+        "design_core": 9,
+        "departmental_core": 45,
+        "departmental_elective": 12,
+        "open_elective": 18,
+        "btech_project": 9
+      }
+    }
+  }
+}

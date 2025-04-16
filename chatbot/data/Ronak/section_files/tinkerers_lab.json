@@ -1,0 +1,50 @@
+{
+  "intents": [
+    {
+      "tag": "tinkering_lab_mission_vision",
+      "patterns": [
+        "What is the mission of IIT Jammu Tinkering Lab?",
+        "Tell me about the vision of IIT Jammu Tinkering Lab",
+        "What is the purpose of the Tinkering Lab?",
+        "Can you describe IIT Jammu Tinkering Lab's mission?"
+      ],
+      "responses": [
+        "IIT Jammu Tinkering Lab's mission is to create workspaces where young minds can learn innovation skills, sculpt their ideas through hands-on activities, social and cross-cultural collaboration, and ethical leadership. Students will learn to build models, enhance product development skills, and create innovative solutions to India's unique problems, promoting Atma Nirbhar Bharat."
+      ]
+    },
+    {
+      "tag": "tinkering_lab_tools_resources",
+      "patterns": [
+        "What tools and resources are available at IIT Jammu Tinkering Lab?",
+        "Tell me about the tools and resources in the Tinkering Lab",
+        "How big is the IIT Jammu Tinkering Lab?",
+        "Where is the IIT Jammu Tinkering Lab located?"
+      ],
+      "responses": [
+        "The IIT Jammu Tinkering Lab is 1800 sq. ft. in size and located in the Institute's academic block. It is available 24/7 for students and faculty members and is just 170m away from the hostels."
+      ]
+    },
+    {
+      "tag": "tinkering_lab_new_facility",
+      "patterns": [
+        "Tell me about the new facility at IIT Jammu Tinkering Lab",
+        "What is the new facility in the Tinkering Lab?",
+        "Tell me about the new Institute Innovation & Entrepreneurship Development Center"
+      ],
+      "responses": [
+        "The new facility at IIT Jammu Tinkering Lab, which took 18 months to develop, spans an area of 8000 - 10000 sq. ft. and will serve as the Institute Innovation & Entrepreneurship Development Center."
+      ]
+    },
+    {
+      "tag": "tinkering_lab_contact",
+      "patterns": [
+        "Where is IIT Jammu Tinkering Lab located?",
+        "What is the address of IIT Jammu Tinkering Lab?",
+        "Tell me the contact details for IIT Jammu Tinkering Lab"
+      ],
+      "responses": [
+        "IIT Jammu Tinkering Lab is located at Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+      ]
+    }
+  ]
+}

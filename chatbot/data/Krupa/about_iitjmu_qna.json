@@ -1,0 +1,258 @@
+{
+  "intents": [
+    {
+      "tag": "IIT_Jammu_Recognition",
+      "patterns": [
+        "What is the recognition of IIT Jammu?",
+        "Tell me about IIT Jammu's recognition",
+        "Is IIT Jammu recognized?"
+      ],
+      "responses": [
+        "IIT Jammu is an Institute of National Importance under the Institutes of Technology Act of 1961."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Funding",
+      "patterns": [
+        "How is IIT Jammu funded?",
+        "What is the funding source of IIT Jammu?",
+        "Who funds IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu is funded by the Government of India."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Governance",
+      "patterns": [
+        "Who governs IIT Jammu?",
+        "Tell me about IIT Jammu's governance",
+        "How is IIT Jammu governed?"
+      ],
+      "responses": [
+        "IIT Jammu is governed by the IIT Council."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Establishment",
+      "patterns": [
+        "When was IIT Jammu established?",
+        "Tell me about the establishment of IIT Jammu",
+        "What year was IIT Jammu inaugurated?"
+      ],
+      "responses": [
+        "IIT Jammu was inaugurated on 6th August 2016."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Mentorship",
+      "patterns": [
+        "Who mentored IIT Jammu?",
+        "Tell me about the mentorship of IIT Jammu",
+        "Was IIT Jammu mentored by any institute?"
+      ],
+      "responses": [
+        "IIT Jammu was initially mentored by IIT Delhi."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Main_Campus",
+      "patterns": [
+        "Where is the main campus of IIT Jammu?",
+        "Tell me about IIT Jammu's main campus",
+        "What is the location of the main campus of IIT Jammu?"
+      ],
+      "responses": [
+        "The main campus of IIT Jammu is located in Jagti village, 17 km from Jammu Airport and 19 km from Jammu Tawi Railway Station."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Main_Campus_Phases",
+      "patterns": [
+        "What is the status of IIT Jammu's main campus construction?",
+        "Tell me about the phases of IIT Jammu's main campus",
+        "Is IIT Jammu's main campus fully constructed?"
+      ],
+      "responses": [
+        "Phase 1A of IIT Jammu's main campus is operational, while Phase 1B and 1C are under construction."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Paloura_Campus",
+      "patterns": [
+        "What is the Paloura campus of IIT Jammu?",
+        "Tell me about IIT Jammu's Paloura campus",
+        "What facilities are at IIT Jammu's Paloura campus?"
+      ],
+      "responses": [
+        "The Paloura campus of IIT Jammu accommodates PhD scholars and houses the Central Instrumentation Facility (CIF or SAPTARSHI Labs)."
+      ]
+    },
+    {
+      "tag": "Jammu_Description",
+      "patterns": [
+        "What is Jammu like?",
+        "Tell me about Jammu",
+        "Give me a description of Jammu"
+      ],
+      "responses": [
+        "Jammu is the largest city in the Jammu Division and serves as the winter capital of Jammu and Kashmir."
+      ]
+    },
+    {
+      "tag": "Jammu_Location",
+      "patterns": [
+        "Where is Jammu located?",
+        "Tell me about the location of Jammu",
+        "What is the geographical location of Jammu?"
+      ],
+      "responses": [
+        "Jammu is located on the banks of the Tawi river."
+      ]
+    },
+    {
+      "tag": "Jammu_Culture",
+      "patterns": [
+        "What is the culture of Jammu like?",
+        "Tell me about the culture in Jammu",
+        "What are the cultural aspects of Jammu?"
+      ],
+      "responses": [
+        "Jammu is a melting pot of cultures, religions, and ethnicities."
+      ]
+    },
+    {
+      "tag": "Jammu_Education",
+      "patterns": [
+        "What are the educational institutions in Jammu?",
+        "Tell me about the educational institutions in Jammu",
+        "What colleges and universities are there in Jammu?"
+      ],
+      "responses": [
+        "Jammu is home to several educational institutions, including AIIMS Jammu, IIM Jammu, and IIT Jammu."
+      ]
+    },
+    {
+      "tag": "Jammu_Geography",
+      "patterns": [
+        "Tell me about the geography of Jammu",
+        "What is the geography like in Jammu?",
+        "What is the elevation and spread of Jammu?"
+      ],
+      "responses": [
+        "Jammu is spread around the Tawi river and is surrounded by the Shivalik and Trikuta ranges. Its elevation is 327 meters."
+      ]
+    },
+    {
+      "tag": "Contact_Details_Address",
+      "patterns": [
+        "What is the address of IIT Jammu?",
+        "Tell me the contact address of IIT Jammu",
+        "Where is IIT Jammu located?"
+      ],
+      "responses": [
+        "The address of IIT Jammu is: Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_About_Us",
+      "patterns": [
+        "Tell me about IIT Jammu campus",
+        "What is IIT Jammu campus like?",
+        "Give me some details about the IIT Jammu campus"
+      ],
+      "responses": [
+        "IIT Jammu’s Jagti campus welcomed its first resident students in the academic year 2017-18. The campus is spread over 25 acres and currently accommodates more than 1300 students, ranging from the bachelor's to the doctoral level. The hostels provide comfortable lodging and boarding for 650 students and offer scenic views of the Trikuta hills. Phases 1B and 1C of the campus are under construction."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Life",
+      "patterns": [
+        "What is campus life like at IIT Jammu?",
+        "Tell me about student life at IIT Jammu",
+        "What activities are available for students at IIT Jammu?"
+      ],
+      "responses": [
+        "Life at IIT Jammu is vibrant with a variety of facilities for students. The campus includes open gyms, open-air theatres, laundry machines, digital classrooms, and a music room. Additionally, there are recreational facilities such as table tennis tables, a snooker table, and a common hall with a TV for indoor activities."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Facilities",
+      "patterns": [
+        "What facilities are available at IIT Jammu campus?",
+        "Tell me about the amenities on the IIT Jammu campus",
+        "What are the resources available at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers various campus facilities, including cafeterias, an open gym, a music room, table tennis tables, snooker tables, a medical unit, pharmacy, laundry machines, and 24-hour WLAN. The campus also has central computing facilities and a common hall for indoor recreational activities."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Banks",
+      "patterns": [
+        "Which banks are available at IIT Jammu?",
+        "Tell me about the banks on the IIT Jammu campus",
+        "What banks can I find at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu has branches of the following banks on its campus: SBI, ICICI, J&K Bank, and Canara Bank."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Contact",
+      "patterns": [
+        "What is the contact address for IIT Jammu?",
+        "Tell me the address of IIT Jammu",
+        "Where is IIT Jammu located?"
+      ],
+      "responses": [
+        "The contact address for IIT Jammu is: Indian Institute of Technology Jammu, Jagti, NH-44, PO Nagrota, Jammu - 181 221, J&K, India."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Paloura_Campus_About_Us",
+      "patterns": [
+        "Tell me about IIT Jammu Paloura campus",
+        "What is IIT Jammu Paloura campus like?",
+        "Give me details about the IIT Jammu Paloura campus"
+      ],
+      "responses": [
+        "IIT Jammu initially started in a temporary campus at Paloura in 2016 with 82 undergraduate engineering students. The campus was located in a remodeled Kalamkari Charity Society (KCS) premise, while construction activities were underway at the Jagti campus. The Paloura campus provided facilities for the academic and research needs of the institute."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Paloura_Campus_Life",
+      "patterns": [
+        "What is campus life like at IIT Jammu Paloura?",
+        "Tell me about student life at IIT Jammu Paloura",
+        "What activities are available at IIT Jammu Paloura?"
+      ],
+      "responses": [
+        "Life at IIT Jammu Paloura includes hostel accommodation for students, a cafeteria, digital classrooms, a library, laboratories, laundry centers, and Wi-Fi access. There are also recreational facilities like a well-equipped gym, badminton court, basketball court, table tennis table, and a common room for indoor activities."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Paloura_Campus_Facilities",
+      "patterns": [
+        "What facilities are available at IIT Jammu Paloura campus?",
+        "Tell me about the facilities at IIT Jammu Paloura",
+        "What amenities are there at IIT Jammu Paloura?"
+      ],
+      "responses": [
+        "The IIT Jammu Paloura campus offers a variety of facilities including hostel accommodation, a cafeteria, digital classrooms, a library, laboratories, laundry centers, 24-hour Wi-Fi, a well-equipped gym, badminton court, basketball court, table tennis table, and a common room for recreational activities."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Paloura_Campus_Research_Facilities",
+      "patterns": [
+        "What research facilities are available at IIT Jammu Paloura?",
+        "Tell me about the research labs at IIT Jammu Paloura",
+        "What advanced research facilities are there at IIT Jammu Paloura?"
+      ],
+      "responses": [
+        "IIT Jammu Paloura campus houses the Central Instrumentation Facility (CIF), which includes advanced research labs such as Microscopy Lab, Spectroscopy Lab, X-ray Based Characterization Lab, Optics and Chromatography Lab, Nanofabrication and Physical Property Characterization Lab (NPPCL), Thermal Analysis Lab (TAL), and Water Quality Testing Lab (WQTL). These facilities are used by UG/PG students, research scholars, and faculty for advanced research. External users such as researchers from other institutes and industries also use these labs."
+      ]
+    }
+  ]
+}
+

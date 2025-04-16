@@ -1,0 +1,179 @@
+{
+  "intents": [
+    {
+      "tag": "academic_affairs_dean",
+      "patterns": [
+        "Who is the Dean of Academic Affairs at IIT Jammu?",
+        "Name of the Dean of Academics at IIT Jammu",
+        "Contact information for the Dean of Academic Affairs"
+      ],
+      "responses": [
+        "The Dean of Academic Affairs at IIT Jammu is Kannan Iyer. You can reach out via email at dean.acad@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_associate_dean_research",
+      "patterns": [
+        "Who is the Associate Dean for Research Programs at IIT Jammu?",
+        "Contact details for Associate Dean of Research and Interdisciplinary Programs"
+      ],
+      "responses": [
+        "The Associate Dean for Research Programs and Interdisciplinary Programs is Sameer K. Sarma P. You can contact him at sameer.pachalla@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_associate_dean_curriculum",
+      "patterns": [
+        "Who is the Associate Dean for Curriculum at IIT Jammu?",
+        "Contact information for Associate Dean Curriculum (UG, PG)"
+      ],
+      "responses": [
+        "The Associate Dean for Curriculum (UG, PG) is Shanmugadas K.P. You can reach him at shanmugadas.kp@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_deputy_registrar",
+      "patterns": [
+        "Who is the Deputy Registrar at IIT Jammu?",
+        "Name of the Deputy Registrar for Academic Affairs",
+        "Contact details of the Deputy Registrar"
+      ],
+      "responses": [
+        "The Deputy Registrar at IIT Jammu is Shrikarshan Pareek. You can contact him at dr.acad@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_abhishek",
+      "patterns": [
+        "Who is Abhishek at IIT Jammu?",
+        "Contact details for Abhishek in Academic Affairs"
+      ],
+      "responses": [
+        "Abhishek is a Senior Assistant in Academic Affairs. You can reach him at abhishek@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_dileep_kumar",
+      "patterns": [
+        "Who is Dileep Kumar at IIT Jammu?",
+        "Contact details for Dileep Kumar in Academic Affairs"
+      ],
+      "responses": [
+        "Dileep Kumar is an Assistant Manager in Academic Affairs. His email is dileep.kumar@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_kritika_handoo",
+      "patterns": [
+        "Who is Kritika Handoo at IIT Jammu?",
+        "Contact information for Kritika Handoo"
+      ],
+      "responses": [
+        "Kritika Handoo is a Senior Assistant in Academic Affairs. You can contact her at kritika.handoo@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_nandini_sharma",
+      "patterns": [
+        "Who is Nandini Sharma at IIT Jammu?",
+        "Email for Nandini Sharma in Academic Affairs"
+      ],
+      "responses": [
+        "Nandini Sharma is a Senior Assistant in Academic Affairs. Her email is nandini.sharma@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_sahil_rattan",
+      "patterns": [
+        "Who is Sahil Rattan at IIT Jammu?",
+        "Contact details for Sahil Rattan"
+      ],
+      "responses": [
+        "Sahil Rattan is a Senior Assistant in Academic Affairs. You can reach him at sahil.rattan@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_staff_vipen_sharma",
+      "patterns": [
+        "Who is Vipen Sharma at IIT Jammu?",
+        "Contact information for Vipen Sharma"
+      ],
+      "responses": [
+        "Vipen Sharma is a Senior Assistant in Academic Affairs. His email is vipen.sharma@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_contact_info",
+      "patterns": [
+        "What is the contact number for Academic Affairs at IIT Jammu?",
+        "Email addresses for UG and PG admissions at IIT Jammu",
+        "Academic Affairs contact information"
+      ],
+      "responses": [
+        "You can contact Academic Affairs at IIT Jammu at 0191-2570633 or via email at ar.acad@iitjammu.ac.in. For UG admissions, use ugoffice.acad@iitjammu.ac.in, and for PG admissions, use pgoffice.acad@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "academic_affairs_overview",
+      "patterns": [
+        "Tell me about Academic Affairs",
+        "What does Academic Affairs do?",
+        "Describe the Academic Affairs section",
+        "Academic programs information",
+        "What is the role of Academic Affairs?"
+      ],
+      "responses": [
+        "The Academic Affairs office oversees various academic programs and departments. It assists students in navigating their academic pathways, managing admissions, registration, examinations, and student requests. Academic Affairs implements decisions on academic matters by the Senate. It offers 7 UG, 8 M.Tech, 2 M.Sc./MS(R), 11 Ph.D. programs, and an Executive M.Tech in Artificial Intelligence and Machine Learning."
+      ]
+    },
+    {
+      "tag": "academic_affairs_dean_message",
+      "patterns": [
+        "What is the Dean's message?",
+        "Message from Dean of Academics",
+        "Dean's welcome note",
+        "Who is the Dean of Academics?",
+        "Academic message from IIT Jammu"
+      ],
+      "responses": [
+        "Prof. Kannan Iyer, Dean of Academics, welcomes students to IIT Jammu, the fastest-growing third-generation IIT. He emphasizes interactive, hands-on learning and a multidisciplinary curriculum designed to connect academic theory with real-world practice."
+      ]
+    },
+    {
+      "tag": "academic_affairs_departments",
+      "patterns": [
+        "List all the departments at IIT Jammu",
+        "What departments are available?",
+        "Departments in IIT Jammu",
+        "Which engineering fields are offered?"
+      ],
+      "responses": [
+        "IIT Jammu offers departments such as Biosciences and Bioengineering, Chemical Engineering, Chemistry, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Humanities and Social Sciences, Materials Engineering, Mathematics, Mechanical Engineering, and Physics."
+      ]
+    },
+    {
+      "tag": "academic_affairs_notifications",
+      "patterns": [
+        "Show me the latest notifications",
+        "What are the recent academic notifications?",
+        "Academic announcements at IIT Jammu",
+        "Latest updates from Academic Affairs"
+      ],
+      "responses": [
+        "For details on the latest academic notifications and announcements, please visit https://www.iitjammu.ac.in/academics"
+      ]
+    },
+    {
+      "tag": "academic_affairs_general_contact",
+      "patterns": [
+        "How can I contact Academic Affairs?",
+        "Contact details for Academic Affairs",
+        "Email for UG admissions at IIT Jammu",
+        "Phone number for Academic Office"
+      ],
+      "responses": [
+        "You can contact the Academic Affairs office at IIT Jammu via phone: 0191-2570633 or email: ar.acad@iitjammu.ac.in. For UG admissions, email: ugoffice.acad@iitjammu.ac.in, and for PG admissions, email: pgoffice.acad@iitjammu.ac.in."
+      ]
+    }
+  ]
+}

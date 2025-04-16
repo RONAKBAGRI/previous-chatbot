@@ -1,0 +1,59 @@
+{
+  "intents": [
+    {
+      "tag": "ces_outreach",
+      "patterns": [
+        "Tell me about CES outreach",
+        "What is CES outreach?",
+        "What are CES activities?"
+      ],
+      "responses": [
+        "CES (Center for Engineering Solutions) outreach includes initiatives like CES and CEAC to connect with students and professionals for skill development."
+      ]
+    },
+    {
+      "tag": "ceac_executive_programs",
+      "patterns": [
+        "What are the executive programs under CEAC?",
+        "Tell me about the CEAC executive programs",
+        "What programs are offered under CEAC?"
+      ],
+      "responses": [
+        "The CEAC Executive programs include M. Tech. in AIML, Post Graduate Diploma in Cyber Security, and MTech in VLSI Design (Executive)."
+      ]
+    },
+    {
+      "tag": "unnat_bharat_abhiyan",
+      "patterns": [
+        "What activities are part of Unnat Bharat Abhiyan?",
+        "Tell me about Unnat Bharat Abhiyan activities",
+        "What are SHG-1, SHG-2, SHG-3?"
+      ],
+      "responses": [
+        "Unnat Bharat Abhiyan includes activities like SHG-1, SHG-2, and SHG-3 to promote rural development and community engagement."
+      ]
+    },
+    {
+      "tag": "continuing_education_department_contact",
+      "patterns": [
+        "How can I contact the Continuing Education Program?",
+        "What is the email address for Continuing Education?",
+        "Give me the contact details for Continuing Education"
+      ],
+      "responses": [
+        "You can contact the Continuing Education Program via email at dean.contedu@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "continuing_education_program_additional_information",
+      "patterns": [
+        "Where can I know more about the Continuing Education Program?",
+        "How can I learn more about the Continuing Education Program?",
+        "Give me more information about the Continuing Education Program"
+      ],
+      "responses": [
+        "Visit the website at [https://www.iitjammu.ac.in/cep/](https://www.iitjammu.ac.in/cep/) for more details about the Continuing Education Program."
+      ]
+    }
+  ]
+}

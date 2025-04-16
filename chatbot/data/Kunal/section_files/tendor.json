@@ -1,0 +1,146 @@
+{
+    "intents": [
+        {
+            "tag": "active_tenders",
+            "patterns": [
+                "What are the active tenders?",
+                "Show me the active tenders list",
+                "Can you provide the list of active tenders?",
+                "Tell me the active tenders"
+            ],
+            "responses": [
+                "Here are the current active tenders for IIT Jammu:",
+                {
+                    "tenders": [
+                        {
+                            "NIT No.": "IITJMUIPMSP-44/2024-25",
+                            "Title": "Tender for Transportation Services E Vehicles",
+                            "Upload Date": "17-01-2025",
+                            "Due Date": "07-02-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5698621",
+                            "Title": "3 Phase Power Analyzer Digital Multimeter LCR Meter Digital storage OSCILLOSCOPE 300 MHZ 4 CHANNELS",
+                            "Upload Date": "17-01-2025",
+                            "Due Date": "07-02-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5690849",
+                            "Title": "ROCKFALL IMPACT SETUP WITH ACCESSORIES",
+                            "Upload Date": "15-01-2025",
+                            "Due Date": "05-02-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5764107",
+                            "Title": "Fittings and Accessories",
+                            "Upload Date": "13-01-2025",
+                            "Due Date": "03-02-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2025/B/5793663",
+                            "Title": "Digital Multimeter as per IS 9000 Q3",
+                            "Upload Date": "10-01-2025",
+                            "Due Date": "20-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2025/B/5797458",
+                            "Title": "Function Generator",
+                            "Upload Date": "10-01-2025",
+                            "Due Date": "20-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2025/B/5798561",
+                            "Title": "Laboratory Furniture",
+                            "Upload Date": "10-01-2025",
+                            "Due Date": "31-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2025/B/5787016",
+                            "Title": "Mixed Signal Oscilloscope",
+                            "Upload Date": "09-01-2025",
+                            "Due Date": "30-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5756424",
+                            "Title": "Laboratory Furniture",
+                            "Upload Date": "02-01-2025",
+                            "Due Date": "23-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5762349",
+                            "Title": "Compression Moulding Press",
+                            "Upload Date": "31-12-2024",
+                            "Due Date": "20-01-2025"
+                        },
+                        {
+                            "NIT No.": "GEM/2024/B/5752231",
+                            "Title": "Lab-Furniture",
+                            "Upload Date": "31-12-2024",
+                            "Due Date": "21-01-2025"
+                        },
+                        {
+                            "NIT No.": "IITJMU/ME/SP-43/2024-25",
+                            "Title": "Open Tender for 3D DIC System",
+                            "Upload Date": "30-12-2024",
+                            "Due Date": "20-01-2025"
+                        },
+                        {
+                            "NIT No.": "IITJMU/C3/SP-42/2024-25",
+                            "Title": "Tender for In house Data Centre Facilities in collaboration with CDAC under NSM",
+                            "Upload Date": "17-12-2024",
+                            "Due Date": "22-01-2025"
+                        },
+                        {
+                            "NIT No.": "IITJMU/CE/SP-41/2024-25",
+                            "Title": "Global Tender for Procurement of DAQ Phased Array System",
+                            "Upload Date": "16-12-2024",
+                            "Due Date": "18-01-2025"
+                        },
+                        {
+                            "NIT No.": "ITJMU/ARC/SP-05/2024-25",
+                            "Title": "Annual Rate Contract For The Supplies Of Chemicals Solvents Biochemical Metals Glassware and Plasticware",
+                            "Upload Date": "01-12-2024",
+                            "Due Date": "30-11-2025"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "debarment_list",
+            "patterns": [
+                "What is the debarment list?",
+                "Can you show me the list of debarred firms?",
+                "Tell me about the debarment of firms"
+            ],
+            "responses": [
+                "Here are the details of the debarred firms:",
+                {
+                    "debarment": [
+                        {
+                            "Sr. No.": 1,
+                            "Name of the Bidder Agency/ Company": "M/s Unique Sanitation and Outsourcing Services",
+                            "Agency/ Company Address": "2D/D Green Belt Park, Jammu J&K 180004",
+                            "Debarment Start Date": "11-12-2024",
+                            "Debarment End Date": "11-12-2026"
+                        },
+                        {
+                            "Sr. No.": 2,
+                            "Name of the Bidder Agency/ Company": "M/s Narang Rolling Shutter",
+                            "Agency/ Company Address": "A-24 Milap Nagar, Uttam Nagar, Delhi, West Delhi, New Delhi, India",
+                            "Debarment Start Date": "09-08-2024",
+                            "Debarment End Date": "05-02-2025"
+                        },
+                        {
+                            "Sr. No.": 3,
+                            "Name of the Bidder Agency/ Company": "M/s Amardeep Design India Pvt Ltd",
+                            "Agency/ Company Address": "Head Office: A - 103, Sanjay Building No. 5, Mittal Estate, Andheri Kurla Rd, Marol Naka, Andheri (E), Mumbai-400059 INDIA",
+                            "Debarment Start Date": "06-12-2023",
+                            "Debarment End Date": "05-12-2025"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+  "intents": [
+    {
+      "tag": "finance_and_accounts",
+      "patterns": [
+        "Finance and accounts",
+        "Tell me about finance and accounts",
+        "What does the finance section do?",
+        "Financial transactions at IIT Jammu",
+        "Account management at IIT Jammu"
+      ],
+      "responses": [
+        "The accounts section of an academic institution is responsible for managing financial transactions and records. It handles budgeting, accounting, financial reporting, payroll, accounts payable and receivable, and statutory compliance."
+      ]
+    },
+    {
+      "tag": "assistant_registrar_message",
+      "patterns": [
+        "Message from Assistant Registrar",
+        "Who is the Assistant Registrar?",
+        "Accounts message",
+        "Finance message"
+      ],
+      "responses": [
+        "As the Assistant Registrar for Finance & Accounts at IIT Jammu, Shikha Malhotra welcomes all users warmly. The team is ready to assist with billing, fee payments, financial aid, and scholarships to ensure a seamless experience."
+      ]
+    },
+    {
+      "tag": "about_finance",
+      "patterns": [
+        "About the finance team",
+        "About accounts at IIT Jammu",
+        "What is the role of the finance section?",
+        "Responsibilities of the finance section"
+      ],
+      "responses": [
+        "The accounts section manages the institution's financial stability by handling budgeting, accounting, financial reporting, payroll, accounts payable and receivable, and statutory compliance. It ensures compliance with all relevant accounting standards and regulations."
+      ]
+    },
+    {
+      "tag": "finance_and_accounts_team",
+      "patterns": [
+        "Who is on the finance team?",
+        "List of finance team members",
+        "Finance and accounts team at IIT Jammu"
+      ],
+      "responses": [
+        "The Finance and Accounts team includes:\n- Shikha Malhotra, Assistant Registrar (ar.accounts@iitjammu.ac.in)\n- Meena Sharma, Senior Assistant (meena.sharma@iitjammu.ac.in)\n- Ripul Vaid, Section Officer (ripul.vaid@iitjammu.ac.in)\n- Sahil Dogra, Senior Assistant (sahil.dogra@iitjammu.ac.in)\n- Shubham Gupta, Senior Assistant (shubham.gupta@iitjammu.ac.in)"
+      ]
+    },
+    {
+      "tag": "shikha_malhotra",
+      "patterns": [
+        "Who is Shikha Malhotra?",
+        "Assistant Registrar contact",
+        "Contact Shikha Malhotra"
+      ],
+      "responses": [
+        "Shikha Malhotra is the Assistant Registrar for Finance and Accounts at IIT Jammu. You can reach her at ar.accounts@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "meena_sharma",
+      "patterns": [
+        "Who is Meena Sharma?",
+        "Senior Assistant contact",
+        "Contact Meena Sharma"
+      ],
+      "responses": [
+        "Meena Sharma is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach her at meena.sharma@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "ripul_vaid",
+      "patterns": [
+        "Who is Ripul Vaid?",
+        "Section Officer contact",
+        "Contact Ripul Vaid"
+      ],
+      "responses": [
+        "Ripul Vaid is the Section Officer in the Finance and Accounts team at IIT Jammu. You can reach him at ripul.vaid@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "sahil_dogra",
+      "patterns": [
+        "Who is Sahil Dogra?",
+        "Senior Assistant contact",
+        "Contact Sahil Dogra"
+      ],
+      "responses": [
+        "Sahil Dogra is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach him at sahil.dogra@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "shubham_gupta",
+      "patterns": [
+        "Who is Shubham Gupta?",
+        "Senior Assistant contact",
+        "Contact Shubham Gupta"
+      ],
+      "responses": [
+        "Shubham Gupta is a Senior Assistant in the Finance and Accounts team at IIT Jammu. You can reach him at shubham.gupta@iitjammu.ac.in."
+      ]
+    }
+  ]
+}

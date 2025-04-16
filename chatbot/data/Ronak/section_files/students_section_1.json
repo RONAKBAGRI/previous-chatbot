@@ -1,0 +1,148 @@
+{
+    "intents": [
+      {
+        "tag": "dual_degree_program",
+        "patterns": [
+          "Tell me about the dual degree program at IIT Jammu",
+          "What is IIT Jammu's dual degree program?",
+          "Details of IIT Jammu dual degree program"
+        ],
+        "responses": [
+          "IIT Jammu offers a dual degree program with IIM Jammu, which includes a four-year B.Tech. from IIT Jammu and a two-year MBA from IIM Jammu. To transition to IIM, students must have a minimum CGPA of 7.0 in their B.Tech program."
+        ]
+      },
+      {
+        "tag": "admission_process",
+        "patterns": [
+          "How to apply for admission at IIT Jammu?",
+          "What is the admission process for IIT Jammu?",
+          "Tell me about the IIT Jammu admission process"
+        ],
+        "responses": [
+          "Admission to IIT Jammu is through the Joint Entrance Examination - Advanced (JEE-Advanced), conducted by the Joint Admission Board (JAB). Counseling is done through centralized counseling by JoSAA."
+        ]
+      },
+      {
+        "tag": "contact_details",
+        "patterns": [
+          "How can I contact IIT Jammu?",
+          "What is the contact email for IIT Jammu?",
+          "Provide the contact details for IIT Jammu"
+        ],
+        "responses": [
+          "You can contact IIT Jammu at ugoffice.acad@iitjammu.ac.in or call 0191-2570633. For postgraduate inquiries, reach pgoffice.acad@iitjammu.ac.in."
+        ]
+      },
+      {
+        "tag": "hostel_accommodation",
+        "patterns": [
+          "Tell me about hostel accommodation at IIT Jammu",
+          "What is the hostel accommodation like at IIT Jammu?",
+          "How do I get hostel accommodation at IIT Jammu?"
+        ],
+        "responses": [
+          "All undergraduate students are provided hostel accommodation at IIT Jammu. You can report to Room no 132 for the hostel. Basic amenities like a bed, almirah, table, and chair are provided. Essential items such as a mattress, bucket, and mug can be purchased from on-campus vendors."
+        ]
+      },
+      {
+        "tag": "pg_admission_info",
+        "patterns": [
+          "How to apply for postgraduate programs at IIT Jammu?",
+          "Tell me about the postgraduate application process at IIT Jammu",
+          "Where can I apply for M.Tech at IIT Jammu?"
+        ],
+        "responses": [
+          "You can apply for postgraduate programs at IIT Jammu through the application portal at https://saral.iitjammu.ac.in/pgapplication."
+        ]
+      },
+      {
+        "tag": "pg_programs_offered",
+        "patterns": [
+          "What postgraduate programs are offered at IIT Jammu?",
+          "List of M.Tech programs at IIT Jammu",
+          "Tell me about the PG programs at IIT Jammu"
+        ],
+        "responses": [
+          "IIT Jammu offers M.Tech programs in various fields, including Computer Science Engineering, Electrical Engineering (with specializations), Civil Engineering, Mechanical Engineering, Chemical Engineering, and M.Sc programs in Chemistry and Physics."
+        ]
+      },
+      {
+        "tag": "self_sponsored_admission",
+        "patterns": [
+          "Tell me about self-sponsored admission for M.Tech in Chemical Engineering",
+          "What are the eligibility criteria for self-sponsored M.Tech admission at IIT Jammu?",
+          "Details about self-sponsored admission at IIT Jammu"
+        ],
+        "responses": [
+          "The self-sponsored admission for M.Tech in Chemical Engineering with specialization in Sustainable Energy Engineering is open for candidates with relevant B.Tech/ M.Sc degrees. The eligibility criteria include a minimum of 60% aggregate marks or 6.0 CGPA on a 10-point scale for general candidates."
+        ]
+      },
+      {
+        "tag": "phd_program_info",
+        "patterns": [
+          "What are the PhD programs at IIT Jammu?",
+          "Tell me about the PhD admission process at IIT Jammu",
+          "Details of PhD programs at IIT Jammu"
+        ],
+        "responses": [
+          "IIT Jammu offers PhD programs in various departments like Computer Science, Electrical Engineering, Civil Engineering, Mathematics, Mechanical Engineering, and more. You can apply for the PhD program at IIT Jammu through their portal."
+        ]
+      },
+      {
+        "tag": "foreign_national_phd_admission",
+        "patterns": [
+          "Tell me about the PhD admission for foreign nationals at IIT Jammu",
+          "What is the PhD application process for foreign nationals at IIT Jammu?",
+          "How can foreign nationals apply for PhD at IIT Jammu?"
+        ],
+        "responses": [
+          "Foreign nationals can apply for the PhD program at IIT Jammu by following the guidelines on the Study in India website. The application deadline for 2024 is October 28, 2024."
+        ]
+      },
+      {
+        "tag": "january_session_phd_admission",
+        "patterns": [
+          "How to apply for the January session PhD at IIT Jammu?",
+          "Tell me about the January 2024 PhD admission at IIT Jammu",
+          "PhD January session admission process"
+        ],
+        "responses": [
+          "You can apply for the January 2024 session PhD program at IIT Jammu by visiting the application portal at https://saral.iitjammu.ac.in/phdapplication."
+        ]
+      },
+      {
+        "tag": "academic_calendar",
+        "patterns": [
+          "Where can I view the academic calendar for IIT Jammu?",
+          "Tell me about the academic calendar of IIT Jammu",
+          "IIT Jammu academic calendar link"
+        ],
+        "responses": [
+          "You can view the IIT Jammu academic calendar [here](https://www.iitjammu.ac.in/calendar)."
+        ]
+      },
+      {
+        "tag": "semester_schedule",
+        "patterns": [
+          "Where can I find the semester schedule for IIT Jammu?",
+          "Tell me about the semester schedule at IIT Jammu",
+          "IIT Jammu semester schedule link"
+        ],
+        "responses": [
+          "You can find the IIT Jammu semester schedule [here](https://www.iitjammu.ac.in/semester-schedule)."
+        ]
+      },
+      {
+        "tag": "time_table",
+        "patterns": [
+          "Where can I view the time table for IIT Jammu?",
+          "Tell me about the IIT Jammu time table",
+          "IIT Jammu time table link"
+        ],
+        "responses": [
+          "You can view the IIT Jammu time table [here](https://www.iitjammu.ac.in/time-table)."
+        ]
+      }
+    ]
+  }
+  

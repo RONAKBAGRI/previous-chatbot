@@ -1,0 +1,107 @@
+{
+  "intents": [
+    {
+      "tag": "tlu_about_us",
+      "patterns": [
+        "Tell me about the Teaching-Learning Unit (TLU)",
+        "What is TLU?",
+        "Can you describe the Teaching-Learning Unit?",
+        "What is the purpose of TLU?"
+      ],
+      "responses": [
+        "The Teaching-Learning Unit (TLU) promotes new pedagogical skills, which help faculty and instructors deliver knowledge effectively. TLU empowers faculty to experiment with teaching methods and provides modern infrastructure, including state-of-the-art studio classrooms, to deliver content online to students."
+      ]
+    },
+    {
+      "tag": "tlu_message",
+      "patterns": [
+        "What does TLU provide?",
+        "Tell me about the services provided by TLU",
+        "What is the TLU message?",
+        "How does TLU help faculty?"
+      ],
+      "responses": [
+        "Through TLU activities, faculty members are empowered to experiment with teaching methods. TLU provides modern infrastructure like studio classrooms, LMS, and online scheduled lectures to deliver content online to students."
+      ]
+    },
+    {
+      "tag": "tlu_contact",
+      "patterns": [
+        "How can I contact TLU?",
+        "What is the contact for TLU?",
+        "Tell me the TLU contact details",
+        "How do I reach TLU?"
+      ],
+      "responses": [
+        "You can contact the TLU section at tlu.admin@iitjammu.ac.in or reach out for LMS support at tlu.support@iitjammu.ac.in. For phone inquiries, call 0191-2570282."
+      ]
+    },
+    {
+      "tag": "lms_homepage",
+      "patterns": [
+        "What is the LMS homepage?",
+        "Where can I access the LMS?",
+        "Give me the link to LMS",
+        "Where is the LMS located?"
+      ],
+      "responses": [
+        "You can access the LMS homepage at [lms.iitjammu.ac.in](https://lms.iitjammu.ac.in)."
+      ]
+    },
+    {
+      "tag": "amitash_ojha",
+      "patterns": [
+        "Tell me about Amitash Ojha",
+        "Who is Amitash Ojha?",
+        "What does Amitash Ojha do?"
+      ],
+      "responses": [
+        "Amitash Ojha is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "ankit_gupta",
+      "patterns": [
+        "Tell me about Ankit Gupta",
+        "Who is Ankit Gupta?",
+        "What does Ankit Gupta do?"
+      ],
+      "responses": [
+        "Ankit Gupta is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "yaseen_khan",
+      "patterns": [
+        "Tell me about Yaseen Khan",
+        "Who is Yaseen Khan?",
+        "What does Yaseen Khan do?"
+      ],
+      "responses": [
+        "Yaseen Khan is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "mohd_yaseen",
+      "patterns": [
+        "Tell me about Mohd Yaseen",
+        "Who is Mohd Yaseen?",
+        "What does Mohd Yaseen do?"
+      ],
+      "responses": [
+        "Mohd Yaseen is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+      ]
+    },
+    {
+      "tag": "lakhvinder_singh",
+      "patterns": [
+        "Tell me about Lakhvinder Singh",
+        "Who is Lakhvinder Singh?",
+        "What does Lakhvinder Singh do?"
+      ],
+      "responses": [
+        "Lakhvinder Singh is a member of the Teaching-Learning Unit (TLU) team at IIT Jammu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "intents": [
+    {
+      "tag": "library_iit_jammu_location",
+      "patterns": [
+        "What is the address of the library?",
+        "Where is the library located?"
+      ],
+      "responses": [
+        "The Central Library, Indian Institute of Technology Jammu is located at Jagti, NH-44, PO Nagrota, Jammu – 181 221, J&K, India."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_contact",
+      "patterns": [
+        "What is the contact number of the library?",
+        "How can I contact the library?",
+        "What is the library's email address?"
+      ],
+      "responses": [
+        "You can contact the library at +91-191-257-0631 or email at library@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_opening_hours",
+      "patterns": [
+        "What are the library's opening hours?",
+        "When is the library open?"
+      ],
+      "responses": [
+        "The library opens on weekdays from 09:00 AM - 10:00 PM, and on Saturdays from 09:00 AM - 05:30 PM."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_circulation_timing",
+      "patterns": [
+        "What are the circulation timings?",
+        "When can I borrow books?"
+      ],
+      "responses": [
+        "The circulation timing is from 10:00 AM to 5:30 PM (Monday to Friday)."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_faculty_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for faculty?",
+        "How many books can faculty borrow?"
+      ],
+      "responses": ["Faculty members can borrow 6 books for 90 days."]
+    },
+    {
+      "tag": "library_iit_jammu_phd_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for PhD students?",
+        "How many books can PhD students borrow?"
+      ],
+      "responses": ["PhD students can borrow 5 books for 30 days."]
+    },
+    {
+      "tag": "library_iit_jammu_mtech_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for M. Tech students?",
+        "How many books can M. Tech students borrow?"
+      ],
+      "responses": [
+        "M. Tech students can borrow 3 General Books for 14 days and 1 Textbook for 14 days."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_btech_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for B. Tech students?",
+        "How many books can B. Tech students borrow?"
+      ],
+      "responses": [
+        "B. Tech students can borrow 2 General Books for 14 days and 2 Textbooks for 7 days."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_project_assistant_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for Project or Teaching Assistants?",
+        "How many books can project assistants borrow?"
+      ],
+      "responses": [
+        "Project/Teaching Assistants and others can borrow 2 books for 14 days."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_staff_borrowing_policy",
+      "patterns": [
+        "What is the borrowing policy for staff members?",
+        "How many books can staff borrow?"
+      ],
+      "responses": ["Staff members can borrow 2 books for 30 days."]
+    },
+    {
+      "tag": "library_iit_jammu_hindi_books_policy",
+      "patterns": [
+        "What is the borrowing policy for Hindi books?",
+        "How many Hindi books can I borrow?"
+      ],
+      "responses": ["All members can borrow 1 Hindi book for 30 days."]
+    },
+    {
+      "tag": "library_iit_jammu_resources",
+      "patterns": [
+        "What e-resources does the library have?",
+        "What online journals are available?",
+        "What e-books can I access?"
+      ],
+      "responses": [
+        "The library provides access to a variety of e-resources, including ACM Digital Library, Springer Journals, IEEE IEL Online, JSTOR, Science Direct, and many others. Additionally, it offers e-books from publishers such as McGraw Hill, Pearson, Wiley, and the Institute of Physics."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_research_assistance_tools",
+      "patterns": [
+        "What research assistance tools are available?",
+        "Does the library provide research tools?"
+      ],
+      "responses": [
+        "Research assistance tools available include iThenticate, Grammarly, QuillBot, and DrillBit."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_seating_arrangements",
+      "patterns": [
+        "When can I use the seating in the library?",
+        "Is the seating arrangement ready?"
+      ],
+      "responses": [
+        "The seating arrangements in the LHC Library are ready, and you can start using them from Monday, 06-01-2025. The installation of other furniture and book racks is still in progress."
+      ]
+    },
+    {
+      "tag": "library_iit_jammu_updates",
+      "patterns": [
+        "What are the latest updates in the library?",
+        "Tell me about the library setup progress"
+      ],
+      "responses": [
+        "The final setup and book shifting from the Transit Campus Library to the Mansar Library (LHC) are in progress. Updates will be shared once completed. Stay tuned for more!"
+      ]
+    }
+  ]
+}

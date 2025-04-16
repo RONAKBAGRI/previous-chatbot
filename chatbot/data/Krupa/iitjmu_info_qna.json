@@ -1,0 +1,235 @@
+{
+  "intents": [
+    {
+      "tag": "IIT_Jammu_Motto",
+      "patterns": [
+        "What is the motto of IIT Jammu?",
+        "Tell me the motto of IIT Jammu",
+        "What does IIT Jammu stand for?"
+      ],
+      "responses": [
+        "The motto of IIT Jammu is 'Vidyādhanaṃ sarvadhana pradhānam', which translates to 'Knowledge is Supreme of all Wealth'."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Establishment",
+      "patterns": [
+        "When was IIT Jammu established?",
+        "Tell me about the establishment of IIT Jammu",
+        "Year of establishment of IIT Jammu"
+      ],
+      "responses": [
+        "IIT Jammu was established in the year 2016."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Chairman_Director",
+      "patterns": [
+        "Who is the chairman of IIT Jammu?",
+        "Tell me about the director of IIT Jammu",
+        "Who are the key officials of IIT Jammu?"
+      ],
+      "responses": [
+        "The chairman of IIT Jammu is Sharad Kumar Saraf, and the director is Manoj Singh Gaur."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Ranking",
+      "patterns": [
+        "What is the ranking of IIT Jammu?",
+        "Rank of IIT Jammu in NIRF 2024",
+        "How is IIT Jammu ranked in India?"
+      ],
+      "responses": [
+        "IIT Jammu is ranked 62 in NIRF 2024 and 67 in NIRF 2023. For BTech, it is ranked 52."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Size",
+      "patterns": [
+        "What is the size of IIT Jammu campus?",
+        "How big is IIT Jammu campus?",
+        "Tell me the area of IIT Jammu campus"
+      ],
+      "responses": [
+        "The IIT Jammu campus spans 159 hectares (400 acres)."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Facilities",
+      "patterns": [
+        "What facilities are available on the IIT Jammu campus?",
+        "Tell me about the facilities at IIT Jammu",
+        "What amenities are there on the IIT Jammu campus?"
+      ],
+      "responses": [
+        "The IIT Jammu campus offers hostels, classrooms, seminar rooms, a library, computer laboratories, faculty offices, a cafeteria, recreational facilities, and sports courts (volleyball, basketball, badminton), cricket nets, and music and dance rooms."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Students_Faculty",
+      "patterns": [
+        "How many students and faculty are there at IIT Jammu?",
+        "Tell me about the student and faculty count at IIT Jammu",
+        "How many students study at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu has 116 faculty members and 1,178 students, with 784 undergraduates, 149 postgraduates, and 245 doctoral students."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Location",
+      "patterns": [
+        "Where is IIT Jammu located?",
+        "Tell me the address of IIT Jammu",
+        "What is the location of IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu is located at Jagti, PO Nagrota, NH-44, Jammu - 181221, Jammu and Kashmir, India. The coordinates are 32°48′13″N 74°53′45″E."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Contact",
+      "patterns": [
+        "What is the phone number for IIT Jammu?",
+        "Give me the contact number for IIT Jammu",
+        "How can I contact IIT Jammu?"
+      ],
+      "responses": [
+        "The phone number for IIT Jammu is 0191-2570381."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Campus_Permanent_Facilities",
+      "patterns": [
+        "What permanent facilities are available at IIT Jammu?",
+        "Tell me about the permanent facilities at IIT Jammu",
+        "What are the amenities on the permanent campus of IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu's permanent campus includes hostel accommodation, cafeteria, open gym, laundry centers, digital classrooms, WiFi, music room, TT tables, snooker table, dispensary, common hall with TV, volleyball, basketball, badminton courts, cricket nets, a football ground (under construction), and ICICI and J&K Bank ATMs."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Academic_Programmes",
+      "patterns": [
+        "What programmes are offered at IIT Jammu?",
+        "Tell me about the academic programs at IIT Jammu",
+        "What courses are available at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers B.Tech, M.Tech, Ph.D., and M.Sc. programmes."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_BTech_Specializations",
+      "patterns": [
+        "What specializations are available in B.Tech at IIT Jammu?",
+        "Tell me about the B.Tech specializations at IIT Jammu",
+        "Which branches can I choose for B.Tech at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers B.Tech specializations in Chemical Engineering, Mathematics and Computing, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Materials Engineering, and Mechanical Engineering."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_MTech_Specializations",
+      "patterns": [
+        "What specializations are available in M.Tech at IIT Jammu?",
+        "Tell me about the M.Tech specializations at IIT Jammu",
+        "Which fields can I choose for M.Tech at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers M.Tech specializations in Data Science and Information Security (CSE), Communications and Signal Processing (EE), Tunnel Engineering (Civil), Thermal Engineering (Mechanical & Chemical), Computer Technology (CSE & EE), and Artificial Intelligence and Machine Learning (Executive)."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_PhD_Specializations",
+      "patterns": [
+        "What specializations are available in Ph.D. at IIT Jammu?",
+        "Tell me about the Ph.D. specializations at IIT Jammu",
+        "Which research fields are available for Ph.D. at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers Ph.D. specializations in Chemistry, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Humanities and Social Sciences, Mathematics, Materials Engineering, Mechanical Engineering, and Physics."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Courses_Fees",
+      "patterns": [
+        "What are the fees for B.Tech at IIT Jammu?",
+        "Tell me the fees for M.Tech at IIT Jammu",
+        "What is the fee structure for Ph.D. at IIT Jammu?"
+      ],
+      "responses": [
+        "The fees for B.Tech at IIT Jammu is INR 2.79 Lakhs for the 1st year, M.Tech is INR 59,480 for the 1st year, M.Sc is INR 32,480 for the 1st year, and Ph.D. is INR 1 Lakh for the 1st year."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Admission_BTech",
+      "patterns": [
+        "What is the eligibility for B.Tech admission at IIT Jammu?",
+        "Tell me about the B.Tech admission process at IIT Jammu",
+        "What is the cutoff for B.Tech admission at IIT Jammu?"
+      ],
+      "responses": [
+        "To be eligible for B.Tech admission at IIT Jammu, you need to have a 10+2 qualification with a minimum of 75% marks. The entrance exam is JEE Advanced, and counseling is through JoSAA."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_BTech_Cutoff",
+      "patterns": [
+        "What was the cutoff for B.Tech at IIT Jammu in 2024?",
+        "Tell me the opening and closing ranks for B.Tech courses at IIT Jammu",
+        "What is the closing rank for Computer Science at IIT Jammu?"
+      ],
+      "responses": [
+        "In 2024, the opening and closing ranks for some B.Tech courses are as follows: Computer Science and Engineering (3412 - 6310), Chemical Engineering (11517 - 15048), Civil Engineering (11454 - 15583), Electrical Engineering (7241 - 10005), Materials Engineering (14592 - 16439), Mathematics and Computing (5689 - 7956), and Mechanical Engineering (9999 - 12483)."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Placements_2023",
+      "patterns": [
+        "What are the placements like at IIT Jammu in 2023?",
+        "Tell me about the placements at IIT Jammu in 2023",
+        "What is the highest package at IIT Jammu in 2023?"
+      ],
+      "responses": [
+        "In 2023, IIT Jammu achieved a placement percentage of 85%. The highest package offered was INR 53 LPA, while the average package was INR 17 LPA. Some of the top recruiters include Accenture, Amazon, HCL, Tech Mahindra, and HDFC Bank."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_UG_Placements",
+      "patterns": [
+        "How many UG students were placed at IIT Jammu?",
+        "Tell me about UG placements at IIT Jammu",
+        "What is the median package for UG students at IIT Jammu?"
+      ],
+      "responses": [
+        "In UG placements at IIT Jammu, 128 students graduated, and 93 were placed. The median package offered was INR 16 LPA."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_PG_Placements",
+      "patterns": [
+        "How many PG students were placed at IIT Jammu?",
+        "Tell me about PG placements at IIT Jammu",
+        "What is the median package for PG students at IIT Jammu?"
+      ],
+      "responses": [
+        "In PG placements at IIT Jammu, 46 students graduated, and 36 were placed. The median package offered was INR 18 LPA."
+      ]
+    },
+    {
+      "tag": "IIT_Jammu_Scholarships",
+      "patterns": [
+        "What scholarships are available at IIT Jammu?",
+        "Tell me about the scholarships offered at IIT Jammu",
+        "Are there any financial aid options at IIT Jammu?"
+      ],
+      "responses": [
+        "IIT Jammu offers a variety of scholarships, including Merit-cum-Means scholarships, SC/ST scholarships, and scholarships for differently-abled students. There are also financial aids for students from economically weaker sections."
+      ]
+    }
+  ]
+}

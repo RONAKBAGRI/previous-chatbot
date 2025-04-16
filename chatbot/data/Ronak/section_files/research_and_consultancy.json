@@ -1,0 +1,92 @@
+{
+  "intents": [
+    {
+      "tag": "research_and_consultancy_section",
+      "patterns": [
+        "Research and Consultancy at IIT Jammu",
+        "What is the Research and Consultancy Section?",
+        "Tell me about the Research and Consultancy Section"
+      ],
+      "responses": [
+        "The Research and Consultancy Section at IIT Jammu is an integral part of the institute, supporting research and development activities to enhance intellectual property and knowledge base."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_message",
+      "patterns": [
+        "What is the message from Research and Consultancy?",
+        "Tell me about the message for Research and Consultancy",
+        "What does the Research and Consultancy section say?"
+      ],
+      "responses": [
+        "Research and consultancy are integral parts of IIT Jammu's mission, and we are committed to providing a supportive and efficient environment for research and consultancy activities."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_deputy_registrar",
+      "patterns": [
+        "Who is the Deputy Registrar for Research and Consultancy?",
+        "Tell me about the Deputy Registrar",
+        "Who heads the Research and Consultancy?"
+      ],
+      "responses": [
+        "The Deputy Registrar for Research and Consultancy is Cdr Avinash Barthwal (Retd)."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_objectives",
+      "patterns": [
+        "What are the objectives of the Research and Consultancy Section?",
+        "Tell me about the objectives of Research and Consultancy",
+        "What are the goals of the Research and Consultancy section?"
+      ],
+      "responses": [
+        "The Research and Consultancy Section provides services such as research projects, industry collaborations, and consulting services while closely working with other departments and external partners."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_main_functions",
+      "patterns": [
+        "What are the main functions of the Research and Consultancy Section?",
+        "Tell me about the main functions of Research and Consultancy",
+        "What does the Research and Consultancy section handle?"
+      ],
+      "responses": [
+        "The main functions include administrative and accounting support for various projects, grants, staff recruitment, and monitoring of funds and expenditures."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_team_deputy_registrar",
+      "patterns": [
+        "Tell me about Cdr Avinash Barthwal",
+        "Who is Cdr Avinash Barthwal?",
+        "What is the role of Cdr Avinash Barthwal?"
+      ],
+      "responses": [
+        "Cdr Avinash Barthwal (Retd) is the Deputy Registrar of Research and Consultancy at IIT Jammu. You can contact him at hos.rnc@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_team_ashish_dawar",
+      "patterns": [
+        "Tell me about Ashish Dawar",
+        "Who is Ashish Dawar?",
+        "What is Ashish Dawar's role?"
+      ],
+      "responses": [
+        "Ashish Dawar is a Junior Section Officer in the Research and Consultancy team at IIT Jammu. You can contact him at ashish.dawar@iitjammu.ac.in."
+      ]
+    },
+    {
+      "tag": "research_and_consultancy_team_sumit_kumar_sharma",
+      "patterns": [
+        "Tell me about Sumit Kumar Sharma",
+        "Who is Sumit Kumar Sharma?",
+        "What is Sumit Kumar Sharma's role?"
+      ],
+      "responses": [
+        "Sumit Kumar Sharma is a Senior Assistant in the Research and Consultancy team at IIT Jammu. You can contact him at sumit.sharma@iitjammu.ac.in."
+      ]
+    }
+  ]
+}
