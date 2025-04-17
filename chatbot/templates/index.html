@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Svaran: IIT Jammu Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <!-- Main content -->
+    <div class="main-content">
+        <div class="header">
+            <div class="logo-container">
+                <img class="logo" src="../static/logo.jpeg" alt="Svaran Logo">
+                <div class="header-title">Svaran: IIT Jammu Chatbot</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="new-chat">
+                <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
+                    stroke-linejoin="round" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+                New chat
+            </div>
+            <div>
+                <label for="language" style="font-size: 14px;">Language: </label>
+                <select id="language" class="language-select">
+                    <option value="en" selected>English</option>
+                    <option value="es">Spanish</option>
+                    <option value="fr">French</option>
+                    <option value="de">German</option>
+                    <option value="hi">Hindi</option>
+                </select>
+            </div>
+            <button id="resetChat" class="reset-button">Reset Chat</button>
+        </div>
+
+        <!-- Welcome screen (shown when no messages) -->
+        <div class="welcome-container">
+            <div class="welcome-title">How can I help you today?</div>
+            <div class="examples-container">
+                <div class="example-card">
+                    <div class="example-title">About IIT Jammu</div>
+                    <div class="example-text">Tell me about the history and mission of IIT Jammu</div>
+                </div>
+                <div class="example-card">
+                    <div class="example-title">Admissions</div>
+                    <div class="example-text">What are the admission requirements for B.Tech programs?</div>
+                </div>
+                <div class="example-card">
+                    <div class="example-title">Campus Facilities</div>
+                    <div class="example-text">What facilities are available for students at IIT Jammu?</div>
+                </div>
+                <div class="example-card">
+                    <div class="example-title">Research Opportunities</div>
+                    <div class="example-text">What research areas is IIT Jammu known for?</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Messages container (hidden initially, shown when conversation starts) -->
+        <div class="chat-container" style="display: none;">
+            <!-- Messages will be added here -->
+            <div class="message bot-message">
+                <div class="message-content">
+                    <div class="avatar bot-avatar">S</div>
+                    <div class="message-text">Hello! I'm Svaran, the IIT Jammu chatbot. How can I assist you today?
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Input area -->
+        <div class="input-container">
+            <div class="message-input-container">
+                <textarea class="message-input" placeholder="Message Svaran..."></textarea>
+                <button class="send-button">
+                    <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
+                        stroke-linejoin="round" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
